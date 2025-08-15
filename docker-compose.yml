@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  db:
+    image: mysql:8.0 # Or a specific version like mysql:5.7
+    container_name: mysql_db
+    environment:
+      MYSQL_ROOT_PASSWORD: your_root_password # Replace with a strong password
+      MYSQL_DATABASE: your_database_name # Optional: Create a default database
+      MYSQL_USER: your_username # Optional: Create a default user
+      MYSQL_PASSWORD: your_password # Optional: Set password for the default user
+    volumes:
+      - db_data:/var/lib/mysql # Persist data to a named volume
+    ports:
+      - "3306:3306" # Map MySQL port to host
+    networks:
+      - app-network
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin:latest
+    container_name: phpmyadmin_app
+    environment:
+      PMA_HOST: db # Connect to the 'db' service (MySQL)
+      MYSQL_ROOT_PASSWORD: your_root_password # Use the same root password as MySQL
+      PMA_PORT: 3306 # Specify MySQL port
+    ports:
+      - "8080:80" # Map phpMyAdmin port to host (e.g., 8080)
+    depends_on:
+      - db # Ensure MySQL starts before phpMyAdmin
+    networks:
+      - app-network
+
+volumes:
+  db_data: # Define the named volume for MySQL data persistence
+
+networks:
+  app-network: # Define a custom network for inter-service communication
+  
+  
