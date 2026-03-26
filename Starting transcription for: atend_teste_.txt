@@ -1,0 +1,107 @@
+Starting transcription for: atend_teste_01.wav
+--------------
+Speaker A: Sambesp, Alexandra, boa tarde.
+--------------
+--------------
+Speaker B: Oi, Alexandra, boa tarde. Meu nome é Pamela Carina.
+--------------
+--------------
+Speaker A: Boa tarde, a senhora me pergunta como eu posso ajudar? Alexandra, no dia 8 de julho eu liguei aí e o que está acontecendo?
+--------------
+--------------
+Speaker B: Eu tô com uma dívida no meu nome, eu desconheço essa dívida, né? E a proprietária da casa, ela já me mandou até o contrato da casa, que eu fui orientada aí numa numa cabeça mais próxima de mim, né? E aí eu queria saber direitinho como que procede nesse caso, já que eles estão desconversadinhos, não mora no endereço. Eu queria confirmar qual é o protocolo de vocês.
+--------------
+--------------
+Speaker A: A senhora informa que o débito ele tá vinculando o seu CPF e a senhora desconsidera esse valor? Sim.
+--------------
+--------------
+Speaker B: E a proprietária da casa já reconhece o valor, ela aceita até que a dívida seja transferida para ela. Me mandou o contrato de que ela tem a propriedade da casa, né? E eu fui orientada no dia 8 a vir numa agência mais próxima da minha casa e comprovando que eu não estava nesse endereço, contrato que eu tenho de compra e venda da minha casa, que é outro município até, né? O endereço fica em Francisco Morato, eu moro a 2 horas e meia de distância do endereço. E eu moro em Araçoiaba da Serra. E aí, quando eu expliquei tudo isso para atendente, ela me orientou vir numa agência mais próxima e comprovar que eu não morava lá.
+--------------
+--------------
+Speaker A: A orientação seria essa da senhora levar o contrato da senhora.
+--------------
+--------------
+Speaker B: Peraí, deixa eu colocar só um minutinho, só para eu conseguir. Como é o seu nome, moça?
+--------------
+--------------
+Speaker A: Alessandra.
+--------------
+--------------
+Speaker B: Sabrina. Qual é a orientação, por favor?
+--------------
+--------------
+Speaker A: A senhora tá comparecendo até uma unidade presencial mediante um agendamento e levando o contrato que a senhora prova que não estava nesse imóvel que tem a cobrança. Aí, com o contrato, a senhora consegue...
+--------------
+--------------
+Speaker B: Essa regra ela se aplica hoje na Sabesp?
+--------------
+--------------
+Speaker A: Sim.
+--------------
+--------------
+Speaker B: Sim, essa regra é atual na Sabesp então?
+--------------
+--------------
+Speaker A: Sim.
+--------------
+--------------
+Speaker B: Porque eu tô aqui na Sabesp, eu tive aqui dia 4 e a moça me orientou eu trazer o contrato da proprietária, né, do imóvel. E eu trouxe, eu tenho o meu contrato também da minha casa, que eu moro em Araçoiaba, no Ceará. E só que eu tô aqui numa agência e a moça tá falando que não pode fazer esse procedimento. Qual é a orientação de vocês, da Sabete, por favor?
+--------------
+--------------
+Speaker A: A orientação seria a senhora comparecer até a unidade para verificar o processo.
+--------------
+--------------
+Speaker B: Registrado em cartório, né? Direitinho.
+--------------
+--------------
+Speaker A: Tá bom, então posso abrir.
+--------------
+--------------
+Speaker B: Por favor, me fala o protocolo da ligação, por gentileza.
+--------------
+--------------
+Speaker A: Só um protocolo, senhora. Ele é o 12507235. 725035.
+--------------
+--------------
+Speaker B: 2453.
+--------------
+--------------
+Speaker A: 2443. Sim, ok.
+--------------
+--------------
+Speaker B: Deixa eu anotar aqui. Ô Sabrina, deixa eu tirar uma nova dúvida com você. No caso de ser reconhecido que eu não, que eu não residia no endereço e que essa dívida não é minha, qual é o processo depois de eu apresentar todos esses documentos?
+--------------
+--------------
+Speaker A: Senhora teria a opção de, como a senhora informa que a proprietária se ela reconhece esse valor, ela poderia solicitar uma segundazinha, daí ela realizaria o pagamento normalmente.
+--------------
+--------------
+Speaker B: Sim, mas aí a dívida transferia para o nome dela, né? Que eu quero tirar do meu nome a dívida. E isso foi quando eu liguei, foi orientado para mim que eu comprovando que eu não, que eu não tenho nada a ver com isso, que, ó, não sei se você concorda, é a dívida é com a Sabete, ela quer pagar, só que ela não pode pagar hoje a entrada.
+--------------
+--------------
+Speaker A: Então o que ela me falou, Karina, a dívida vindo para o nome.
+--------------
+--------------
+Speaker B: E a moça da ligação que eu liguei no dia 8 confirmou também. Ela falou assim, ó, a dívida vai para o nome da pessoa que usou, para proprietária da casa. Se você comprovar que você não tem nada a ver com isso, a dívida vai para proprietária da casa, né? Essa foi a orientação que a moça me deu. E que inclusive eu tenho até gravada a ligação.
+--------------
+--------------
+Speaker A: Compreendo. É só informação mesmo, senhora, para minha referência. Questão, a senhora teria que comparecer até a unidade levando consigo o comprovante que prove que a senhora não estava no imóvel nesse momento, que o imóvel não pertence à senhora. Entendi, entendi.
+--------------
+--------------
+Speaker B: Aí essa dívida sairia do meu nome, né?
+--------------
+--------------
+Speaker A: Isso.
+--------------
+--------------
+Speaker B: Ah, isso, tá bom então. Obrigada, viu, Sabrina. É mais uma coisa, para eu solicitar essa gravação dessa ligação que a gente tá tendo agora Como que eu faço, por gentileza?
+--------------
+--------------
+Speaker A: Para solicitar a ligação da ligação que estão programando, a gente teria que ter o número de fornecimento da senhora. A gente encaminharia um protocolo para a unidade, daí a unidade enviaria para a senhora.
+--------------
+--------------
+Speaker B: Tá bom, então eu vou solicitar, tá bom? Obrigada, viu, Sabrina?
+--------------
+--------------
+Speaker A: Disponha, senhora, por mim. Obrigada, tchau! Uma boa tarde.
+--------------
+(.venv) @devscientia ➜ /workspaces/OBJDETEC (main) $  print('--------------')
