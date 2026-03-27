@@ -5,6 +5,7 @@ import assemblyai as aai
 # Set your API key in the script if not using environment variables
 # aai.settings.api_key = "YOUR_API_KEY"
 
+
 transcriber = aai.Transcriber()
 
 # Provide a local file path or a publicly accessible URL
