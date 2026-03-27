@@ -16,14 +16,30 @@
 # pip install pyannote.database
 # pip install pyannote.core
 
-
-
-
 from pyannote.audio import Pipeline
-# You must generate a token from hf.co/settings/tokens and accept user conditions for pyannote/speaker-diarization-community-1
-pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization-community-1", use_auth_token="YOUR_HUGGINGFACE_ACCESS_TOKEN")
+import torchaudio
+
+from dotenv import load_dotenv
+import os
+
+# Load the .env file and set the variables
+load_dotenv()
+
+
+# Importa e coloca dentro da sessao
+HF_TOKEN = os.getenv("HF_TOKEN")  
+    
+
+pipeline = Pipeline.from_pretrained(
+    "pyannote/speaker-diarization-3.1",
+    token=HF_TOKEN # Changed from use_auth_token
+)
+
+
 # Run the pipeline on an audio file
 diarization = pipeline("atend_teste_01.wav")
+
+
 for turn, _, speaker in diarization.itertracks(yield_label=True):
     print(f"[{turn.start:.1f}s - {turn.end:.1f}s] {speaker}")
 
