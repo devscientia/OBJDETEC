@@ -22,12 +22,15 @@ def extract_doctors(soup):
 
     for e in entries:
         text = e.get_text(strip=True)
+        print("Texto -- ", text)
 
         if "-" in text and len(text) < 120:
             parts = text.split("-")
             if len(parts) >= 3:
                 cidade = parts[0].strip()
                 estado = parts[-1].strip()
+                
+                print("Cidade -- ", cidade)
 
                 # nome aparece logo depois
                 next_el = e.find_next("strong")
@@ -42,6 +45,8 @@ def extract_doctors(soup):
                         "uf": estado,
                         "link": link
                     })
+                    
+                    print("nome -- ", nome)
     return docs
 
 

@@ -22,3 +22,5 @@ six==1.17.0
 typing-inspection==0.4.2
 typing_extensions==4.15.0
 websockets==16.0
+requests==2.31.1
+beautifulsoup4==4.12.2
