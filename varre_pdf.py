@@ -3,7 +3,7 @@ import pandas as pd
 import re
 
 # Caminho do PDF
-pdf_path = "lista-de-profissionais-mediciana_para_enriquecimento.pdf"
+pdf_path = "lista_medicos.pdf"
 
 registros = []
 
@@ -15,21 +15,30 @@ with pdfplumber.open(pdf_path) as pdf:
             continue
         
         # Quebra por CPF (cada registro começa com XXX.xxx.xxx-XX)
-        blocos = re.split(r'XXX\.\d{3}\.\d{3}-XX', text)
+        #blocos = re.split(r'XXX\.\d{3}\.\d{3}-XX', text)
+        blocos = re.split(r'-XX', text)
         
         for bloco in blocos:
+            #print('\n--- reg antes -- ', bloco)
             bloco = bloco.strip()
+            #print('\n--- reg depois-- ', bloco)
+            
             
             if not bloco:
                 continue
             
             tokens = bloco.split()
-            
+            #print('\n--- tokens -- ', tokens)
             if len(tokens) < 4:
+                #print('\n--- tokens -- ', tokens)
                 continue
             
+            # CPF = primeiro token
+            cpf = tokens[len(tokens)-1] 
+            print('\n--- CPF -- ', cpf)
+            
             # UF = último token (2 letras)
-            uf = tokens[-1]
+            uf = tokens[-2]
             
             # Cidade = tokens antes da UF até detectar padrão
             cidade_tokens = []
@@ -52,10 +61,13 @@ with pdfplumber.open(pdf_path) as pdf:
             # Filtro de segurança
             if len(nome.split()) >= 2:
                 registros.append({
+                    "cpf": cpf,
                     "nome": nome,
                     "cidade": cidade,
                     "UF": uf
                 })
+                print(f"✅ Registro extraído: {cpf} - {nome} - {cidade} - {uf} - {cpf}")
+                
 
 # Criar DataFrame
 df = pd.DataFrame(registros)
