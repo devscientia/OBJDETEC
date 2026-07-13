@@ -1,0 +1,1024 @@
+Linha,Processo,Nome_Proponente,Instituicao,Nota_Final,Comite,Area_Conhecimento,Parecer_Comite,Resultado_Final,Valor_Aprovado
+1,441295/2026-6,LUIS RICARDO SILVA QUEIROZ Universidade Federal da Paraíba,,"9,00",AC,Artes,Recomendada,Aprovada,"R$ 45.866,00"
+1,440461/2026-0,CLAUDIA LAGO Universidade de São Paulo,,"9,94",AC,Comunicação,Recomendada,Aprovada,"R$ 40.000,00"
+1,460236/2025-3,THIAGO HENRIQUE BRAGATO BARROS Universidade Federal do Rio Grande do Sul,,"9,89",AC,Ciência da Informação,Recomendada,Aprovada,"R$ 20.000,00"
+1,441050/2026-3,WILSON APARECIDO COSTA DE AMORIM Universidade de São Paulo,,"8,50",AE,Administração,Recomendada,Aprovada,"R$ 10.815,00"
+1,441094/2026-0,JOSIVANIA SILVA FARIAS Universidade de Brasília,,"8,89",AE,Administração,Recomendada,Aprovada,"R$ 26.000,00"
+1,440490/2026-0,VALTER CARVALHO DE ANDRADE JUNIOR Universidade Federal de Lavras,,"9,44",AG,Agronomia,Recomendada,Aprovada,"R$ 30.000,00"
+1,440822/2026-2,LEO RUFATO Universidade do Estado de Santa Catarina,,"9,11",AG,Agronomia,Recomendada,Aprovada,"R$ 30.000,00"
+1,441303/2026-9,ADALBERTO LUIS VAL Instituto Nacional de Pesquisas da Amazônia,,"10,00",AQ,Recursos Pesqueiros e Engenharia de Pesca,Recomendada,Aprovada,"R$ 50.000,00"
+1,440904/2026-9,LINDOMAR JOSE PENA Fundação Oswaldo Cruz,,"9,82",BI,Biotecnologia,Recomendada,Aprovada,"R$ 60.000,00"
+1,440218/2026-8,ROGER KREUTZ IMMICH Universidade Federal do Rio Grande do Norte,,"9,00",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 10.000,00"
+1,441102/2026-3,DEBORA CHRISTINA MUCHALUAT SAADE Universidade Federal Fluminense,,"9,89",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 15.000,00"
+1,440995/2026-4,IVAN CESAR RIBEIRO Universidade Federal de São Paulo,,"9,33",CS,Direito,Recomendada,Aprovada,"R$ 18.000,00"
+1,440083/2026-5,PAULO ANDRE NIEDERLE Universidade Federal do Rio Grande do Sul,,"8,89",CS,Sociologia,Recomendada,Aprovada,"R$ 30.000,00"
+1,440808/2026-0,HOLMER SAVASTANO JUNIOR Universidade de São Paulo,,"9,94",EC,Engenharia Civil,Recomendada,Aprovada,"R$ 30.000,00"
+1,440163/2026-9,CAMILO ARTURO RODRIGUEZ DIAZ Universidade Federal do Espírito Santo,,"8,22",EE,Engenharia Elétrica,Recomendada,Aprovada,"R$ 29.000,00"
+1,440475/2026-0,CARLOS EDUARDO PANTOJA Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,,"8,11",EE,"Robótica, Mecatrônica e Automação",Recomendada,Aprovada,"R$ 25.000,00"
+1,440987/2026-1,LEANDRO BUSS BECKER Universidade Federal de Santa Catarina,,"8,56",EE,"Robótica, Mecatrônica e Automação",Recomendada,Aprovada,"R$ 31.000,00"
+1,440704/2026-0,CRISTIANO AKAMINE Universidade Presbiteriana Mackenzie,,"7,00",EE,Engenharia Elétrica,Recomendada,Aprovada,"R$ 25.000,00"
+1,440811/2026-0,JOSE LUIS GUEDES DOS SANTOS Universidade Federal de Santa Catarina,,"9,44",EF,Enfermagem,Recomendada,Aprovada,"R$ 30.000,00"
+1,440780/2026-8,JOAO VITOR CAMPOS E SILVA Instituto Juruá,,"7,78",EL,Ecologia,Recomendada,Aprovada,"R$ 10.500,00"
+1,440813/2026-3,RAMIRO GUSTAVO RAMIREZ CAMACHO Universidade Federal da Integração Latino-Americana,,"9,40",EM,Engenharia Mecânica,Recomendada,Aprovada,"R$ 7.250,00"
+1,440399/2026-2,JOSE DANIEL BIASOLI DE MELLO SOCIEDADE BRASILEIRA DE PESQUISA EM MATERIAIS SBPMAT,,"9,60",EM,Engenharia Mecânica,Recomendada,Aprovada,"R$ 14.500,00"
+1,440176/2026-3,EMILIO CARLOS NELLI SILVA Universidade de São Paulo,,"10,00",EM,Engenharia Mecânica,Recomendada,Aprovada,"R$ 29.000,00"
+1,440563/2026-7,LUIS GONZAGA TRABASSO SENAI - Departamento Regional de Minas Gerais,,"9,50",EM,Engenharia Mecânica,Recomendada,Aprovada,"R$ 7.250,00"
+1,440287/2026-0,HENRIQUE SIMAS Universidade Federal de Santa Catarina,,"9,99",EM,Engenharia Mecânica,Recomendada,Aprovada,"R$ 29.000,00"
+1,440371/2026-0,HELCIO RANGEL BARRETO ORLANDE Universidade Federal do Rio de Janeiro,,"9,70",EM,Engenharia Mecânica,Recomendada,Aprovada,"R$ 7.250,00"
+1,441255/2026-4,REGIO DOS SANTOS GOMES COMISSAO NACIONAL DE ENERGIA NUCLEAR,,"9,72",EN,Engenharia Nuclear,Recomendada,Aprovada,"R$ 30.000,00"
+1,440663/2026-1,HAROLDO DE ARAUJO PONTE Universidade Federal do Paraná,,"7,78",EQ,Engenharia Química,Recomendada,Aprovada,"R$ 8.000,00"
+1,440946/2026-3,TIAGO DEBARBA Universidade Federal do Rio Grande do Norte,,"8,72",FA,Física,Recomendada,Aprovada,"R$ 15.000,00"
+1,440866/2026-0,ROGERIO ROSENFELD Universidade Estadual Paulista Júlio de Mesquita Filho,,"10,00",FA,Física,Recomendada,Aprovada,"R$ 60.000,00"
+1,440030/2026-9,MAURO LUCIANO BAESSO Universidade Estadual de Maringá,,"9,11",FA,Física,Recomendada,Aprovada,"R$ 25.000,00"
+1,441150/2026-8,MIRIAN LIZA ALVES FORANCELLI PACHECO Universidade Federal de São Carlos,,"9,00",GC,Geociências,Recomendada,Aprovada,"R$ 35.945,65"
+1,440245/2026-5,GIORGIO BASILICI Universidade Estadual de Campinas,,"8,89",GC,Geociências,Recomendada,Aprovada,"R$ 17.972,83"
+1,440655/2026-9,ALINE FREDERICO Universidade de São Paulo,,"8,89",LL,Letras,Recomendada,Aprovada,"R$ 20.800,00"
+1,440398/2026-6,PLINIO ALMEIDA BARBOSA Universidade Estadual de Campinas,,"9,78",LL,Lingüística,Recomendada,Aprovada,"R$ 130.000,00"
+1,440149/2026-6,PAULO SERGIO MARQUES DOS SANTOS UNIVERSIDADE FEDERAL DO DELTA DO PARNAÍBA,,"9,61",MA,Matemática,Recomendada,Aprovada,"R$ 25.000,00"
+1,440026/2026-1,HELENA MARIA MARCOLLA ARAUJO Universidade Federal do Rio de Janeiro,,"8,94",MF,Morfologia,Recomendada,Aprovada,"R$ 10.000,00"
+1,440901/2026-0,MARCELO TEIXEIRA DOS SANTOS SENAI - Departamento Regional de Santa Catarina,,"8,11",MM,Engenharia de Materiais e Metalúrgica,Recomendada,Aprovada,"R$ 20.000,00"
+1,440344/2026-3,DANIELA BECKER Universidade do Estado de Santa Catarina,,"9,72",MM,Engenharia de Materiais e Metalúrgica,Recomendada,Aprovada,"R$ 35.000,00"
+1,440520/2026-6,ELIANE DE OLIVEIRA FERREIRA Universidade Federal do Rio de Janeiro,,"10,00",MP,Microbiologia,Recomendada,Aprovada,"R$ 35.000,00"
+1,440815/2026-6,RONALDO VALDIR BRIANI Universidade Estadual Paulista Júlio de Mesquita Filho,,"8,39",MS,Fisioterapia e Terapia Ocupacional,Recomendada,Aprovada,"R$ 20.000,00"
+1,440442/2026-5,VIVIAN PETERSEN WAGNER Universidade de São Paulo,,"10,00",OD,Odontologia,Recomendada,Aprovada,"R$ 50.000,00"
+1,440499/2026-7,ANTONIO CARLOS BENDER BURTOLOSO Universidade de São Paulo,,"9,80",QU,Química,Recomendada,Aprovada,"R$ 18.000,00"
+1,460120/2025-5,FERNANDO DE CARVALHO DA SILVA Universidade Federal Fluminense,,"10,00",QU,Química,Recomendada,Aprovada,"R$ 24.000,00"
+1,440338/2026-3,HUBER RIZZO Universidade Federal Rural de Pernambuco,,"9,28",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 15.000,00"
+1,440957/2026-5,ALEXANDRE REIS PERCEQUILLO Universidade de São Paulo,,"9,67",ZO,Zoologia,Recomendada,Aprovada,"R$ 57.600,00"
+2,440983/2026-6,ELIANE SILVEIRA GONCALVES Universidade Federal do Amazonas,,"9,22",AC,Ciência da Informação,Recomendada,Aprovada,"R$ 13.500,00"
+2,440858/2026-7,JANICE MARTINS SITYA APPEL Universidade Federal do Rio Grande,,"9,06",AC,Artes,Recomendada,Aprovada,"R$ 50.229,00"
+2,460019/2025-2,SUZETE VENTURELLI,,"8,06",AC,Artes,Recomendada,Aprovada,"R$ 10.000,00"
+2,441271/2026-0,MARIA MARY FERREIRA Universidade Federal do Maranhão,,"8,28",AC,Ciência da Informação,Recomendada,Aprovada,"R$ 10.000,00"
+2,440207/2026-6,MARIANNA ZATTAR BARRA RIBEIRO Fundação Oswaldo Cruz,,"8,00",AC,Ciência da Informação,Recomendada,Aprovada,"R$ 8.000,00"
+2,440556/2026-0,IVANA APARECIDA BORGES LINS Universidade Federal da Bahia,,"9,33",AC,Ciência da Informação,Recomendada,Aprovada,"R$ 13.500,00"
+2,460146/2025-4,ADIL GIOVANNI LEPRI Universidade Federal da Bahia,,"9,49",AC,Comunicação,Recomendada,Aprovada,"R$ 30.000,00"
+2,440395/2026-7,KATYA SOUZA GUALTER Associação Nacional de Pesquisadores em Dança,,"9,11",AC,Artes,Recomendada,Aprovada,"R$ 39.905,00"
+2,441251/2026-9,MARIA REGINA EMERY QUITES Universidade Federal do Espírito Santo,,"7,28",AC,Artes,Recomendada,Aprovada,"R$ 8.000,00"
+2,441232/2026-4,MAGNO MORAES MELLO Universidade Federal de Minas Gerais,,"7,33",AC,Artes,Recomendada,Aprovada,"R$ 8.000,00"
+2,440177/2026-0,LUIZ SERGIO DA CRUZ DE OLIVEIRA Universidade Federal Fluminense,,"8,44",AC,Artes,Recomendada,Aprovada,"R$ 10.000,00"
+2,440300/2026-6,ELINALDO DA SILVA MEIRA Universidade Federal de Goiás,,"8,39",AC,Artes,Recomendada,Aprovada,"R$ 10.000,00"
+2,440479/2026-6,PEDRO AGUIAR Universidade Federal Fluminense,,"9,47",AC,Comunicação,Recomendada,Aprovada,"R$ 29.000,00"
+2,440391/2026-1,ROGERIO CHRISTOFOLETTI Universidade Federal de Santa Catarina,,"9,78",AC,Comunicação,Recomendada,Aprovada,"R$ 30.000,00"
+2,440856/2026-4,PAULA CARINA DE ARAUJO Universidade Federal do Paraná,,"9,39",AC,Ciência da Informação,Recomendada,Aprovada,"R$ 14.500,00"
+2,440528/2026-7,CRISTINA ROLIM WOLFFENBUTTEL Universidade Estadual do Rio Grande do Sul,,"8,33",AC,Artes,Recomendada,Aprovada,"R$ 8.000,00"
+2,441238/2026-2,TAINA MARIA MAGALHAES FACANHA Universidade do Estado do Pará,,"7,56",AC,Artes,Recomendada,Aprovada,"R$ 8.000,00"
+2,441116/2026-4,MARIO ANDRE WANDERLEY OLIVEIRA Universidade Federal de Sergipe,,"7,78",AC,Artes,Recomendada,Aprovada,"R$ 8.000,00"
+2,441007/2026-0,VANILDO MOUSINHO MARINHO Associação Nacional de Pesquisa e Pós-Graduação em Música,,"9,94",AC,Artes,Recomendada,Aprovada,"R$ 55.000,00"
+2,441131/2026-3,MARIA LUIZA SANTOS BARBOSA Universidade Federal de Sergipe,,"7,22",AC,Artes,Recomendada,Aprovada,"R$ 8.000,00"
+2,440751/2026-8,ANA GUIOMAR REGO SOUZA Universidade Federal de Goiás,,"8,44",AC,Artes,Recomendada,Aprovada,"R$ 10.000,00"
+2,440445/2026-4,RODRIGO MORENO MARQUES Universidade Federal de Minas Gerais,,"9,86",AC,Ciência da Informação,Recomendada,Aprovada,"R$ 14.500,00"
+2,441214/2026-6,VIRGINIA BENTES PINTO Universidade Federal do Ceará,,"8,50",AC,Ciência da Informação,Recomendada,Aprovada,"R$ 11.500,00"
+2,440134/2026-9,RENATO FERRACINI Universidade Estadual de Campinas,,"8,78",AC,Artes,Recomendada,Aprovada,"R$ 18.000,00"
+2,440875/2026-9,CARLOS ALBERTO FERREIRA DA SILVA Universidade Federal de Sergipe,,"8,67",AC,Artes,Recomendada,Aprovada,"R$ 18.000,00"
+2,440596/2026-2,FABIO RODRIGUES CORNIANI Universidade Federal do Sul da Bahia,,"9,33",AC,Comunicação,Recomendada,Aprovada,"R$ 20.000,00"
+2,440258/2026-0,CARLA CANDIDA RIZZOTTO Universidade Federal do Paraná,,"9,83",AC,Comunicação,Recomendada,Aprovada,"R$ 30.000,00"
+2,440288/2026-6,THIAGO CURY LUIZ Universidade Federal de Mato Grosso,,"9,89",AC,Comunicação,Recomendada,Aprovada,"R$ 40.000,00"
+2,441034/2026-8,CLAUDEMIR EDSON VIANA Universidade Federal do Oeste do Pará,,"9,69",AC,Comunicação,Recomendada,Aprovada,"R$ 30.000,00"
+2,440562/2026-0,CRISTIAN BERRIO ZAPATA Universidade Federal do Pará,,"9,92",AC,Ciência da Informação,Recomendada,Aprovada,"R$ 27.000,00"
+2,440629/2026-8,ZENY DUARTE DE MIRANDA Universidade Federal da Bahia,,"8,94",AC,Ciência da Informação,Recomendada,Aprovada,"R$ 12.500,00"
+2,441132/2026-0,MARCUS VINICIUS PEREIRA DA SILVA Fundação Oswaldo Cruz,,"9,67",AC,Ciência da Informação,Recomendada,Aprovada,"R$ 14.500,00"
+2,440545/2026-9,GUSTAVO SILVA SALDANHA Universidade Federal do Rio de Janeiro,,"9,91",AC,Ciência da Informação,Recomendada,Aprovada,"R$ 17.500,00"
+2,440031/2026-5,FRANCISCO CARLOS PALETTA Universidade de São Paulo,,"8,46",AC,Ciência da Informação,Recomendada,Aprovada,"R$ 11.500,00"
+2,460184/2025-3,ADILSON LUIZ PINTO Universidade Federal de Santa Catarina,,"8,11",AC,Ciência da Informação,Recomendada,Aprovada,"R$ 10.000,00"
+2,441100/2026-0,JUSSARA GOULART DA SILVA Universidade Federal de Uberlândia,,"8,50",AE,Administração,Recomendada,Aprovada,"R$ 26.000,00"
+2,440153/2026-3,LUCIANO FERREIRA DA SILVA Universidade Nove de Julho,,"8,89",AE,Administração,Recomendada,Aprovada,"R$ 26.985,00"
+2,441126/2026-0,MOACIR DE MIRANDA OLIVEIRA JUNIOR Faculdade FIA de Administração e Negócios,,"8,24",AE,Administração,Recomendada,Aprovada,"R$ 20.000,00"
+2,440644/2026-7,ANDRES RODRIGUEZ VELOSO Universidade de São Paulo,,"9,39",AE,Administração,Recomendada,Aprovada,"R$ 61.000,00"
+2,440294/2026-6,ANDREA VIVIANA WAICHMAN INSTITUTO FEDERAL DO PARANA - CAMPUS CURITIBA,,"8,28",AE,Administração,Recomendada,Aprovada,"R$ 24.800,00"
+2,440747/2026-0,ANA LUCIA VITALE TORKOMIAN Associação Fórum Nacional de Gestores de Inovação e Transferência de Tecnol,,"8,27",AE,Administração,Recomendada,Aprovada,"R$ 24.380,00"
+2,440656/2026-5,GIOVANNA PEZARICO Universidade Tecnológica Federal do Paraná,,"9,56",AE,Administração,Recomendada,Aprovada,"R$ 61.200,00"
+2,460155/2025-3,DUARCIDES FERREIRA MARIOSA Pontifícia Universidade Católica de Campinas,,"8,44",AE,Administração,Recomendada,Aprovada,"R$ 25.200,00"
+2,441088/2026-0,ANA MARIA DE ALBUQUERQUE VASCONCELLOS Universidade da Amazônia,,"9,33",AE,Administração,Recomendada,Aprovada,"R$ 45.620,00"
+2,460112/2025-2,SUSANA CARLA FARIAS PEREIRA Universidade de Fortaleza,,"9,67",AE,Administração,Recomendada,Aprovada,"R$ 64.000,00"
+2,441036/2026-0,CLAUDIA SOUZA PASSADOR Soc. Bras. de Administração Publica,,"9,22",AE,Administração,Recomendada,Aprovada,"R$ 44.000,00"
+2,440304/2026-1,VINICIUS COSTA DA SILVA ZONATTO Associação Nacional de Programas de Pós-Graduação em Ciências Contábeis,,"9,72",AE,Administração,Recomendada,Aprovada,"R$ 65.000,00"
+2,440818/2026-5,ALTAIR BORGERT Universidade Federal Rural de Pernambuco,,"8,78",AE,Administração,Recomendada,Aprovada,"R$ 13.000,00"
+2,440230/2026-8,ALISON MARTINS MEURER Universidade Federal do Paraná,,"8,22",AE,Administração,Recomendada,Aprovada,"R$ 7.000,00"
+2,460076/2025-6,ALEXANDRE EVARISTO PINTO Universidade de São Paulo,,"9,67",AE,Administração,Recomendada,Aprovada,"R$ 15.000,00"
+2,440534/2026-7,MARCELO MACHADO DE FREITAS Universidade Federal de Santa Catarina,,"8,44",AE,Administração,Recomendada,Aprovada,"R$ 12.000,00"
+2,440256/2026-7,ANDERSON TADEU MARQUES CAVALCANTE Associação Keynesiana Brasileira,,"9,11",AE,Economia,Recomendada,Aprovada,"R$ 25.000,00"
+2,440131/2026-0,MARILDA ANTONIA DE OLIVEIRA SOTOMAYOR Universidade de São Paulo,,"9,22",AE,Economia,Recomendada,Aprovada,"R$ 25.500,00"
+2,440463/2026-2,ADELAR FOCHEZATTO Pontifícia Universidade Católica do Rio Grande do Sul,,"9,44",AE,Economia,Recomendada,Aprovada,"R$ 40.000,00"
+2,440924/2026-0,BERNARDO PALHARES CAMPOLINA DINIZ Universidade Federal de Minas Gerais,,"9,00",AE,Economia,Recomendada,Aprovada,"R$ 16.215,85"
+2,440013/2026-7,ZILDA JOAQUINA COHEN GAMA DOS SANTOS Sociedade Brasileira de Economia Ecológica,,"8,89",AE,Economia,Recomendada,Aprovada,"R$ 16.000,00"
+2,440040/2026-4,RODRIGO SIQUEIRA RODRIGUEZ Universidade do Estado do Rio de Janeiro,,"9,78",AE,Economia,Recomendada,Aprovada,"R$ 44.000,00"
+2,440214/2026-2,JONNY MATEUS RODRIGUES Fundação Getúlio Vargas,,"9,28",AE,Administração,Recomendada,Aprovada,"R$ 45.000,00"
+2,440257/2026-3,PAULA CARVALHO PEREDA Sociedade Brasileira de Econometria,,"9,67",AE,Economia,Recomendada,Aprovada,"R$ 40.000,00"
+2,440006/2026-0,RAFAEL FELIPE SCHIOZER Sociedade Brasileira de Finanças,,"8,67",AE,Economia,Recomendada,Aprovada,"R$ 15.000,00"
+2,440052/2026-2,CASSIA KELY FAVORETTO Associação Nacional de Centros de Pós-Graduação em Economia,,"10,00",AE,Economia,Recomendada,Aprovada,"R$ 55.000,00"
+2,440762/2026-0,PAULO IVAN FERNANDES JUNIOR Empresa Brasileira de Pesquisa Agropecuária,,"9,53",AG,Agronomia,Recomendada,Aprovada,"R$ 39.000,00"
+2,440082/2026-9,QUIRIJN DE JONG VAN LIER Pontifícia Universidade Católica do Rio de Janeiro,,"8,44",AG,Agronomia,Recomendada,Aprovada,"R$ 10.000,00"
+2,440733/2026-0,EVERALDO ZONTA Universidade Federal Rural do Rio de Janeiro,,"9,12",AG,Agronomia,Recomendada,Aprovada,"R$ 12.000,00"
+2,460165/2025-9,NOELI JUAREZ FERLA Universidade do Vale do Taquari - UNIVATES,,"9,22",AG,Agronomia,Recomendada,Aprovada,"R$ 12.304,00"
+2,460127/2025-0,PAULO FELLIPE CRISTALDO Universidade Federal Rural de Pernambuco,,"9,83",AG,Agronomia,Recomendada,Aprovada,"R$ 45.000,00"
+2,440337/2026-7,VALDIR MARCOS STEFENON Universidade Federal de Santa Catarina,,"9,06",AG,Agronomia,Recomendada,Aprovada,"R$ 30.000,00"
+2,460122/2025-8,LUCAS RIOS DO AMARAL Associação Brasileira de Agricultura de Precisão,,"8,33",AG,Agronomia,Recomendada,Aprovada,"R$ 20.000,00"
+2,441254/2026-8,FELIPE AUGUSTO MORETTI FERREIRA PINTO Empresa de Pesquisa Agropecuária e Extensão Rural de Santa Catarina,,"9,00",AG,Agronomia,Recomendada,Aprovada,"R$ 20.000,00"
+2,440817/2026-9,KELLY TAGIANNE SANTOS DE SOUZA Universidade Federal de Roraima,,"8,20",AG,Agronomia,Recomendada,Aprovada,"R$ 20.000,00"
+2,441054/2026-9,FELIPE BERMUDEZ PEREIRA Empresa de Pesquisa Agropecuária e Extensão Rural de Santa Catarina,,"8,88",AG,Agronomia,Recomendada,Aprovada,"R$ 20.000,00"
+2,441283/2026-8,MARIE LUISE CAROLINA BARTZ Universidade Federal de Santa Catarina,,"9,29",AG,Agronomia,Recomendada,Aprovada,"R$ 18.000,00"
+2,440409/2026-8,RAFFAELLA ROSSETTO Instituto Agronômico de Campinas,,"9,28",AG,Agronomia,Recomendada,Aprovada,"R$ 18.912,00"
+2,440921/2026-0,WARLEY MARCOS NASCIMENTO Empresa Brasileira de Pesquisa Agropecuária,,"9,74",AG,Agronomia,Recomendada,Aprovada,"R$ 30.000,00"
+2,460128/2025-6,ALFREDO JUNIOR PAIOLA ALBRECHT Universidade Federal do Paraná,,"8,89",AG,Agronomia,Recomendada,Aprovada,"R$ 30.000,00"
+2,440979/2026-9,PEDRO LUIS DA COSTA AGUIAR ALVES Universidade Estadual Paulista Júlio de Mesquita Filho,,"8,87",AG,Agronomia,Recomendada,Aprovada,"R$ 20.000,00"
+2,460167/2025-1,MATEUS FERREIRA SANTANA Universidade Federal de Viçosa,,"9,01",AG,Agronomia,Recomendada,Aprovada,"R$ 12.304,00"
+2,440011/2026-4,DRAUZIO EDUARDO NARETTO RANGEL Universidade Federal de São Paulo,,"8,56",AG,Agronomia,Recomendada,Aprovada,"R$ 8.000,00"
+2,460125/2025-7,LILIAN MARGARETE PAES GUIMARAES Universidade Federal Rural de Pernambuco,,"9,50",AG,Agronomia,Recomendada,Aprovada,"R$ 45.000,00"
+2,440676/2026-6,FERNANDO AUGUSTO HENNING Associação Brasileira de Tecnologia de Sementes,,"9,11",AG,Agronomia,Recomendada,Aprovada,"R$ 30.000,00"
+2,441174/2026-4,EDERLAN DE SOUZA FERREIRA Universidade Federal da Bahia,,"9,56",AL,Ciência e Tecnologia de Alimentos,Recomendada,Aprovada,"R$ 30.000,00"
+2,440590/2026-4,MARIO ROBERTO MAROSTICA JUNIOR Universidade Estadual de Campinas,,"9,28",AL,Ciência e Tecnologia de Alimentos,Recomendada,Aprovada,"R$ 20.000,00"
+2,440260/2026-4,PAULO JOSE DO AMARAL SOBRAL Universidade de São Paulo,,"9,44",AL,Ciência e Tecnologia de Alimentos,Recomendada,Aprovada,"R$ 20.000,00"
+2,440472/2026-1,JESAIAS ISMAEL DA COSTA Universidade Federal do Amazonas,,"9,89",AQ,Recursos Pesqueiros e Engenharia de Pesca,Recomendada,Aprovada,"R$ 35.000,00"
+2,440110/2026-2,SCHEILA ANELISE PEREIRA DUTRA Universidade Federal de Santa Catarina,,"9,83",AQ,Recursos Pesqueiros e Engenharia de Pesca,Recomendada,Aprovada,"R$ 30.000,00"
+2,440154/2026-0,MARGARIDA MARIA BARROS Universidade Estadual Paulista Júlio de Mesquita Filho,,"9,67",AQ,Recursos Pesqueiros e Engenharia de Pesca,Recomendada,Aprovada,"R$ 15.000,00"
+2,440666/2026-0,PAULO MASCARELLO BISCH Sociedade Brasileira de Biofísica,,"10,00",BF,Biofísica,Recomendada,Aprovada,"R$ 82.000,00"
+2,460157/2025-6,ALICIA JULIANA KOWALTOWSKI Sociedade Brasileira de Bioquímica e Biologia Molecular,,"10,00",BF,Bioquímica,Recomendada,Aprovada,"R$ 82.000,00"
+2,440375/2026-6,EMILIANO DE OLIVEIRA BARRETO Universidade Federal de Alagoas,,"10,00",BF,Farmacologia,Recomendada,Aprovada,"R$ 82.000,00"
+2,440834/2026-0,EDUARDO COLOMBARI Federação das Sociedades de Biologia Experimental,,"10,00",BF,Fisiologia,Recomendada,Aprovada,"R$ 82.000,00"
+2,441298/2026-5,ILMA SIMONI BRUM DA SILVA Sociedade Brasileira de Fisiologia,,"10,00",BF,Fisiologia,Recomendada,Aprovada,"R$ 82.000,00"
+2,440192/2026-9,KAREN RENATA HERCULANO MATOS OLIVEIRA Sociedade Brasileira de Neurociências e Comportamento,,"10,00",BF,Fisiologia,Recomendada,Aprovada,"R$ 82.000,00"
+2,440335/2026-4,CLAUDIA DO O PESSOA Universidade Federal do Ceará,,"9,58",BI,Biotecnologia,Recomendada,Aprovada,"R$ 31.444,00"
+2,441075/2026-6,FRANCIS DE MORAIS FRANCO NUNES Universidade Federal de São Carlos,,"9,54",BI,Biotecnologia,Recomendada,Aprovada,"R$ 13.085,00"
+2,441236/2026-0,AKIRA HOMMA Fundação Oswaldo Cruz,,"9,72",BI,Biotecnologia,Recomendada,Aprovada,"R$ 40.000,00"
+2,440670/2026-8,VESPASIANO BORGES DE PAIVA NETO Universidade Federal do Vale do São Francisco,,"9,99",BO,Botânica,Recomendada,Aprovada,"R$ 40.000,00"
+2,440138/2026-4,EDNA SCREMIN-DIAS Universidade Federal de Mato Grosso do Sul,,"10,00",BO,Botânica,Recomendada,Aprovada,"R$ 60.000,00"
+2,441021/2026-3,JULIANO RODRIGUES GIMENEZ Universidade de Caxias do Sul,,"9,60",CA,Ciências Ambientais,Recomendada,Aprovada,"R$ 64.573,90"
+2,440483/2026-3,ALEXEIA BARUFATTI Universidade Federal da Grande Dourados,,"9,80",CA,Ciências Ambientais,Recomendada,Aprovada,"R$ 82.654,59"
+2,441211/2026-7,ANA JOSEFINA FERRARI Universidade Federal do Paraná,,"9,70",CA,Ciências Ambientais,Recomendada,Aprovada,"R$ 69.152,62"
+2,440908/2026-4,TACIANA TOLEDO DE ALMEIDA ALBUQUERQUE Universidade Federal de Minas Gerais,,"9,90",CA,Geociências,Recomendada,Aprovada,"R$ 83.618,89"
+2,440226/2026-0,RAFAEL DIAS ARAUJO Universidade Federal de Uberlândia,,"9,50",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 40.000,00"
+2,440284/2026-0,AGMA JUCI MACHADO TRAINA Universidade de São Paulo,,"9,70",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 40.000,00"
+2,440715/2026-1,ANDREIA LIBORIO SAMPAIO Universidade Federal do Ceará,,"9,09",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 25.000,00"
+2,441181/2026-0,EDUARDO SANTANA DE ALMEIDA Universidade Federal da Bahia,,"8,00",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 12.000,00"
+2,441117/2026-0,PAULO ROBERTO MIRANDA MEIRELLES Universidade de São Paulo,,"9,80",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 40.000,00"
+2,440626/2026-9,AMAURY ANTONIO DE CASTRO JUNIOR Universidade Federal de Mato Grosso do Sul,,"8,50",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 15.000,00"
+2,440535/2026-3,IWENS GERVASIO SENE JUNIOR Universidade Federal de Goiás,,"8,80",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 15.000,00"
+2,440325/2026-9,SERGIO TEIXEIRA DE CARVALHO Universidade Federal de Goiás,,"8,60",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 15.000,00"
+2,440100/2026-7,GRAZIELA FERREIRA GUARDA Universidade Federal Fluminense,,"7,90",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 12.000,00"
+2,440054/2026-5,JOAO BATISTA FLORINDO Universidade Estadual de Campinas,,"7,80",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 12.000,00"
+2,440179/2026-2,LUCIANA DE OLIVEIRA BERRETTA Universidade Federal de Goiás,,"8,70",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 15.000,00"
+2,440175/2026-7,RAFAEL FERREIRA LEITE DE MELLO Universidade Federal Rural de Pernambuco,,"9,60",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 25.000,00"
+2,440242/2026-6,THIAGO MEIRELLES VENTURA Universidade Federal de Mato Grosso,,"9,30",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 40.000,00"
+2,441154/2026-3,FELIPE GOMES DE OLIVEIRA Universidade Federal do Amazonas,,"8,20",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 15.000,00"
+2,441058/2026-4,JOAO PAULO SILVA DO MONTE LIMA Universidade Federal de Goiás,,"6,50",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 10.000,00"
+2,440929/2026-1,LUIS ALONSO MANSILLA ALVAREZ Laboratório Nacional de Computação Científica,,"7,70",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 12.000,00"
+2,440888/2026-3,SAMUEL XAVIER DE SOUZA Universidade Federal do Rio Grande do Norte,,"8,30",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 15.000,00"
+2,440586/2026-7,ANDREA GOMES CAMPOS Universidade Federal de Ouro Preto,,"8,90",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 15.000,00"
+2,441104/2026-6,RENATO PORTUGAL Laboratório Nacional de Computação Científica,,"8,10",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 12.000,00"
+2,440699/2026-6,DIANNE SCHERLY VARELA DE MEDEIROS Universidade Federal Fluminense,,"9,00",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 25.000,00"
+2,440266/2026-2,GEORGE MARCONI DE ARAUJO LIMA Universidade Federal da Bahia,,"9,40",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 25.000,00"
+2,441261/2026-4,ANDRE PIMENTA FREIRE Universidade Federal de Lavras,,"9,20",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 40.000,00"
+2,441124/2026-7,LEOBINO NASCIMENTO SAMPAIO Universidade Federal da Bahia,,"9,90",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 25.000,00"
+2,440839/2026-2,WEVERTON LUIS DA COSTA CORDEIRO Universidade Federal do Rio Grande do Sul,,"10,00",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 95.000,00"
+2,440146/2026-7,JUSSARA MARQUES DE ALMEIDA GONCALVES Universidade Federal de Minas Gerais,,"8,40",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 15.000,00"
+2,441196/2026-8,ANA PAULA DA SILVA Universidade Federal Fluminense,,"8,94",CS,Antropologia,Recomendada,Aprovada,"R$ 20.000,00"
+2,440355/2026-5,JULIANA CESARIO ALVIM GOMES Universidade do Estado do Rio de Janeiro,,"9,29",CS,Direito,Recomendada,Aprovada,"R$ 27.000,00"
+2,440729/2026-2,SIDNEI MACHADO Universidade Federal do Paraná,,"9,68",CS,Direito,Recomendada,Aprovada,"R$ 18.000,00"
+2,440784/2026-3,MONIA CLARISSA HENNIG LEAL Universidade de Santa Cruz do Sul,,"9,83",CS,Direito,Recomendada,Aprovada,"R$ 15.000,00"
+2,440232/2026-0,SIDNEY CESAR SILVA GUERRA Universidade Federal do Rio de Janeiro,,"9,67",CS,Direito,Recomendada,Aprovada,"R$ 18.000,00"
+2,441006/2026-4,DANIELLE ANNE PAMPLONA Pontifícia Universidade Católica do Paraná,,"9,70",CS,Direito,Recomendada,Aprovada,"R$ 27.000,00"
+2,440568/2026-9,MARIA CLAUDIA DA SILVA ANTUNES DE SOUZA Universidade do Vale do Itajaí,,"9,56",CS,Direito,Recomendada,Aprovada,"R$ 27.000,00"
+2,440057/2026-4,LUANNA TOMAZ DE SOUZA Universidade Federal do Pará,,"9,04",CS,Direito,Recomendada,Aprovada,"R$ 27.000,00"
+2,440332/2026-5,LUIS FELIPE MIGUEL Universidade de Brasília,,"9,56",CS,Ciência Política,Recomendada,Aprovada,"R$ 20.000,00"
+2,441010/2026-1,GLAUCO PERES DA SILVA Universidade de São Paulo,,"9,83",CS,Ciência Política,Recomendada,Aprovada,"R$ 20.000,00"
+2,460045/2025-3,JOSE GLEBSON VIEIRA Universidade Federal do Rio Grande do Norte,,"8,67",CS,Antropologia,Recomendada,Aprovada,"R$ 10.000,00"
+2,440907/2026-8,RENATA MIRANDOLA BICHIR Associação Nacional de Pós-Graduação e Pesquisa em Ciências Sociais,,"9,56",CS,Sociologia,Recomendada,Aprovada,"R$ 55.000,00"
+2,440840/2026-0,BRENO MARQUES BRINGEL Universidade do Estado do Rio de Janeiro,,"9,89",CS,Sociologia,Recomendada,Aprovada,"R$ 60.000,00"
+2,440793/2026-2,GUSTAVO CESAR MACHADO CABRAL Universidade Federal do Ceará,,"9,60",CS,Direito,Recomendada,Aprovada,"R$ 27.000,00"
+2,440303/2026-5,ADRIANA APARECIDA MARQUES Associação Brasileira de Estudos de Defesa,,"9,67",CS,Ciência Política,Recomendada,Aprovada,"R$ 20.000,00"
+2,440619/2026-2,HORACIO ANTUNES DE SANT ANA JUNIOR Universidade Federal do Maranhão,,"7,22",CS,Sociologia,Recomendada,Aprovada,"R$ 10.000,00"
+2,441256/2026-0,MARCO AURELIO SANTANA Universidade Federal do Rio de Janeiro,,"9,00",CS,Sociologia,Recomendada,Aprovada,"R$ 15.000,00"
+2,440557/2026-7,SAYONARA DE AMORIM GONCALVES LEAL Universidade de Brasília,,"7,56",CS,Sociologia,Recomendada,Aprovada,"R$ 15.000,00"
+2,441071/2026-0,BIANCA STELLA PINHEIRO DE FREIRE MEDEIROS Universidade de São Paulo,,"7,44",CS,Sociologia,Recomendada,Aprovada,"R$ 10.000,00"
+2,440672/2026-0,FABIO MALLART MOREIRA Universidade Federal do Amazonas,,"9,11",CS,Sociologia,Recomendada,Aprovada,"R$ 15.000,00"
+2,440609/2026-7,NILSON WEISHEIMER Universidade Federal do Recôncavo da Bahia,,"8,44",CS,Sociologia,Recomendada,Aprovada,"R$ 15.000,00"
+2,460235/2025-7,ANDREA BROWNING GILL Associação Brasileira de Relações Internacionais,,"9,63",CS,Ciência Política,Recomendada,Aprovada,"R$ 20.000,00"
+2,440360/2026-9,ROBERTO VILCHEZ YAMATO Pontifícia Universidade Católica do Rio de Janeiro,,"9,97",CS,Ciência Política,Recomendada,Aprovada,"R$ 20.000,00"
+2,440802/2026-1,DIEGO SILVA MENEZES Associação Brasileira das Instituições de Pesquisa Tecnológica,,"9,39",CS,Ciência Política,Recomendada,Aprovada,"R$ 11.000,00"
+2,440448/2026-3,JULIANE SANT ANA BENTO Universidade Federal do Rio Grande do Sul,,"9,00",CS,Direito,Recomendada,Aprovada,"R$ 27.000,00"
+2,440518/2026-1,VERA LUCIA SILVEIRA BOTTA FERRANTE Universidade de Araraquara,,"7,33",CS,Sociologia,Recomendada,Aprovada,"R$ 10.000,00"
+2,440342/2026-0,LUIS FELIPE KOJIMA HIRANO Universidade Federal de Goiás,,"9,78",CS,Antropologia,Recomendada,Aprovada,"R$ 20.000,00"
+2,440016/2026-6,NILSON ALMINO DE FREITAS Universidade Estadual Vale do Acaraú,,"8,74",CS,Antropologia,Recomendada,Aprovada,"R$ 10.000,00"
+2,441119/2026-3,IZABELA MARIA TAMASO Universidade Federal de Goiás,,"8,78",CS,Antropologia,Recomendada,Aprovada,"R$ 15.000,00"
+2,440244/2026-9,MARIA EUGENIA DOMINGUEZ Universidade Federal de Santa Catarina,,"8,61",CS,Antropologia,Recomendada,Aprovada,"R$ 10.000,00"
+2,440689/2026-0,LUCIA EILBAUM Universidade Federal Fluminense,,"8,71",CS,Antropologia,Recomendada,Aprovada,"R$ 10.000,00"
+2,440961/2026-2,ANGELA ARAUJO DA SILVEIRA ESPINDOLA Universidade Federal de Santa Maria,,"9,08",CS,Direito,Recomendada,Aprovada,"R$ 27.000,00"
+2,441135/2026-9,JULIANA NEUENSCHWANDER MAGALHAES Universidade Federal do Rio de Janeiro,,"9,72",CS,Direito,Recomendada,Aprovada,"R$ 15.000,00"
+2,440627/2026-5,ARKLEY MARQUES BANDEIRA Universidade Federal do Maranhão,,"9,33",CS,Arqueologia,Recomendada,Aprovada,"R$ 40.000,00"
+2,460119/2025-7,RAFAEL GUEDES MILHEIRA Universidade Federal de Pelotas,,"9,00",CS,Arqueologia,Recomendada,Aprovada,"R$ 26.000,00"
+2,440489/2026-1,JAMES VENTURINI Universidade Estadual Paulista Júlio de Mesquita Filho,,"9,22",DC,Divulgação Científica,Recomendada,Aprovada,"R$ 136.000,00"
+2,440323/2026-6,KATIA CORREIA GORINI Universidade Federal do Rio de Janeiro,,"8,67",DC,Divulgação Científica,Recomendada,Aprovada,"R$ 138.000,00"
+2,440289/2026-2,LIA PALETTA BENATTI Universidade Federal de Juiz de Fora,,"7,44",DI,Desenho Industrial,Recomendada,Aprovada,"R$ 17.000,00"
+2,441089/2026-7,ROSINEI BATISTA RIBEIRO Centro Estadual de Educação Tecnológica Paula Souza,,"7,33",DI,Desenho Industrial,Recomendada,Aprovada,"R$ 7.000,00"
+2,440910/2026-9,EDUARDO ARIEL DE SOUZA TEIXEIRA Centro de Estudos e Sistemas Avançados do Recife,,"7,78",DI,Desenho Industrial,Recomendada,Aprovada,"R$ 46.000,00"
+2,440819/2026-1,JOSE PINHEIRO LOPES NETO Universidade Federal de Campina Grande,,"9,03",EA,Engenharia Agrícola,Recomendada,Aprovada,"R$ 25.000,00"
+2,440060/2026-5,MANOEL VALNIR JUNIOR Instituto Federal do Ceará,,"9,11",EA,Engenharia Agrícola,Recomendada,Aprovada,"R$ 25.000,00"
+2,441179/2026-6,SILVIO CARLOS RIBEIRO VIEIRA LIMA ABID-ASSOC.BRAS.DE IRRIGACAO E DRENAGEM,,"9,33",EA,Engenharia Agrícola,Recomendada,Aprovada,"R$ 30.000,00"
+2,440255/2026-0,BERNARDO FONSECA TUTIKIAN Universidade do Vale do Rio dos Sinos,,"9,17",EC,Engenharia Civil,Recomendada,Aprovada,"R$ 9.575,00"
+2,440198/2026-7,ROMILDO DIAS TOLEDO FILHO Universidade Federal do Rio de Janeiro,,"9,44",EC,Engenharia Civil,Recomendada,Aprovada,"R$ 17.275,00"
+2,440137/2026-8,ENIO JOSE PAZINI FIGUEIREDO Universidade Federal de Goiás,,"8,94",EC,Engenharia Civil,Recomendada,Aprovada,"R$ 9.275,00"
+2,440075/2026-2,DANIEL VERAS RIBEIRO Universidade Federal da Bahia,,"8,72",EC,Engenharia Civil,Recomendada,Aprovada,"R$ 8.275,00"
+2,440592/2026-7,EDNA POSSAN Universidade Federal da Integração Latino-Americana,,"9,72",EC,Engenharia Civil,Recomendada,Aprovada,"R$ 27.275,00"
+2,440597/2026-9,ANTONIO EDUARDO BEZERRA CABRAL Universidade Federal do Ceará,,"9,11",EC,Engenharia Civil,Recomendada,Aprovada,"R$ 12.275,00"
+2,440426/2026-0,SAULO ROCHA FERREIRA Universidade Federal de Lavras,,"8,28",EC,Engenharia Civil,Recomendada,Aprovada,"R$ 7.275,00"
+2,440136/2026-1,SUZANA MOREIRA AVILA Universidade de Brasília,,"9,00",EC,Engenharia Civil,Recomendada,Aprovada,"R$ 17.275,00"
+2,460145/2025-8,ALESSANDRA NICODEMOS OLIVEIRA SILVA Universidade Federal do Rio de Janeiro,,"9,61",ED,Educação,Recomendada,Aprovada,"R$ 40.000,00"
+2,441065/2026-0,URSULA ADELAIDE DE LELIS Universidade Estadual de Montes Claros,,"9,33",ED,Educação,Recomendada,Aprovada,"R$ 45.000,00"
+2,440286/2026-3,CARINA ALEXANDRA RONDINI Universidade Estadual Paulista Júlio de Mesquita Filho,,"9,11",ED,Educação,Recomendada,Aprovada,"R$ 45.000,00"
+2,440386/2026-8,DEBORA REGINA DE PAULA NUNES Universidade Federal do Rio Grande do Norte,,"9,17",ED,Educação,Recomendada,Aprovada,"R$ 55.000,00"
+2,440171/2026-1,FERNANDA MALINOSKY COELHO DA ROSA Universidade Federal de Mato Grosso do Sul,,"9,22",ED,Educação,Recomendada,Aprovada,"R$ 55.000,00"
+2,441296/2026-2,LUCIA GRACIA FERREIRA TRINDADE Universidade Estadual do Sudoeste da Bahia,,"9,00",ED,Educação,Recomendada,Aprovada,"R$ 45.000,00"
+2,440803/2026-8,JOAO EDUARDO FERNANDES RAMOS Universidade de Brasília,,"9,89",ED,Educação,Recomendada,Aprovada,"R$ 45.000,00"
+2,440694/2026-4,RONEI GUARESI Universidade Estadual do Sudoeste da Bahia,,"9,06",ED,Educação,Recomendada,Aprovada,"R$ 30.000,00"
+2,440931/2026-6,DARIO FIORENTINI Universidade Estadual de Campinas,,"9,94",ED,Educação,Recomendada,Aprovada,"R$ 33.000,00"
+2,440155/2026-6,GEORGIANA EURIDES DE CARVALHO MARQUES Instituto Federal do Maranhão,,"10,00",ED,Educação,Recomendada,Aprovada,"R$ 70.000,00"
+2,460027/2025-5,BRUNO DOS SANTOS PASTORIZA Universidade Federal de Pelotas,,"10,00",ED,Educação,Recomendada,Aprovada,"R$ 70.000,00"
+2,440090/2026-1,MARIA CRISTINA PANSERA DE ARAUJO Universidade Regional do Noroeste do Estado do Rio Grande do Sul,,"9,67",ED,Educação,Recomendada,Aprovada,"R$ 55.000,00"
+2,441083/2026-9,DIONI PAULO PASTORIO Universidade Federal do Rio Grande do Sul,,"9,56",ED,Educação,Recomendada,Aprovada,"R$ 35.000,00"
+2,440133/2026-2,WALTER OMAR KOHAN Universidade do Estado do Rio de Janeiro,,"9,78",ED,Educação,Recomendada,Aprovada,"R$ 50.000,00"
+2,440755/2026-3,LYGIA DE SOUSA VIEGAS Universidade Federal da Bahia,,"9,78",ED,Educação,Recomendada,Aprovada,"R$ 60.000,00"
+2,441267/2026-2,VIVIANE DE BONA Universidade Federal de Pernambuco,,"9,22",ED,Educação,Recomendada,Aprovada,"R$ 45.000,00"
+2,440086/2026-4,CESAR AUGUSTO CASTRO Universidade Federal do Maranhão,,"9,67",ED,Educação,Recomendada,Aprovada,"R$ 60.000,00"
+2,440165/2026-1,ROBERTO LENT Instituto D'Or de Pesquisa e Ensino,,"9,78",ED,Educação,Recomendada,Aprovada,"R$ 60.000,00"
+2,440384/2026-5,JEAN MAC COLE TAVARES SANTOS Universidade do Estado do Rio Grande do Norte,,"9,28",ED,Educação,Recomendada,Aprovada,"R$ 55.000,00"
+2,441286/2026-7,JOSE AIRTON DE FREITAS PONTES JUNIOR Universidade Estadual do Ceará,,"9,33",ED,Educação,Recomendada,Aprovada,"R$ 55.000,00"
+2,440104/2026-2,GUSTAVO BRUNO BICALHO GONCALVES Universidade Federal do Sul da Bahia,,"9,06",ED,Educação,Recomendada,Aprovada,"R$ 50.000,00"
+2,441197/2026-4,ANGELA MARIA GONCALVES DE OLIVEIRA Universidade Federal do Amazonas,,"9,00",ED,Educação,Recomendada,Aprovada,"R$ 55.000,00"
+2,440307/2026-0,LUCIANA PEDROSA MARCASSA Universidade Federal de Santa Catarina,,"9,78",ED,Educação,Recomendada,Aprovada,"R$ 60.000,00"
+2,440721/2026-1,FABIANE MAIA GARCIA Universidade Federal do Amazonas,,"9,89",ED,Educação,Recomendada,Aprovada,"R$ 65.000,00"
+2,440065/2026-7,VERA LUCIA JACOB CHAVES Universidade Federal do Pará,,"9,44",ED,Educação,Recomendada,Aprovada,"R$ 55.000,00"
+2,440750/2026-1,SERGIO STOCO Centro de Estudos em Educação e Sociedade,,"9,33",ED,Educação,Recomendada,Aprovada,"R$ 55.000,00"
+2,440447/2026-7,SILVANA APARECIDA BRETAS Universidade Federal de Sergipe,,"10,00",ED,Educação,Recomendada,Aprovada,"R$ 70.000,00"
+2,441146/2026-0,PAULA ALMEIDA DE CASTRO Universidade Estadual da Paraíba,,"9,72",ED,Educação,Recomendada,Aprovada,"R$ 60.000,00"
+2,440379/2026-1,MARIA AMALIA DE ALMEIDA CUNHA Universidade Federal de Minas Gerais,,"9,83",ED,Educação,Recomendada,Aprovada,"R$ 60.000,00"
+2,440313/2026-0,LUCIA AKEMI MIYAZATO SAITO Universidade Presbiteriana Mackenzie,,"7,78",EE,Engenharia Elétrica,Recomendada,Aprovada,"R$ 20.000,00"
+2,460033/2025-5,VICTOR HUGO COSTA DE ALBUQUERQUE Universidade Federal do Ceará,,"8,44",EE,Engenharia Biomédica,Recomendada,Aprovada,"R$ 25.000,00"
+2,440976/2026-0,LAURO RODRIGO GOMES DA SILVA LOURENCO NOVO Universidade Federal de Pernambuco,,"8,56",EE,Engenharia Elétrica,Recomendada,Aprovada,"R$ 50.000,00"
+2,440017/2026-2,RICARDO ALEXANDRE ARCENCIO Universidade de São Paulo,,"8,89",EF,Enfermagem,Recomendada,Aprovada,"R$ 10.000,00"
+2,440215/2026-9,PEDRO FREDEMIR PALHA Universidade de São Paulo,,"9,67",EF,Enfermagem,Recomendada,Aprovada,"R$ 33.000,00"
+2,440126/2026-6,DIRCE STEIN BACKES Universidade Franciscana,,"9,50",EF,Enfermagem,Recomendada,Aprovada,"R$ 25.000,00"
+2,441228/2026-7,SONIA SILVA MARCON Universidade Estadual de Maringá,,"8,96",EF,Enfermagem,Recomendada,Aprovada,"R$ 20.000,00"
+2,440624/2026-6,JULIANA DE LIMA LOPES Universidade Federal de São Paulo,,"8,83",EF,Enfermagem,Recomendada,Aprovada,"R$ 15.000,00"
+2,440411/2026-2,LEILA BERNARDA DONATO GOTTEMS Associação Brasileira de Enfermagem,,"9,20",EF,Enfermagem,Recomendada,Aprovada,"R$ 40.000,00"
+2,440195/2026-8,MARCIA TELES DE OLIVEIRA GOUVEIA Associação Brasileira de Obstetrizes e Enfermeiros Obstetras-PI,,"9,15",EF,Enfermagem,Recomendada,Aprovada,"R$ 20.000,00"
+2,441085/2026-1,SUZANA DE OLIVEIRA MANGUEIRA Universidade Federal da Paraíba,,"9,14",EF,Enfermagem,Recomendada,Aprovada,"R$ 28.350,00"
+2,440317/2026-6,ISABEL BELLONI SCHMIDT Universidade de Brasília,,"9,89",EL,Ecologia,Recomendada,Aprovada,"R$ 18.000,00"
+2,440632/2026-9,NATHAN OLIVEIRA BARROS Universidade Federal de Juiz de Fora,,"8,78",EL,Ecologia,Recomendada,Aprovada,"R$ 17.000,00"
+2,441199/2026-7,JOSE RICARDO FERREIRA OLIVEIRA Universidade Federal dos Vales do Jequitinhonha e Mucuri - Campus JK,,"9,70",EM,Engenharia Mecânica,Recomendada,Aprovada,"R$ 18.125,00"
+2,441191/2026-6,GUSTAVO PAULINELLI GUIMARAES Universidade Federal de Ouro Preto,,"9,20",EM,Engenharia Mecânica,Recomendada,Aprovada,"R$ 14.500,00"
+2,440756/2026-0,DANILO DE SANTANA CHUI Universidade Federal do Amazonas,,"9,80",EM,Engenharia Mecânica,Recomendada,Aprovada,"R$ 18.125,00"
+2,440882/2026-5,ADRIANO TODOROVIC FABRO Universidade de Brasília,,"9,30",EM,Engenharia Mecânica,Recomendada,Aprovada,"R$ 7.250,00"
+2,440007/2026-7,ELAINE MARIA CARDOSO Universidade Estadual Paulista Júlio de Mesquita Filho,,"9,90",EM,Engenharia Mecânica,Recomendada,Aprovada,"R$ 8.700,00"
+2,440927/2026-9,JOSE HENRIQUE FERNANDEZ Universidade Federal do Rio Grande do Norte,,"9,00",EM,Engenharia Aeroespacial,Recomendada,Aprovada,"R$ 14.500,00"
+2,440749/2026-3,LEONARDO SANTOS DE BRITO ALVES Universidade Federal Fluminense,,"9,60",EM,Engenharia Mecânica,Recomendada,Aprovada,"R$ 10.875,00"
+2,441227/2026-0,LUIZ ADOLFO HEGELE JUNIOR Universidade do Estado de Santa Catarina,,"8,90",EM,Engenharia Mecânica,Recomendada,Aprovada,"R$ 14.500,00"
+2,440678/2026-9,DOMINGOS ALVES RADE Instituto Tecnológico de Aeronáutica,,"9,40",EM,Engenharia Mecânica,Recomendada,Aprovada,"R$ 14.500,00"
+2,441157/2026-2,DANIEL FERNANDES DA CUNHA Universidade Federal de Goiás,,"9,50",EM,Engenharia Mecânica,Recomendada,Aprovada,"R$ 10.875,00"
+2,440167/2026-4,ABEL CAVALCANTE LIMA FILHO Universidade Federal da Paraíba,,"9,10",EM,Engenharia Mecânica,Recomendada,Aprovada,"R$ 10.875,00"
+2,441313/2026-4,ALISSON AUGUSTO AZEVEDO FIGUEIREDO Universidade Estadual do Maranhão,,"10,00",EM,Engenharia Mecânica,Recomendada,Aprovada,"R$ 8.700,00"
+2,440985/2026-9,FABIO LUIZ NAVARRO MARQUES Sociedade Brasileira de Biociências Nucleares,,"9,39",EN,Engenharia Nuclear,Recomendada,Aprovada,"R$ 20.000,00"
+2,440301/2026-2,DANY SANCHEZ DOMINGUEZ Universidade Estadual de Santa Cruz,,"9,00",EN,Engenharia Nuclear,Recomendada,Aprovada,"R$ 20.000,00"
+2,440471/2026-5,GILBERTO FIGUEIREDO PINTO FILHO Universidade Federal Fluminense,,"9,67",EN,Engenharia de Energia,Recomendada,Aprovada,"R$ 30.000,00"
+2,440679/2026-5,MARCIO DE SOUSA GOES Universidade Federal da Integração Latino-Americana,,"8,56",EN,Engenharia de Energia,Recomendada,Aprovada,"R$ 16.000,00"
+2,441278/2026-4,ANTONIO MAIA DE JESUS CHAVES NETO Universidade Federal do Pará,,"8,39",EN,Engenharia de Energia,Recomendada,Aprovada,"R$ 16.000,00"
+2,440615/2026-7,VIVIANE KHOURY ASFORA Universidade Federal de Pernambuco,,"8,83",EN,Engenharia Nuclear,Recomendada,Aprovada,"R$ 20.000,00"
+2,440413/2026-5,ANTONELLA LOMBARDI COSTA Universidade Federal de Minas Gerais,,"9,11",EN,Engenharia Nuclear,Recomendada,Aprovada,"R$ 20.000,00"
+2,440540/2026-7,CLAUBIA PEREIRA BEZERRA LIMA Associação Brasileira de Energia Nuclear,,"9,78",EN,Engenharia Nuclear,Recomendada,Aprovada,"R$ 30.000,00"
+2,440275/2026-1,ALVARO SILVA LIMA Universidade Federal da Bahia,,"8,67",EQ,Engenharia Química,Recomendada,Aprovada,"R$ 8.000,00"
+2,440821/2026-6,AMARO GOMES BARRETO JUNIOR Universidade Federal do Rio de Janeiro,,"9,11",EQ,Engenharia Química,Recomendada,Aprovada,"R$ 25.000,00"
+2,440120/2026-8,SIMONE MONTEIRO E SILVA Universidade de Brasília,,"9,56",EQ,Engenharia Química,Recomendada,Aprovada,"R$ 25.000,00"
+2,440233/2026-7,RENATA GUIMARAES FERREIRA ALVIM Universidade Federal do Rio de Janeiro,,"8,33",EQ,Engenharia Química,Recomendada,Aprovada,"R$ 8.000,00"
+2,440069/2026-2,GUSTAVO MENDES PLATT Universidade Federal do Rio Grande,,"8,89",EQ,Engenharia Química,Recomendada,Aprovada,"R$ 8.000,00"
+2,441160/2026-3,HELENO BISPO DA SILVA JUNIOR Universidade Federal de Campina Grande,,"9,33",EQ,Engenharia Química,Recomendada,Aprovada,"R$ 25.000,00"
+2,440522/2026-9,LAURA HAMDAN DE ANDRADE Pontifícia Universidade Católica de Minas Gerais,,"8,56",EQ,Engenharia Química,Recomendada,Aprovada,"R$ 8.000,00"
+2,440962/2026-9,CLAUDIA LUCIA MENDES DE OLIVEIRA Universidade de São Paulo,,"8,62",FA,Astronomia,Recomendada,Aprovada,"R$ 15.000,00"
+2,440511/2026-7,HELIO CESAR NOGUEIRA TOLENTINO Centro Nacional de Pesquisa em Energia e Materiais,,"8,72",FA,Física,Recomendada,Aprovada,"R$ 20.000,00"
+2,440357/2026-8,MAURICIO PAMPLONA PIRES Universidade Federal do Rio de Janeiro,,"9,93",FA,Física,Recomendada,Aprovada,"R$ 35.000,00"
+2,460153/2025-0,PUSPITAPALLAB CHAUDHURI Universidade Federal do Amazonas,,"8,58",FA,Física,Recomendada,Aprovada,"R$ 15.000,00"
+2,441080/2026-0,ANGELA BURLAMAQUI KLAUTAU Universidade Federal do Pará,,"8,77",FA,Física,Recomendada,Aprovada,"R$ 20.000,00"
+2,440743/2026-5,MARCO CREMONA Pontifícia Universidade Católica do Rio de Janeiro,,"10,00",FA,Física,Recomendada,Aprovada,"R$ 110.000,00"
+2,460181/2025-4,THIAGO DE LIMA PRADO Universidade Federal do Paraná,,"9,33",FA,Física,Recomendada,Aprovada,"R$ 35.000,00"
+2,460026/2025-9,FELIPE BOHN Universidade Federal do Rio Grande do Norte,,"9,27",FA,Física,Recomendada,Aprovada,"R$ 30.000,00"
+2,441237/2026-6,FRANCISCO ERONI PAZ DOS SANTOS Universidade Federal do Piauí,,"9,11",FA,Física,Recomendada,Aprovada,"R$ 10.000,00"
+2,440674/2026-3,TITO JOSE BONAGAMBA Universidade de São Paulo,,"8,82",FA,Física,Recomendada,Aprovada,"R$ 25.000,00"
+2,440050/2026-0,PEDRO LUIS GRANDE Universidade Federal do Rio Grande do Sul,,"8,80",FA,Física,Recomendada,Aprovada,"R$ 20.000,00"
+2,440649/2026-9,LUIS CARLOS BASSALO CRISPINO Universidade Federal do Pará,,"8,56",FA,Física,Recomendada,Aprovada,"R$ 15.000,00"
+2,440722/2026-8,ANDRE SIDNEI MUSSKOPF Universidade Federal de Juiz de Fora,,"7,78",FI,Teologia,Recomendada,Aprovada,"R$ 10.000,00"
+2,440863/2026-0,CARLOS FREDERICO BARBOZA DE SOUZA Sociedade de Teologia e Ciências da Religião,,"8,90",FI,Teologia,Recomendada,Aprovada,"R$ 15.000,00"
+2,440868/2026-2,GABRIEL JOSE CORREA MOGRABI Universidade Federal do Rio de Janeiro,,"8,17",FI,Filosofia,Recomendada,Aprovada,"R$ 10.000,00"
+2,440368/2026-0,MARCOS ANTONIO ALVES Universidade Estadual Paulista Júlio de Mesquita Filho,,"7,56",FI,Filosofia,Recomendada,Aprovada,"R$ 10.000,00"
+2,440241/2026-0,ITALA MARIA LOFFREDO D OTTAVIANO Universidade Estadual de Campinas,,"8,83",FI,Filosofia,Recomendada,Aprovada,"R$ 15.000,00"
+2,441068/2026-0,MIGUEL GALLY DE ANDRADE Universidade de Brasília,,"9,04",FI,Filosofia,Recomendada,Aprovada,"R$ 15.000,00"
+2,460030/2025-6,JELSON ROBERTO DE OLIVEIRA Pontifícia Universidade Católica do Paraná,,"9,06",FI,Filosofia,Recomendada,Aprovada,"R$ 15.000,00"
+2,440630/2026-6,ROBERTO FRANZINI TIBALDEO Pontifícia Universidade Católica do Paraná,,"8,67",FI,Filosofia,Recomendada,Aprovada,"R$ 10.000,00"
+2,440356/2026-1,JANYNE SATTLER Universidade Federal de Santa Catarina,,"8,70",FI,Filosofia,Recomendada,Aprovada,"R$ 20.000,00"
+2,440405/2026-2,CARLA MILANI DAMIAO Universidade Federal de Goiás,,"8,89",FI,Filosofia,Recomendada,Aprovada,"R$ 15.000,00"
+2,440128/2026-9,MARIO ARIEL GONZALEZ PORTA Pontifícia Universidade Católica de São Paulo,,"8,95",FI,Filosofia,Recomendada,Aprovada,"R$ 15.000,00"
+2,460142/2025-9,KARINE SALGADO Universidade Federal de Minas Gerais,,"9,12",FI,Filosofia,Recomendada,Aprovada,"R$ 20.000,00"
+2,440606/2026-8,ADRIANO CORREIA SILVA Universidade Federal de Goiás,,"7,89",FI,Filosofia,Recomendada,Aprovada,"R$ 10.000,00"
+2,440634/2026-1,GABRIELE CORNELLI Universidade de Brasília,,"8,77",FI,Filosofia,Recomendada,Aprovada,"R$ 15.000,00"
+2,440816/2026-2,ABILIO AZAMBUJA RODRIGUES FILHO Universidade Federal de Minas Gerais,,"9,16",FI,Filosofia,Recomendada,Aprovada,"R$ 20.000,00"
+2,441067/2026-3,MARCOS ANTONIO DA SILVA FILHO Universidade Federal de Pernambuco,,"8,73",FI,Filosofia,Recomendada,Aprovada,"R$ 10.000,00"
+2,440020/2026-3,SANDRA HELENA POLISELLI FARSKY Universidade de São Paulo,,"9,80",FR,Farmácia,Recomendada,Aprovada,"R$ 40.000,00"
+2,460202/2025-1,VALDIR CECHINEL FILHO Universidade do Vale do Itajaí,,"9,60",FR,Farmácia,Recomendada,Aprovada,"R$ 30.000,00"
+2,440071/2026-7,RICARDO NEVES MARRETO Universidade Federal de Goiás,,"10,00",FR,Farmácia,Recomendada,Aprovada,"R$ 50.000,00"
+2,440108/2026-8,IGO PAULINO DA SILVA Universidade Federal de Campina Grande,,"9,39",GC,Geociências,Recomendada,Aprovada,"R$ 36.484,84"
+2,440097/2026-6,CRISTIANO MAX WRASSE Instituto Nacional de Pesquisas Espaciais,,"9,44",GC,Geociências,Recomendada,Aprovada,"R$ 31.452,45"
+2,440514/2026-6,JORGE ANTONIO SILVA CENTENO Universidade Federal do Paraná,,"9,33",GC,Geociências,Recomendada,Aprovada,"R$ 26.959,24"
+2,440847/2026-5,BONIEK GONTIJO VAZ Associação Latinoamericana de Geoquímica Orgânica,,"9,50",GC,Geociências,Recomendada,Aprovada,"R$ 31.452,45"
+2,441099/2026-2,LUIZ ROGERIO BASTOS LEAL Universidade Federal da Bahia,,"9,78",GC,Geociências,Recomendada,Aprovada,"R$ 53.918,48"
+2,460131/2025-7,DANIEL SEDORKO Universidade Federal do Rio de Janeiro,,"9,67",GC,Geociências,Recomendada,Aprovada,"R$ 19.440,00"
+2,440645/2026-3,RENNAN DE FREITAS BEZERRA MARUJO Instituto Nacional de Pesquisas Espaciais,,"7,22",GC,Geociências,Recomendada,Aprovada,"R$ 15.276,90"
+2,440027/2026-8,LUIZ EDUARDO OLIVEIRA E CRUZ DE ARAGAO Instituto Nacional de Pesquisas Espaciais,,"10,00",GC,Geociências,Recomendada,Aprovada,"R$ 53.918,48"
+2,440460/2026-3,EDIPO HENRIQUE CREMON Instituto Nacional de Pesquisas Espaciais,,"8,72",GC,Geociências,Recomendada,Aprovada,"R$ 17.972,83"
+2,440662/2026-5,THALES RENATO OCHOTORENA DE FREITAS Universidade Federal do Rio Grande do Sul,,"9,44",GE,Genética,Recomendada,Aprovada,"R$ 35.000,00"
+2,440759/2026-9,ALEXANDRE MELO BAILAO Universidade Federal de Goiás,,"9,33",GE,Genética,Recomendada,Aprovada,"R$ 25.000,00"
+2,440103/2026-6,CELIA MARIA DE ALMEIDA SOARES Universidade Federal de Goiás,,"10,00",GE,Genética,Recomendada,Aprovada,"R$ 100.000,00"
+2,440763/2026-6,DAIANE SILVEIRA ROSSI Universidade Federal de Goiás,,"9,89",HI,História,Recomendada,Aprovada,"R$ 25.360,00"
+2,440061/2026-1,THIAGO HENRIQUE COSTA SILVA Universidade Estadual de Goiás,,"9,17",HI,História,Recomendada,Aprovada,"R$ 25.000,00"
+2,441311/2026-1,LUCIANA ROSAR FORNAZARI KLANOVICZ Universidade Estadual do Centro-Oeste,,"9,50",HI,História,Recomendada,Aprovada,"R$ 25.000,00"
+2,440909/2026-0,CARLOS DE OLIVEIRA MALAQUIAS Universidade Federal de Sergipe,,"9,98",HI,História,Recomendada,Aprovada,"R$ 24.640,00"
+2,440903/2026-2,RICARDO SANTHIAGO CORREA Universidade de Brasília,,"9,51",HI,História,Recomendada,Aprovada,"R$ 25.000,00"
+2,440906/2026-1,MARIA SILVIA DUARTE HADLER Universidade Estadual de Campinas,,"9,28",HI,História,Recomendada,Aprovada,"R$ 25.000,00"
+2,440752/2026-4,GABRIEL PASSETTI Universidade Federal Fluminense,,"9,83",HI,História,Recomendada,Aprovada,"R$ 25.000,00"
+2,440652/2026-0,LUIZA NASCIMENTO DOS REIS Universidade Federal de Pernambuco,,"9,56",HI,História,Recomendada,Aprovada,"R$ 25.000,00"
+2,441178/2026-0,ADALBERTO JUNIOR FERREIRA PAZ Universidade Federal do Pará,,"9,67",HI,História,Recomendada,Aprovada,"R$ 25.000,00"
+2,440004/2026-8,DURVAL MUNIZ DE ALBUQUERQUE JUNIOR Universidade Federal do Rio Grande do Norte,,"9,87",HI,História,Recomendada,Aprovada,"R$ 25.000,00"
+2,440487/2026-9,ROGERIO ROSA RODRIGUES Universidade do Estado de Santa Catarina,,"9,11",HI,História,Recomendada,Aprovada,"R$ 25.000,00"
+2,440263/2026-3,JOSE CARLOS FARIAS ALVES FILHO Sociedade Brasileira de Imunologia,,"10,00",IM,Imunologia,Recomendada,Aprovada,"R$ 90.000,00"
+2,440922/2026-7,JOSE MAGNO DE SOUSA VIEIRA Universidade Federal do Maranhão,,"7,82",LL,Lingüística,Recomendada,Aprovada,"R$ 50.000,00"
+2,440820/2026-0,FABIOLA DE JESUS SOARES SANTANA Universidade Estadual do Maranhão,,"8,44",LL,Lingüística,Recomendada,Aprovada,"R$ 50.000,00"
+2,460114/2025-5,CRISTIANE MARIA CAMPELO LOPES LANDULFO DE SOUSA Universidade Federal da Bahia,,"8,87",LL,Lingüística,Recomendada,Aprovada,"R$ 50.000,00"
+2,440810/2026-4,TIAGO COIMBRA NOGUEIRA Universidade Federal do Rio Grande do Sul,,"9,64",LL,Lingüística,Recomendada,Aprovada,"R$ 62.000,00"
+2,441073/2026-3,PATRICIO NUNES BARREIROS Universidade Estadual de Feira de Santana,,"9,99",LL,Letras,Recomendada,Aprovada,"R$ 30.000,00"
+2,440279/2026-7,ANDREI DOS SANTOS CUNHA Universidade Federal do Rio Grande do Sul,,"10,00",LL,Letras,Recomendada,Aprovada,"R$ 150.000,00"
+2,441128/2026-2,TICIANO CURVELO ESTRELA DE LACERDA Universidade Federal do Rio de Janeiro,,"9,72",LL,Letras,Recomendada,Aprovada,"R$ 30.000,00"
+2,440972/2026-4,JACKSON WILKE DA CRUZ SOUZA Universidade Federal da Bahia,,"9,04",LL,Lingüística,Recomendada,Aprovada,"R$ 50.000,00"
+2,440492/2026-2,LUCIANA ELEONORA DE FREITAS CALADO DEPLAGNE Universidade Federal da Paraíba,,"9,67",LL,Letras,Recomendada,Aprovada,"R$ 30.000,00"
+2,441023/2026-6,HERIVELTO MARTINS BORGES FILHO Universidade de São Paulo,,"9,69",MA,Matemática,Recomendada,Aprovada,"R$ 20.000,00"
+2,440231/2026-4,CAROLINA BHERING DE ARAUJO Instituto Nacional de Matemática Pura e Aplicada,,"9,60",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,440469/2026-0,PAULO LEANDRO DATTORI DA SILVA Universidade de São Paulo,,"9,69",MA,Matemática,Recomendada,Aprovada,"R$ 20.000,00"
+2,460198/2025-4,MYKAEL DE ARAUJO CARDOSO Universidade Federal do Piauí,,"9,58",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,440009/2026-0,ROBERTO IMBUZEIRO MORAES FELINTO DE OLIVEIRA Instituto Nacional de Matemática Pura e Aplicada,,"8,89",MA,Matemática,Recomendada,Aprovada,"R$ 10.000,00"
+2,440608/2026-0,EDUARD TOON Universidade Federal de Juiz de Fora,,"9,27",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,440918/2026-0,PRISCILA LEAL DA SILVA Universidade Federal de São Carlos,,"8,83",MA,Matemática,Recomendada,Aprovada,"R$ 10.000,00"
+2,441177/2026-3,RENATA ROJAS GUERRA Sociedade Brasileira de Matemática,,"9,58",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,440707/2026-9,ROBERTO DE ALMEIDA CAPISTRANO FILHO Universidade Federal de Pernambuco,,"9,75",MA,Matemática,Recomendada,Aprovada,"R$ 20.000,00"
+2,440774/2026-8,VINICIUS VIANA LUIZ ALBANI Universidade Federal do Rio de Janeiro,,"9,32",MA,Probabilidade e Estatística,Recomendada,Aprovada,"R$ 15.000,00"
+2,440604/2026-5,RODRIGO DOS SANTOS TARGINO Fundação Getúlio Vargas,,"9,24",MA,Probabilidade e Estatística,Recomendada,Aprovada,"R$ 15.000,00"
+2,440450/2026-8,CHRISTINA BRECH Universidade de São Paulo,,"9,17",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,440786/2026-6,JAIME EDILBERTO MUNOZ RIVERA Laboratório Nacional de Computação Científica,,"9,56",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,441134/2026-2,ALLAN GEORGE DE CARVALHO FREITAS Universidade Federal da Paraíba,,"9,18",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,440561/2026-4,CILON VALDEZ FERREIRA PERUSATO Universidade Federal de Pernambuco,,"9,33",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,460162/2025-0,MARIANA RODRIGUES MOTTA Universidade Estadual de Campinas,,"9,39",MA,Probabilidade e Estatística,Recomendada,Aprovada,"R$ 15.000,00"
+2,440648/2026-2,FLAVIO AUGUSTO ZIEGELMANN Universidade Federal do Rio Grande do Sul,,"9,81",MA,Probabilidade e Estatística,Recomendada,Aprovada,"R$ 20.000,00"
+2,440225/2026-4,MARCO PACINI Universidade Federal Fluminense,,"8,97",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,440400/2026-0,MARCOS PETRUCIO DE ALMEIDA CAVALCANTE Universidade Federal de Alagoas,,"9,19",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,440432/2026-0,LEANDRO DE FREITAS PESSOA Universidade Federal do Piauí,,"9,58",MA,Matemática,Recomendada,Aprovada,"R$ 20.000,00"
+2,440070/2026-0,HENRIQUE BURSZTYN Instituto Nacional de Matemática Pura e Aplicada,,"9,53",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,440062/2026-8,LEONARDO MAGALHAES MACARINI Instituto Nacional de Matemática Pura e Aplicada,,"9,50",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,440093/2026-0,CARLOS GUSTAVO TAMM DE ARAUJO MOREIRA Universidade Federal do Ceará,,"9,56",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,440731/2026-7,EDSON RIBEIRO ALVARES Universidade Federal do Paraná,,"8,90",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,440620/2026-0,KELLY CRISTINA MOTA GONCALVES Universidade Federal do Rio de Janeiro,,"9,59",MA,Probabilidade e Estatística,Recomendada,Aprovada,"R$ 15.000,00"
+2,440051/2026-6,LUIZ RAFAEL DOS SANTOS Sociedade Brasileira de Matemática Aplicada e Computacional,,"9,72",MA,Matemática,Recomendada,Aprovada,"R$ 20.000,00"
+2,440517/2026-5,PHILIP THOMPSON Fundação Getúlio Vargas,,"8,92",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,441289/2026-6,JULIANNA PINELE SANTOS PORTO Sociedade Brasileira de Matemática Aplicada e Computacional,,"9,03",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,440805/2026-0,MARIA SOLEDAD ARONNA Fundação Getúlio Vargas,,"9,33",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,440072/2026-3,ALOISIO PESSOA DE ARAUJO Instituto Nacional de Matemática Pura e Aplicada,,"9,42",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,440111/2026-9,ALEJANDRO KOCSARD Instituto Nacional de Matemática Pura e Aplicada,,"9,56",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,440591/2026-0,JOSE EDSON SAMPAIO Universidade Federal do Ceará,,"9,22",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,460140/2025-6,REGILENE DELAZARI DOS SANTOS OLIVEIRA Universidade de São Paulo,,"9,18",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+2,440521/2026-2,WESLEM LIBERATO SILVA Universidade Estadual de Santa Cruz,,"8,69",MA,Matemática,Recomendada,Aprovada,"R$ 10.000,00"
+2,440045/2026-6,CAROLINA DE MIRANDA E PEREIRO Universidade Federal do Espírito Santo,,"8,70",MA,Matemática,Recomendada,Aprovada,"R$ 10.000,00"
+2,440394/2026-0,LIVIA COSTA DE OLIVEIRA Instituto Nacional de Câncer,,"10,00",MD,Medicina,Recomendada,Aprovada,"R$ 171.913,10"
+2,440406/2026-9,SANDRA DA SILVA MATTOS Sociedade Brasileira de Cardiologia,,"10,00",MD,Medicina,Recomendada,Aprovada,"R$ 200.000,00"
+2,440292/2026-3,MARIA CELESTE OSORIO WENDER Federação Brasileira das Sociedades de Ginecologia e Obstetrícia - SP,,"10,00",MD,Medicina,Recomendada,Aprovada,"R$ 200.000,00"
+2,441201/2026-1,JOAO BAPTISTA DOS SANTOS MARTINS Universidade Federal de Santa Maria,,"9,08",ME,Microeletrônica,Recomendada,Aprovada,"R$ 48.440,00"
+2,440719/2026-7,RAIMUNDO CARLOS SILVERIO FREIRE Universidade Federal de Campina Grande,,"9,69",ME,Microeletrônica,Recomendada,Aprovada,"R$ 21.560,00"
+2,440862/2026-4,ADRIANA GRADELA Universidade Federal do Vale do São Francisco,,"8,33",MF,Morfologia,Recomendada,Aprovada,"R$ 10.000,00"
+2,440771/2026-9,HERNANDES FAUSTINO DE CARVALHO Universidade Estadual de Campinas,,"9,78",MF,Morfologia,Recomendada,Aprovada,"R$ 30.000,00"
+2,440552/2026-5,RAFAEL SALOMAO Universidade de São Paulo,,"9,83",MM,Engenharia de Materiais e Metalúrgica,Recomendada,Aprovada,"R$ 25.000,00"
+2,440708/2026-5,LIRIO SCHAEFFER Universidade Federal do Rio Grande do Sul,,"9,00",MM,Engenharia de Materiais e Metalúrgica,Recomendada,Aprovada,"R$ 20.000,00"
+2,440567/2026-2,HERCILIO GOMES DE MELO Universidade de São Paulo,,"9,06",MM,Engenharia de Materiais e Metalúrgica,Recomendada,Aprovada,"R$ 20.000,00"
+2,441252/2026-5,SILVIO ROMERO DE BARROS Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,,"9,17",MM,Engenharia de Materiais e Metalúrgica,Recomendada,Aprovada,"R$ 25.000,00"
+2,440347/2026-2,CARLOS ALEXANDRE DOS SANTOS Pontifícia Universidade Católica do Rio Grande do Sul,,"7,22",MM,Engenharia de Materiais e Metalúrgica,Recomendada,Aprovada,"R$ 5.000,00"
+2,440350/2026-3,ANTONIO CEZAR FARIA VILELA Associação Brasileira de Metalurgia e Materiais,,"10,00",MM,Engenharia de Materiais e Metalúrgica,Recomendada,Aprovada,"R$ 60.000,00"
+2,460199/2025-0,OTAVIO BIANCHI Universidade Federal do Rio Grande do Sul,,"9,67",MM,Engenharia de Materiais e Metalúrgica,Recomendada,Aprovada,"R$ 25.000,00"
+2,441014/2026-7,"FRANCISCO ALFARO Associação de Ensino, Pesquisa e Extensão Biopark",,"7,78",MM,Engenharia de Materiais e Metalúrgica,Recomendada,Aprovada,"R$ 20.000,00"
+2,440956/2026-9,VIVIANE FARIAS SILVA Universidade Federal de Campina Grande,,"9,22",MM,Engenharia de Minas,Recomendada,Aprovada,"R$ 25.000,00"
+2,440437/2026-1,CONSTANCIA FLAVIA JUNQUEIRA AYRES LOPES Fundação Oswaldo Cruz,,"9,90",MP,Parasitologia,Recomendada,Aprovada,"R$ 20.000,00"
+2,441185/2026-6,MARCELO PELAJO MACHADO Fundação Oswaldo Cruz,,"9,94",MP,Parasitologia,Recomendada,Aprovada,"R$ 20.000,00"
+2,440573/2026-2,LUIS AUGUSTO NERO Universidade Federal de Viçosa,,"9,88",MP,Microbiologia,Recomendada,Aprovada,"R$ 20.000,00"
+2,460069/2025-0,ALDO ANGELO MOREIRA LIMA Universidade Federal do Ceará,,"9,92",MP,Microbiologia,Recomendada,Aprovada,"R$ 20.000,00"
+2,440831/2026-1,ALDA MARIA DA CRUZ Universidade do Estado do Rio de Janeiro,,"10,00",MP,Parasitologia,Recomendada,Aprovada,"R$ 35.000,00"
+2,440250/2026-9,ARIEL MARIANO SILBER Sociedade Brasileira de Protozoologia,,"9,96",MP,Parasitologia,Recomendada,Aprovada,"R$ 35.000,00"
+2,440505/2026-7,RODRIGO GURGEL GONCALVES Universidade de Brasília,,"9,86",MP,Parasitologia,Recomendada,Aprovada,"R$ 20.000,00"
+2,440478/2026-0,TIAGO WILSON PATRIARCA MINEO Sociedade Brasileira de Protozoologia,,"9,84",MP,Parasitologia,Recomendada,Aprovada,"R$ 20.000,00"
+2,440223/2026-1,BETANIA PAIVA DRUMOND Universidade Federal de Alagoas,,"9,98",MP,Microbiologia,Recomendada,Aprovada,"R$ 35.000,00"
+2,440720/2026-5,EDILSON SERPELONI CYRINO Universidade Estadual de Londrina,,"9,80",MS,Educação Física,Recomendada,Aprovada,"R$ 60.000,00"
+2,441145/2026-4,EVANDRO CASSIANO DE LAZARI Universidade Estadual de Campinas,,"8,90",MS,Educação Física,Recomendada,Aprovada,"R$ 20.000,00"
+2,440393/2026-4,GABRIEL GUSTAVO BERGMANN Universidade Federal de Pelotas,,"8,70",MS,Educação Física,Recomendada,Aprovada,"R$ 15.000,00"
+2,440473/2026-8,LEANDRO CARLOS MAZZEI Universidade Estadual de Campinas,,"8,50",MS,Educação Física,Recomendada,Aprovada,"R$ 15.299,00"
+2,440700/2026-4,JOAO OTACILIO LIBARDONI DOS SANTOS Universidade Federal do Amazonas,,"9,30",MS,Educação Física,Recomendada,Aprovada,"R$ 17.000,00"
+2,440148/2026-0,NADIA CRISTINA VALENTINI Universidade Federal do Rio Grande do Sul,,"9,50",MS,Educação Física,Recomendada,Aprovada,"R$ 20.000,00"
+2,440795/2026-5,FERNANDO MARINHO MEZZADRI Universidade Federal do Paraná,,"9,10",MS,Educação Física,Recomendada,Aprovada,"R$ 20.000,00"
+2,460232/2025-8,FABIO JUNER LANFERDINI Universidade Federal de Santa Maria,,"8,60",MS,Educação Física,Recomendada,Aprovada,"R$ 20.000,00"
+2,440650/2026-7,FERNANDO GARBELOTO DOS SANTOS Universidade de São Paulo,,"8,40",MS,Educação Física,Recomendada,Aprovada,"R$ 15.000,00"
+2,441240/2026-7,MANUELA LIMA CARVALHO DA ROCHA Universidade Federal do Pará,,"9,01",MS,Fisioterapia e Terapia Ocupacional,Recomendada,Aprovada,"R$ 10.000,00"
+2,440989/2026-4,LUIS VICENTE FRANCO DE OLIVEIRA Universidade Evangélica de Goiás,,"10,00",MS,Fisioterapia e Terapia Ocupacional,Recomendada,Aprovada,"R$ 24.000,00"
+2,441091/2026-1,JULIANA MARTINS PINTO Universidade de Brasília,,"9,90",MS,Fisioterapia e Terapia Ocupacional,Recomendada,Aprovada,"R$ 24.000,00"
+2,440336/2026-0,CRISTINE HOMSI JORGE Universidade de São Paulo,,"9,40",MS,Fisioterapia e Terapia Ocupacional,Recomendada,Aprovada,"R$ 24.000,00"
+2,440481/2026-0,ADRIANA CLAUDIA LUNARDI ASSOBRAFIR,,"9,20",MS,Fisioterapia e Terapia Ocupacional,Recomendada,Aprovada,"R$ 13.300,00"
+2,440742/2026-9,ADRIANE RIBEIRO TEIXEIRA Academia Brasileira de Audiologia,,"10,00",MS,Fonoaudiologia,Recomendada,Aprovada,"R$ 24.812,00"
+2,440579/2026-0,CINTIA ALVES SALGADO AZONI Associação Brasileira de Neurologia e Psiquiatria,,"8,35",MS,Fonoaudiologia,Recomendada,Aprovada,"R$ 24.800,00"
+2,440503/2026-4,MAURICIO SHIMABUKURO Universidade Federal do Rio Grande,,"8,22",OC,Oceanografia,Recomendada,Aprovada,"R$ 20.000,00"
+2,440716/2026-8,MAURO CIRANO Universidade Federal do Rio de Janeiro,,"9,44",OC,Oceanografia,Recomendada,Aprovada,"R$ 30.000,00"
+2,440781/2026-4,KYSSYANNE SAMIHRA SANTOS OLIVEIRA Universidade Federal do Espírito Santo,,"8,94",OC,Oceanografia,Recomendada,Aprovada,"R$ 30.000,00"
+2,440092/2026-4,VALENTIM ADELINO RICARDO BARAO Sociedade Brasileira de Pesquisa Odontológica,,"10,00",OD,Odontologia,Recomendada,Aprovada,"R$ 50.000,00"
+2,440353/2026-2,MARCELO GIANNINI Universidade Estadual de Campinas,,"9,98",OD,Odontologia,Recomendada,Aprovada,"R$ 30.000,00"
+2,440797/2026-8,JOSE ROBERTO DE OLIVEIRA BAUER Universidade Federal do Maranhão,,"9,99",OD,Odontologia,Recomendada,Aprovada,"R$ 30.000,00"
+2,441219/2026-8,THYCIANA RODRIGUES RIBEIRO Universidade Federal do Ceará,,"9,96",OD,Odontologia,Recomendada,Aprovada,"R$ 20.000,00"
+2,441215/2026-2,ADRIANA FRANCO PAES LEME Centro Nacional de Pesquisa em Energia e Materiais,,"9,97",OD,Odontologia,Recomendada,Aprovada,"R$ 20.000,00"
+2,440661/2026-9,RAONI ROCHA SIMOES Universidade Federal de Ouro Preto,,"8,89",PE,Engenharia de Produção,Recomendada,Aprovada,"R$ 30.000,00"
+2,441000/2026-6,JOSE RODRIGUES DE FARIAS FILHO Universidade Federal Fluminense,,"7,28",PE,Engenharia de Produção,Recomendada,Aprovada,"R$ 5.000,00"
+2,440234/2026-3,OSVALDO LUIZ GONCALVES QUELHAS Universidade Federal Fluminense,,"8,94",PE,Engenharia de Produção,Recomendada,Aprovada,"R$ 30.000,00"
+2,440084/2026-1,RENATA MELO E SILVA DE OLIVEIRA Universidade do Estado do Pará,,"8,17",PE,Engenharia de Produção,Recomendada,Aprovada,"R$ 24.000,00"
+2,440494/2026-5,PAULA DE CAMARGO FIORINI Universidade Estadual Paulista Júlio de Mesquita Filho,,"8,22",PE,Engenharia de Produção,Recomendada,Aprovada,"R$ 25.000,00"
+2,440085/2026-8,GLAYDSTON MATTOS RIBEIRO Universidade Federal do Rio de Janeiro,,"8,11",PE,Engenharia de Transportes,Recomendada,Aprovada,"R$ 10.000,00"
+2,440302/2026-9,ROMULO DANTE ORRICO FILHO Universidade Federal do Rio de Janeiro,,"9,94",PE,Engenharia de Transportes,Recomendada,Aprovada,"R$ 48.000,00"
+2,440436/2026-5,ELIANE CHRISTINE SANTOS DE CAMPOS Universidade Estadual de Londrina,,"9,39",PS,Serviço Social,Recomendada,Aprovada,"R$ 11.100,00"
+2,440095/2026-3,SOLANGE MARIA TEIXEIRA Universidade Federal do Piauí,,"9,70",PS,Serviço Social,Recomendada,Aprovada,"R$ 17.100,00"
+2,440277/2026-4,JOANA VALENTE SANTANA Universidade Federal do Pará,,"9,89",PS,Serviço Social,Recomendada,Aprovada,"R$ 45.100,00"
+2,440949/2026-2,CLAUDIA HOFHEINZ GIACOMONI Pontifícia Universidade Católica de Campinas,,"8,39",PS,Psicologia,Recomendada,Aprovada,"R$ 20.000,00"
+2,440063/2026-4,ANDRES EDUARDO AGUIRRE ANTUNEZ Associação Brasileira de Rorschach e Métodos Projetivos,,"9,61",PS,Psicologia,Recomendada,Aprovada,"R$ 12.375,00"
+2,440453/2026-7,PALOMA CAVALCANTE BEZERRA DE MEDEIROS UNIVERSIDADE FEDERAL DO DELTA DO PARNAÍBA,,"9,00",PS,Psicologia,Recomendada,Aprovada,"R$ 27.375,00"
+2,440753/2026-0,ALEX SANDRO GOMES PESSOA Universidade Federal de São Carlos,,"9,83",PS,Psicologia,Recomendada,Aprovada,"R$ 31.375,00"
+2,440842/2026-3,JONAS CARVALHO E SILVA Universidade Federal do Pará,,"8,78",PS,Psicologia,Recomendada,Aprovada,"R$ 20.000,00"
+2,440710/2026-0,RODRIGO LOPES MIRANDA Universidade Católica Dom Bosco,,"9,50",PS,Psicologia,Recomendada,Aprovada,"R$ 27.375,00"
+2,440078/2026-1,REBECA VALADAO BUSSINGER Universidade Federal do Sul da Bahia,,"9,67",PS,Psicologia,Recomendada,Aprovada,"R$ 31.375,00"
+2,440047/2026-9,EMERSON FERNANDO RASERA Associação Nacional de Pesquisa e Pós-Graduação em Psicologia,,"9,86",PS,Psicologia,Recomendada,Aprovada,"R$ 31.375,00"
+2,441200/2026-5,ELDA SILVA DO NASCIMENTO MELO Universidade Federal do Rio Grande do Norte,,"9,17",PS,Psicologia,Recomendada,Aprovada,"R$ 27.375,00"
+2,441223/2026-5,ALEXANDRA CLEOPATRE TSALLIS Universidade do Estado do Rio de Janeiro,,"8,00",PS,Psicologia,Recomendada,Aprovada,"R$ 20.000,00"
+2,440531/2026-8,ELIANA BOLORINO CANTEIRO MARTINS Universidade Estadual Paulista Júlio de Mesquita Filho,,"9,33",PS,Serviço Social,Recomendada,Aprovada,"R$ 8.600,00"
+2,440312/2026-4,MARIA ISABEL BARROS BELLINI Pontifícia Universidade Católica do Rio Grande do Sul,,"8,67",PS,Serviço Social,Recomendada,Aprovada,"R$ 8.100,00"
+2,440638/2026-7,MAYCOLN LEONI MARTINS TEODORO Sociedade Brasileira de Psicologia,,"10,00",PS,Psicologia,Recomendada,Aprovada,"R$ 31.375,00"
+2,440564/2026-3,DAVID MOISES BARRETO DOS SANTOS Universidade Estadual de Feira de Santana,,"7,94",PS,Psicologia,Recomendada,Aprovada,"R$ 5.000,00"
+2,440142/2026-1,LUIZ FERNANDO CAPPA DE OLIVEIRA Universidade Federal de Juiz de Fora,,"9,10",QU,Química,Recomendada,Aprovada,"R$ 12.000,00"
+2,460111/2025-6,ELISA SOUZA ORTH Sociedade Brasileira de Química,,"10,00",QU,Química,Recomendada,Aprovada,"R$ 60.000,00"
+2,440087/2026-0,JOSE GERMANO VERAS NETO Universidade Estadual da Paraíba,,"9,20",QU,Química,Recomendada,Aprovada,"R$ 12.000,00"
+2,440873/2026-6,DAIANE DIAS Universidade Federal do Rio Grande,,"9,90",QU,Química,Recomendada,Aprovada,"R$ 24.000,00"
+2,440658/2026-8,TIAGO ALMEIDA SILVA Universidade Federal de Viçosa,,"9,80",QU,Química,Recomendada,Aprovada,"R$ 24.000,00"
+2,441300/2026-0,CLESIA CRISTINA NASCENTES Universidade Federal de Minas Gerais,,"9,50",QU,Química,Recomendada,Aprovada,"R$ 16.800,00"
+2,440419/2026-3,AURORA PEREZ GRAMATGES Pontifícia Universidade Católica do Rio de Janeiro,,"9,40",QU,Química,Recomendada,Aprovada,"R$ 12.000,00"
+2,441032/2026-5,CELIA MACHADO RONCONI Universidade Federal Fluminense,,"9,70",QU,Química,Recomendada,Aprovada,"R$ 18.000,00"
+2,440324/2026-2,LIDIA MOREIRA LIMA Universidade Federal do Rio de Janeiro,,"8,90",QU,Química,Recomendada,Aprovada,"R$ 9.600,00"
+2,440156/2026-2,AIRTON MARQUES DA SILVA Associação Brasileira de Química,,"9,00",QU,Química,Recomendada,Aprovada,"R$ 9.600,00"
+2,440455/2026-0,JOAO BATISTA LOPES MARTINS Universidade de Brasília,,"9,31",QU,Química,Recomendada,Aprovada,"R$ 12.000,00"
+2,440106/2026-5,JULIO CEZAR PASTRE Universidade Estadual de Campinas,,"9,60",QU,Química,Recomendada,Aprovada,"R$ 18.000,00"
+2,440702/2026-7,ANGELICA DE CASSIA OLIVEIRA CARNEIRO Universidade Federal de Viçosa,,"9,67",RF,Recursos Florestais e Engenharia Florestal,Recomendada,Aprovada,"R$ 20.000,00"
+2,440074/2026-6,RODRIGO JOSE FIRMINO Pontifícia Universidade Católica do Paraná,,"8,71",SA,Planejamento Urbano e Regional,Recomendada,Aprovada,"R$ 15.000,00"
+2,440680/2026-3,LUCIANA CONCEICAO DE LIMA Universidade Federal do Rio Grande do Norte,,"9,67",SA,Demografia,Recomendada,Aprovada,"R$ 24.000,00"
+2,440132/2026-6,MARIANA CICUTO BARROS Universidade Estadual Paulista Júlio de Mesquita Filho,,"8,89",SA,Planejamento Urbano e Regional,Recomendada,Aprovada,"R$ 15.000,00"
+2,440434/2026-2,LEONARDO BARCI CASTRIOTA Universidade Federal de Minas Gerais,,"9,11",SA,Arquitetura e Urbanismo,Recomendada,Aprovada,"R$ 29.000,00"
+2,440951/2026-7,VANESSA BORGES BRASILEIRO Universidade Federal de Minas Gerais,,"9,61",SA,Arquitetura e Urbanismo,Recomendada,Aprovada,"R$ 55.000,00"
+2,441059/2026-0,ROSEANE DA CONCEICAO COSTA NORAT Universidade Federal do Pará,,"9,49",SA,Arquitetura e Urbanismo,Recomendada,Aprovada,"R$ 35.000,00"
+2,440431/2026-3,RICARDO TREVISAN Universidade de Brasília,,"10,00",SA,Planejamento Urbano e Regional,Recomendada,Aprovada,"R$ 50.000,00"
+2,440754/2026-7,CARLA HIRT Universidade Federal do Rio de Janeiro,,"8,67",SA,Planejamento Urbano e Regional,Recomendada,Aprovada,"R$ 10.000,00"
+2,440539/2026-9,RENATA MARIA ABRANTES BARACHO PORTO Universidade Federal de Minas Gerais,,"8,78",SA,Planejamento Urbano e Regional,Recomendada,Aprovada,"R$ 20.000,00"
+2,441041/2026-4,EVALDO GOMES JUNIOR Universidade Federal do Sul e Sudeste do Pará,,"9,06",SA,Planejamento Urbano e Regional,Recomendada,Aprovada,"R$ 30.000,00"
+2,440941/2026-1,CAMILA DUTRA DOS SANTOS Universidade Estadual do Ceará,,"9,22",SA,Geografia,Recomendada,Aprovada,"R$ 25.000,00"
+2,441138/2026-8,ANA PAULA CORREIA DE ARAUJO Universidade Federal de Mato Grosso do Sul,,"8,89",SA,Geografia,Recomendada,Aprovada,"R$ 13.000,00"
+2,440023/2026-2,ALVARO HENRIQUE DE SOUZA FERREIRA Pontifícia Universidade Católica do Rio de Janeiro,,"8,90",SA,Geografia,Recomendada,Aprovada,"R$ 15.000,00"
+2,440124/2026-3,BRENO VIOTTO PEDROSA Universidade Federal do Rio Grande do Sul,,"9,31",SA,Geografia,Recomendada,Aprovada,"R$ 30.000,00"
+2,440600/2026-0,BRUNO MAIA HALLEY Universidade Estadual da Região Tocantina do MA,,"9,10",SA,Geografia,Recomendada,Aprovada,"R$ 25.000,00"
+2,441309/2026-7,LINDON FONSECA MATIAS Universidade Estadual de Campinas,,"9,50",SA,Geografia,Recomendada,Aprovada,"R$ 55.000,00"
+2,440582/2026-1,ERICSON HIDEKI HAYAKAWA Universidade Estadual do Oeste do Paraná,,"10,00",SA,Geociências,Recomendada,Aprovada,"R$ 35.000,00"
+2,460174/2025-8,IARA SOARES DE FRANCA Universidade Estadual de Montes Claros,,"9,20",SA,Geografia,Recomendada,Aprovada,"R$ 30.000,00"
+2,440147/2026-3,ADRIANO LUIS HECK SIMON Universidade Federal de Pelotas,,"9,99",SA,Geociências,Recomendada,Aprovada,"R$ 16.000,00"
+2,441141/2026-9,THAIS ALESSANDRA BASTOS CAMINHA SANJAD Universidade Federal do Pará,,"9,33",SA,Arquitetura e Urbanismo,Recomendada,Aprovada,"R$ 29.000,00"
+2,441224/2026-1,RENATA BAESSO PEREIRA Pontifícia Universidade Católica de Campinas,,"9,44",SA,Arquitetura e Urbanismo,Recomendada,Aprovada,"R$ 29.000,00"
+2,440777/2026-7,ARMIN MATHIS Universidade Federal do Pará,,"8,61",SA,Planejamento Urbano e Regional,Recomendada,Aprovada,"R$ 10.000,00"
+2,440671/2026-4,AMIRIA BEZERRA BRASIL Universidade Federal do Rio Grande do Norte,,"9,00",SA,Planejamento Urbano e Regional,Recomendada,Aprovada,"R$ 20.000,00"
+2,440502/2026-8,PABLO FLORES LIMBERGER Universidade do Vale do Itajaí,,"8,00",SA,Turismo,Recomendada,Aprovada,"R$ 6.000,00"
+2,440454/2026-3,DANIELLE FERNANDES COSTA MACHADO Universidade Federal de Minas Gerais,,"9,01",SA,Turismo,Recomendada,Aprovada,"R$ 20.000,00"
+2,440162/2026-2,TIAGO SAVI MONDO Associação Nacional de Pesquisa e Pós-Graduação em Turismo,,"9,56",SA,Turismo,Recomendada,Aprovada,"R$ 28.000,00"
+2,440594/2026-0,MAYLINE MENEZES DA MATA Instituto Nacional de Pesquisas da Amazônia,,"9,90",SN,Nutrição,Recomendada,Aprovada,"R$ 68.155,00"
+2,460136/2025-9,ANGELICA BAPTISTA SILVA Fundação Oswaldo Cruz,,"9,00",SN,Saúde Coletiva,Recomendada,Aprovada,"R$ 51.508,00"
+2,440653/2026-6,JOZIANA MUNIZ DE PAIVA BARCANTE Universidade Federal de Lavras,,"9,11",SN,Saúde Coletiva,Recomendada,Aprovada,"R$ 59.874,00"
+2,440186/2026-9,ESTELA IRACI RABITO Universidade Federal do Paraná,,"9,33",SN,Nutrição,Recomendada,Aprovada,"R$ 68.155,00"
+2,440894/2026-3,ZENI CARVALHO LAMY Universidade Federal do Maranhão,,"8,61",SN,Saúde Coletiva,Recomendada,Aprovada,"R$ 68.155,00"
+2,441204/2026-0,MARCIO SANTOS DA NATIVIDADE Universidade Federal da Bahia,,"9,84",SN,Saúde Coletiva,Recomendada,Aprovada,"R$ 68.153,00"
+2,440039/2026-6,FABIO DE SOUZA MENDONCA Universidade Federal Rural de Pernambuco,,"9,59",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 13.300,00"
+2,440933/2026-9,ALICE RODRIGUES DE OLIVEIRA Universidade Federal da Bahia,,"8,90",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 13.300,00"
+2,440349/2026-5,ANDRE LACERDA DE ABREU OLIVEIRA Associação Nacional de Clínicos Veterinários de Pequenos Animais - GO,,"9,61",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 13.300,00"
+2,440396/2026-3,ARMANDO DE MATTOS CARVALHO Universidade Federal de Minas Gerais,,"9,67",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 13.300,00"
+2,440711/2026-6,EMILY CORRENA CARLO REIS Universidade Federal de Viçosa,,"9,00",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 13.300,00"
+2,440954/2026-6,JOSE PAES DE OLIVEIRA FILHO Universidade Estadual Paulista Júlio de Mesquita Filho,,"9,50",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 13.300,00"
+2,440213/2026-6,RICARDO NASCIMENTO ARAUJO Universidade Federal de Minas Gerais,,"8,73",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 13.300,00"
+2,440466/2026-1,ALEXANDRE ROSSETTO GARCIA Empresa Brasileira de Pesquisa Agropecuária,,"9,33",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 13.300,00"
+2,440799/2026-0,MURILO VIEIRA DA SILVA Universidade Federal de Uberlândia,,"9,36",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 13.300,00"
+2,441282/2026-1,CLAUDIA BEZERRA DA SILVA Universidade Federal Rural do Rio de Janeiro,,"8,70",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 13.300,00"
+2,440482/2026-7,DIDIER QUEVEDO CAGNINI Associacao Brasileira de Patologia Veterinaria,,"9,17",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 13.300,00"
+2,440669/2026-0,IVAN CUNHA BUSTAMANTE FILHO Universidade de Brasília,,"9,44",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 13.300,00"
+2,440021/2026-0,ROBERTO SARTORI FILHO Sociedade Brasileira de Tecnologia de Embriões,,"8,89",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 13.300,00"
+2,440643/2026-0,SANDRA MARA DA ENCARNACAO FIALA RECHSTEINER Universidade Federal de Pelotas,,"9,22",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 13.300,00"
+2,460124/2025-0,JOSE EDUARDO SERRAO Universidade Federal de Viçosa,,"9,56",ZO,Zoologia,Recomendada,Aprovada,"R$ 38.100,00"
+2,440843/2026-0,FABIO DE OLIVEIRA ROQUE Universidade Federal de Mato Grosso do Sul,,"9,00",ZO,Zoologia,Recomendada,Aprovada,"R$ 29.300,00"
+2,440876/2026-5,ANDRE VICTOR LUCCI FREITAS Universidade Estadual de Campinas,,"9,11",ZO,Zoologia,Recomendada,Aprovada,"R$ 38.000,00"
+2,440407/2026-5,FERNANDO ZAGURY VAZ DE MELLO Universidade Federal de Mato Grosso,,"9,78",ZO,Zoologia,Recomendada,Aprovada,"R$ 47.000,00"
+2,440915/2026-0,LUCIANO TREVIZAN Universidade Federal do Rio Grande do Sul,,"7,83",ZT,Zootecnia,Recomendada,Aprovada,"R$ 20.000,00"
+2,440723/2026-4,STELIO BEZERRA PINHEIRO DE LIMA Universidade Federal do Piauí,,"9,89",ZT,Zootecnia,Recomendada,Aprovada,"R$ 40.000,00"
+2,460229/2025-7,FAGNER D AMBROSO FERNANDES Universidade Federal de Santa Maria,,"8,33",ZT,Zootecnia,Recomendada,Aprovada,"R$ 20.000,00"
+2,440920/2026-4,MARINA DE ARRUDA CAMARGO DANES Universidade Federal de Lavras,,"9,78",ZT,Zootecnia,Recomendada,Aprovada,"R$ 40.000,00"
+2,440178/2026-6,MARCUS ROBERTO GOES FERREIRA COSTA Instituto Federal do Ceará,,"9,20",ZT,Zootecnia,Recomendada,Aprovada,"R$ 40.000,00"
+3,441281/2026-5,MARCIO FERREIRA DA SILVA UFMA - Universidade Federal do Maranhão,,"8,44",AC,Ciência da Informação,Recomendada,Aprovada,"R$ 10.000,00"
+3,441277/2026-8,ROGERIO APARECIDO SA RAMALHO Instituto de Informação para Inovação,,"8,94",AC,Ciência da Informação,Recomendada,Aprovada,"R$ 11.000,00"
+3,440144/2026-4,JOSE CLAUDIO ALVES DE OLIVEIRA Universidade Federal da Bahia,,"7,72",AC,Museologia,Recomendada,Aprovada,"R$ 10.000,00"
+3,440181/2026-7,EDIVANIO DUARTE DE SOUZA Universidade Federal de Alagoas,,"9,56",AC,Ciência da Informação,Recomendada,Aprovada,"R$ 12.000,00"
+3,440525/2026-8,LUCIANA CANDIDA DA SILVA Universidade Federal de Goiás,,"9,33",AC,Ciência da Informação,Recomendada,Aprovada,"R$ 12.000,00"
+3,440790/2026-3,CARLOS HUMBERTO FERREIRA SILVA JUNIOR Universidade Federal de Lavras,,"9,22",AC,Comunicação,Recomendada,Aprovada,"R$ 10.000,00"
+3,440080/2026-6,ARTHUR CEZAR DE ARAUJO ITUASSU FILHO Pontifícia Universidade Católica do Rio de Janeiro,,"9,44",AC,Comunicação,Recomendada,Aprovada,"R$ 10.000,00"
+3,440965/2026-8,LUCIANE DE FATIMA BECKMAN CAVALCANTE Instituto Brasileiro de Informação em Ciência e Tecnologia,,"9,67",AC,Ciência da Informação,Recomendada,Aprovada,"R$ 13.000,00"
+3,460081/2025-0,CAROLINE PAULETTO SPANHOL Universidade Federal de Mato Grosso do Sul,,"8,27",AE,Administração,Recomendada,Aprovada,"R$ 24.000,00"
+3,441046/2026-6,ANA PAULA MORENO PINHO Universidade Federal do Ceará,,"8,30",AE,Administração,Recomendada,Aprovada,"R$ 22.000,00"
+3,460116/2025-8,MAGNUS LUIZ EMMENDOERFER Universidade Federal de Viçosa,,"8,92",AE,Administração,Recomendada,Aprovada,"R$ 27.000,00"
+3,441202/2026-8,EDNALVA FELIX DAS NEVES Universidade Federal de Santa Maria,,"9,22",AE,Economia,Recomendada,Aprovada,"R$ 11.284,15"
+3,440897/2026-2,VALCEMIRO NOSSA FUCAPE,,"8,89",AE,Administração,Recomendada,Aprovada,"R$ 10.000,00"
+3,440980/2026-7,CAROLINA DA SILVEIRA BUENO Universidade Estadual de Campinas,,"10,00",AE,Economia,Recomendada,Aprovada,"R$ 30.000,00"
+3,441082/2026-2,RAFAEL DE LUCENA PERINI Universidade de Caxias do Sul,,"8,91",AE,Administração,Recomendada,Aprovada,"R$ 27.000,00"
+3,440477/2026-3,RAUL GUARINI RIVA Fundação Getúlio Vargas,,"9,33",AE,Economia,Recomendada,Aprovada,"R$ 20.000,00"
+3,440739/2026-8,HENRIQUE ANTUNES DE SOUZA Empresa Brasileira de Pesquisa Agropecuária,,"8,48",AG,Agronomia,Recomendada,Aprovada,"R$ 9.421,00"
+3,440837/2026-0,TAVVS MICAEL ALVES Instituto Federal Goiano,,"8,11",AG,Agronomia,Recomendada,Aprovada,"R$ 5.059,00"
+3,441316/2026-3,NUNO RODRIGO MADEIRA Empresa Brasileira de Pesquisa Agropecuária,,"9,78",AG,Agronomia,Recomendada,Aprovada,"R$ 8.000,00"
+3,440328/2026-8,NILTON CEZAR CARRARO Universidade Federal de São Carlos,,"9,11",AG,Agronomia,Recomendada,Aprovada,"R$ 8.000,00"
+3,440112/2026-5,FABIO LUIZ PARTELLI Universidade Federal do Espírito Santo,,"9,00",AG,Agronomia,Recomendada,Aprovada,"R$ 8.000,00"
+3,440825/2026-1,DANIELA BARROS DE OLIVEIRA RIBEIRO Universidade Estadual do Norte Fluminense Darcy Ribeiro,,"9,06",AG,Agronomia,Recomendada,Aprovada,"R$ 8.000,00"
+3,440212/2026-0,LUIS FELIPE VILLANI PURQUERIO Instituto Agronômico de Campinas,,"9,22",AG,Agronomia,Recomendada,Aprovada,"R$ 8.000,00"
+3,441275/2026-5,PRISCILA LUPINO GRATAO Universidade Estadual Paulista Júlio de Mesquita Filho,,"9,12",AG,Agronomia,Recomendada,Aprovada,"R$ 5.000,00"
+3,440346/2026-6,JULIANO GARAVAGLIA FUNDACAO UNIVERSIDADE FEDERAL DE CIENCIAS DA SAUDE DE PORTO ALEGRE,,"8,33",AL,Ciência e Tecnologia de Alimentos,Recomendada,Aprovada,"R$ 18.000,00"
+3,440874/2026-2,BRUNO RICARDO DE CASTRO LEITE JUNIOR Universidade Federal de Viçosa,,"9,00",AL,Ciência e Tecnologia de Alimentos,Recomendada,Aprovada,"R$ 18.000,00"
+3,440537/2026-6,PAULO HENRIQUE MACHADO DE SOUSA Universidade Federal do Ceará,,"8,83",AL,Ciência e Tecnologia de Alimentos,Recomendada,Aprovada,"R$ 18.000,00"
+3,441172/2026-1,GERLA CASTELLO BRANCO CHINELATE Universidade Federal do Agreste de Pernambuco,,"8,36",AL,Ciência e Tecnologia de Alimentos,Recomendada,Aprovada,"R$ 18.000,00"
+3,440584/2026-4,FRANCISCA DAS CHAGAS DO AMARAL SOUZA Instituto Nacional de Pesquisas da Amazônia,,"9,56",AL,Ciência e Tecnologia de Alimentos,Recomendada,Aprovada,"R$ 18.000,00"
+3,440392/2026-8,LUIS OTAVIO BRITO DA SILVA Universidade Federal Rural de Pernambuco,,"9,67",AQ,Recursos Pesqueiros e Engenharia de Pesca,Recomendada,Aprovada,"R$ 10.000,00"
+3,440945/2026-7,FABRICIO LUIZ TULINI Universidade Federal do Oeste da Bahia,,"9,48",BI,Biotecnologia,Recomendada,Aprovada,"R$ 14.200,00"
+3,440532/2026-4,FABIANO LOPES THOMPSON Universidade Federal do Rio de Janeiro,,"9,61",BI,Biotecnologia,Recomendada,Aprovada,"R$ 29.960,00"
+3,440994/2026-8,EDMUNDO DE ALMEIDA GALLO Fundação Oswaldo Cruz,,"9,80",CA,Ciências Ambientais,Recomendada,Aprovada,"R$ 34.781,84"
+3,441156/2026-6,GERALDO ALVES DAMASCENO JUNIOR Universidade Federal de Mato Grosso do Sul,,"9,60",CA,Ciências Ambientais,Recomendada,Aprovada,"R$ 33.736,29"
+3,440575/2026-5,MARIO VASCONCELLOS SOBRINHO Universidade Federal do Pará,,"9,50",CA,Ciências Ambientais,Recomendada,Aprovada,"R$ 33.472,35"
+3,440623/2026-0,RODRIGO AMADO GARCIA SILVA Universidade Federal Fluminense,,"9,90",CA,Engenharia Civil,Recomendada,Aprovada,"R$ 34.851,55"
+3,440444/2026-8,HELBER BARROS GOMES Universidade Federal de Alagoas,,"9,40",CA,Geociências,Recomendada,Aprovada,"R$ 28.318,04"
+3,460074/2025-3,CRISTIANO POLETO Universidade Federal do Rio Grande do Sul,,"9,70",CA,Engenharia Sanitária,Recomendada,Aprovada,"R$ 34.839,93"
+3,441109/2026-8,FLAVIO VINICIUS DINIZ DE FIGUEIREDO Universidade Federal de Minas Gerais,,"8,30",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 5.000,00"
+3,440765/2026-9,ANDERSON CORREA DE LIMA Universidade Federal de Mato Grosso do Sul,,"10,00",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 10.000,00"
+3,440117/2026-7,MARIZA FERRO Universidade Federal Fluminense,,"9,50",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 10.000,00"
+3,440159/2026-1,DANTE AUGUSTO COUTO BARONE Universidade Federal do Rio Grande do Sul,,"8,00",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 5.000,00"
+3,440792/2026-6,WALTER TEIXEIRA LIMA JUNIOR Universidade Federal de São Paulo,,"8,50",CC,Ciência da Computação,Recomendada,Aprovada,"R$ 5.000,00"
+3,440748/2026-7,MARIA ELVIRA DIAZ BENITEZ Universidade Federal do Rio de Janeiro,,"8,76",CS,Antropologia,Recomendada,Aprovada,"R$ 10.000,00"
+3,441259/2026-0,TATIANA DE ALMEIDA FREITAS RODRIGUES CARDOSO SQUEFF Universidade Federal do Rio Grande do Sul,,"9,02",CS,Direito,Recomendada,Aprovada,"R$ 18.000,00"
+3,440259/2026-6,PAULA WOJCIKIEWICZ ALMEIDA Fundação Getúlio Vargas,,"9,74",CS,Direito,Recomendada,Aprovada,"R$ 18.000,00"
+3,440527/2026-0,BRUNO ROTTA ALMEIDA Universidade Federal de Pelotas,,"9,11",CS,Direito,Recomendada,Aprovada,"R$ 18.000,00"
+3,440293/2026-0,DANIELA SILVA FONTOURA DE BARCELLOS Universidade Federal do Rio de Janeiro,,"9,41",CS,Direito,Recomendada,Aprovada,"R$ 18.000,00"
+3,440740/2026-6,LITON LANES PILAU SOBRINHO Universidade do Vale do Itajaí,,"9,03",CS,Direito,Recomendada,Aprovada,"R$ 18.000,00"
+3,440278/2026-0,ANA MARIA D AVILA LOPES Universidade de Fortaleza,,"9,23",CS,Direito,Recomendada,Aprovada,"R$ 14.000,00"
+3,440942/2026-8,YURI NATHAN DA COSTA LANNES Faculdade de Direito de Franca,,"9,40",CS,Direito,Recomendada,Aprovada,"R$ 18.000,00"
+3,441029/2026-4,HERMES ZANETI JUNIOR Universidade Federal do Espírito Santo,,"9,30",CS,Direito,Recomendada,Aprovada,"R$ 18.000,00"
+3,440968/2026-7,FERNANDA HENRIQUE CUPERTINO ALCANTARA Universidade Federal de Juiz de Fora,,"7,56",CS,Sociologia,Recomendada,Aprovada,"R$ 15.000,00"
+3,441081/2026-6,MARTONIO MONT ALVERNE BARRETO LIMA Universidade de Fortaleza,,"9,78",CS,Direito,Recomendada,Aprovada,"R$ 18.000,00"
+3,440973/2026-0,ALEXANDRE VIEIRA WERNECK Universidade Federal do Rio de Janeiro,,"9,22",CS,Sociologia,Recomendada,Aprovada,"R$ 15.000,00"
+3,440614/2026-0,MARIA CELI RAMOS DA CRUZ SCALON Universidade Federal do Rio de Janeiro,,"9,44",CS,Sociologia,Recomendada,Aprovada,"R$ 15.000,00"
+3,441004/2026-1,AMANCIO JORGE SILVA NUNES DE OLIVEIRA Universidade de São Paulo,,"9,33",CS,Ciência Política,Recomendada,Aprovada,"R$ 11.000,00"
+3,440404/2026-6,PABLO DE REZENDE SATURNINO BRAGA Universidade do Estado do Rio de Janeiro,,"9,44",CS,Ciência Política,Recomendada,Aprovada,"R$ 15.000,00"
+3,441079/2026-1,NIRVIA RAVENA Universidade Federal do Pará,,"9,89",CS,Ciência Política,Recomendada,Aprovada,"R$ 20.000,00"
+3,440193/2026-5,FERNANDO RISTER DE SOUSA LIMA Universidade Presbiteriana Mackenzie,,"9,22",CS,Direito,Recomendada,Aprovada,"R$ 18.000,00"
+3,440329/2026-4,VI GRUNVALD Universidade Federal do Rio Grande do Sul,,"10,00",CS,Antropologia,Recomendada,Aprovada,"R$ 20.000,00"
+3,440076/2026-9,PEDRO ABIB HECKTHEUER Faculdade Católica de Rondônia,,"9,10",CS,Direito,Recomendada,Aprovada,"R$ 18.000,00"
+3,440172/2026-8,RENATO FRANCISQUINI TEIXEIRA Universidade Federal da Bahia,,"9,62",CS,Ciência Política,Recomendada,Aprovada,"R$ 20.000,00"
+3,441049/2026-5,CARMEN ROSA GIRALDO VERGARA Universidade Federal de Minas Gerais,,"8,78",DC,Divulgação Científica,Recomendada,Aprovada,"R$ 128.000,00"
+3,440236/2026-6,RODRIGO ARANTES REIS Universidade Federal do Paraná,,"9,33",DC,Divulgação Científica,Recomendada,Aprovada,"R$ 136.000,00"
+3,440220/2026-2,DELMARCIO GOMES DA SILVA Universidade Presbiteriana Mackenzie,,"9,22",DC,Divulgação Científica,Recomendada,Aprovada,"R$ 136.000,00"
+3,440105/2026-9,DANIELLA JORGE DE MOURA Universidade Estadual de Campinas,,"8,17",EA,Engenharia Agrícola,Recomendada,Aprovada,"R$ 20.000,00"
+3,440741/2026-2,"GIULLIANO GUIMARAES SILVA Instituto Federal de Educação, Ciência e Tecnologia do Tocantins",,"8,44",EC,Engenharia Civil,Recomendada,Aprovada,"R$ 1.500,00"
+3,440476/2026-7,RITA DE CASSIA PRAZERES FRANGELLA GOMES Universidade do Estado do Rio de Janeiro,,"9,44",ED,Educação,Recomendada,Aprovada,"R$ 40.000,00"
+3,440194/2026-1,ANA TEREZA REIS DA SILVA Universidade de Brasília,,"9,00",ED,Educação,Recomendada,Aprovada,"R$ 40.000,00"
+3,440352/2026-6,ADRIANE RAQUEL SANTANA DE LIMA Universidade Federal do Pará,,"9,22",ED,Educação,Recomendada,Aprovada,"R$ 40.000,00"
+3,441230/2026-1,MARIA DO SOCORRO DA SILVA ARANTES Universidade Federal do Piauí,,"9,56",ED,Educação,Recomendada,Aprovada,"R$ 37.500,00"
+3,460022/2025-3,FABIANE APARECIDA SANTOS CLEMENTE-SALLES Universidade Federal de Mato Grosso,,"9,22",ED,Educação,Recomendada,Aprovada,"R$ 32.000,00"
+3,440538/2026-2,MARIA DO CARMO DE SOUSA Universidade Federal de São Carlos,,"9,44",ED,Educação,Recomendada,Aprovada,"R$ 37.500,00"
+3,460038/2025-7,NATANAEL REIS BOMFIM Universidade do Estado da Bahia,,"9,50",ED,Educação,Recomendada,Aprovada,"R$ 30.000,00"
+3,440064/2026-0,ARLETE RAMOS DOS SANTOS Universidade Estadual do Sudoeste da Bahia,,"10,00",ED,Educação,Recomendada,Aprovada,"R$ 40.000,00"
+3,440952/2026-3,VITOR SOUSA CUNHA NERY Sociedade Brasileira de História da Educação,,"9,78",ED,Educação,Recomendada,Aprovada,"R$ 35.000,00"
+3,440025/2026-5,JOSE JULIO CESAR DO NASCIMENTO ARAUJO Instituto Federal do Acre,,"9,28",ED,Educação,Recomendada,Aprovada,"R$ 40.000,00"
+3,440370/2026-4,CARLA LIANE NASCIMENTO DOS SANTOS Universidade do Estado da Bahia,,"10,00",ED,Educação,Recomendada,Aprovada,"R$ 40.000,00"
+3,440912/2026-1,MARTA LICIA TELES BRITO DE JESUS Universidade Federal da Bahia,,"9,11",ED,Educação,Recomendada,Aprovada,"R$ 25.000,00"
+3,440959/2026-8,AUGUSTO CESAR RIOS LEIRO Universidade Federal da Bahia,,"9,11",ED,Educação,Recomendada,Aprovada,"R$ 40.000,00"
+3,441149/2026-0,NIVALDO ANTONIO PORTELA DE VASCONCELOS Universidade Federal de Pernambuco,,"8,67",EE,Engenharia Biomédica,Recomendada,Aprovada,"R$ 25.000,00"
+3,441226/2026-4,LARISSA DRIEMEIER Universidade de São Paulo,,"8,22",EE,"Robótica, Mecatrônica e Automação",Recomendada,Aprovada,"R$ 40.000,00"
+3,440199/2026-3,PAULA MARCIANA PINHEIRO DE OLIVEIRA Universidade da Integração Internacional da Lusofonia Afro-Brasileira,,"9,18",EF,Enfermagem,Recomendada,Aprovada,"R$ 25.000,00"
+3,440685/2026-5,LARISSA CHAVES PEDREIRA SILVA Universidade Federal da Bahia,,"9,17",EF,Enfermagem,Recomendada,Aprovada,"R$ 23.650,00"
+3,441062/2026-1,MARTA JUSSARA CREMER Universidade da Região de Joinville,,"7,89",EL,Ecologia,Recomendada,Aprovada,"R$ 6.500,00"
+3,440306/2026-4,JOEL CHRISTOPHER CREED Universidade do Estado do Rio de Janeiro,,"9,44",EL,Ecologia,Recomendada,Aprovada,"R$ 9.500,00"
+3,440705/2026-6,GUARINO RINALDI COLLI Universidade de Brasília,,"9,11",EL,Ecologia,Recomendada,Aprovada,"R$ 8.500,00"
+3,440730/2026-0,ELVIS JOACIR DE FRANCA COMISSAO NACIONAL DE ENERGIA NUCLEAR,,"7,11",EN,Engenharia Nuclear,Recomendada,Aprovada,"R$ 13.000,00"
+3,440401/2026-7,MARCIA DE ALMEIDA RIZZUTTO Universidade de São Paulo,,"9,11",EN,Engenharia Nuclear,Recomendada,Aprovada,"R$ 15.000,00"
+3,440014/2026-3,CLAIRON LIMA PINHEIRO Universidade do Estado do Amazonas,,"9,00",EQ,Engenharia Química,Recomendada,Aprovada,"R$ 15.000,00"
+3,440744/2026-1,ANA LEONOR CHIES SANTIAGO SANTOS Universidade Federal do Rio Grande do Sul,,"8,44",FA,Astronomia,Recomendada,Aprovada,"R$ 25.000,00"
+3,440036/2026-7,FREDERICO ANTONIO GENEZINI COMISSAO NACIONAL DE ENERGIA NUCLEAR,,"8,89",FA,Física,Recomendada,Aprovada,"R$ 35.000,00"
+3,460107/2025-9,CICERO RAFAEL CENA DA SILVA Universidade Federal de Mato Grosso do Sul,,"8,78",FA,Física,Recomendada,Aprovada,"R$ 20.000,00"
+3,440281/2026-1,OSVALDO FROTA PESSOA JUNIOR Universidade de São Paulo,,"8,39",FI,Filosofia,Recomendada,Aprovada,"R$ 10.000,00"
+3,440955/2026-2,HELDER BUENOS AIRES DE CARVALHO Universidade Federal do Piauí,,"8,36",FI,Filosofia,Recomendada,Aprovada,"R$ 10.000,00"
+3,440262/2026-7,ROBINSON DOS SANTOS Universidade Federal do Paraná,,"9,28",FI,Filosofia,Recomendada,Aprovada,"R$ 20.000,00"
+3,440458/2026-9,WILLIAM COSTA FILHO Universidade Estadual do Ceará,,"9,23",FI,Filosofia,Recomendada,Aprovada,"R$ 15.000,00"
+3,460123/2025-4,OSCAR FEDERICO BAUCHWITZ Universidade Federal do Rio Grande do Norte,,"8,33",FI,Filosofia,Recomendada,Aprovada,"R$ 10.000,00"
+3,440470/2026-9,WEINY CESAR FREITAS PINTO Universidade Federal de Mato Grosso do Sul,,"8,50",FI,Filosofia,Recomendada,Aprovada,"R$ 10.000,00"
+3,441266/2026-6,PAULO EDUARDO BODZIAK JUNIOR Universidade Federal do Rio Grande do Norte,,"8,44",FI,Filosofia,Recomendada,Aprovada,"R$ 10.000,00"
+3,441048/2026-9,JEAN YVES BEZIAU Universidade Federal do Rio de Janeiro,,"8,94",FI,Filosofia,Recomendada,Aprovada,"R$ 15.000,00"
+3,441043/2026-7,ADERSON FARIAS DO NASCIMENTO Universidade Federal do Rio Grande do Norte,,"8,06",GC,Geociências,Recomendada,Aprovada,"R$ 17.972,83"
+3,460023/2025-0,CRISTIANO TORRES DO AMARAL Centro Gestor e Operacional do Sistema de Proteção da Amazônia,,"7,94",GC,Geociências,Recomendada,Aprovada,"R$ 11.233,02"
+3,441095/2026-7,MARIA DENISE FERNANDES CARVALHO DE ANDRADE Universidade Estadual do Ceará,,"9,00",GE,Genética,Recomendada,Aprovada,"R$ 15.000,00"
+3,460139/2025-8,SAVIO TORRES DE FARIAS Universidade Federal da Paraíba,,"10,00",GE,Genética,Recomendada,Aprovada,"R$ 35.000,00"
+3,440474/2026-4,RODRIGO PATTO SA MOTTA Universidade Federal de Minas Gerais,,"9,89",HI,História,Recomendada,Aprovada,"R$ 25.000,00"
+3,441061/2026-5,VITALE JOANONI NETO Universidade Federal de Mato Grosso,,"9,01",HI,História,Recomendada,Aprovada,"R$ 25.000,00"
+3,440612/2026-8,ALESSANDRA GASPAROTTO Universidade Federal de Pelotas,,"9,56",HI,História,Recomendada,Aprovada,"R$ 25.000,00"
+3,460217/2025-9,GLENDA CRISTINA VALIM DE MELO Universidade Federal do Rio de Janeiro,,"8,46",LL,Lingüística,Recomendada,Aprovada,"R$ 50.000,00"
+3,440991/2026-9,PEDRO MANDAGARA RIBEIRO Universidade de Brasília,,"9,78",LL,Letras,Recomendada,Aprovada,"R$ 30.000,00"
+3,441110/2026-6,YUDITH ROSENBAUM Universidade de São Paulo,,"9,61",LL,Letras,Recomendada,Aprovada,"R$ 30.000,00"
+3,440267/2026-9,MARCELA SANTOS BRIGIDA Universidade do Estado do Rio de Janeiro,,"9,46",LL,Letras,Recomendada,Aprovada,"R$ 30.000,00"
+3,440996/2026-0,DANIEL BATISTA LIMA BORGES Universidade Federal do Amapá,,"10,00",LL,Letras,Recomendada,Aprovada,"R$ 67.200,00"
+3,440657/2026-1,MARIA LUISA FREITAS Universidade Federal de Pernambuco,,"9,30",LL,Lingüística,Recomendada,Aprovada,"R$ 50.000,00"
+3,440280/2026-5,ZAQUEU ALVES RAMOS Universidade Federal de Sergipe,,"9,08",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+3,440340/2026-8,JAQUELINE GODOY MESQUITA Universidade Estadual de Campinas,,"9,19",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+3,440202/2026-4,JOSE AUGUSTO GEROLIN GAVEA Instituto Nacional de Matemática Pura e Aplicada,,"8,79",MA,Matemática,Recomendada,Aprovada,"R$ 10.000,00"
+3,440032/2026-1,MARCIO ANTONIO JORGE DA SILVA Universidade Estadual de Londrina,,"8,97",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+3,440851/2026-2,JOSE NAZARENO VIEIRA GOMES Sociedade Brasileira de Matemática,,"9,22",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+3,441009/2026-3,WILLIAN ISAO TOKURA Universidade Federal da Grande Dourados,,"8,86",MA,Matemática,Recomendada,Aprovada,"R$ 10.000,00"
+3,441055/2026-5,FERNANDO JUNIOR SOARES DOS SANTOS Universidade Federal do Amazonas,,"9,00",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+3,441260/2026-8,PEDRO CAMPOS ARAUJO Universidade Federal de Pernambuco,,"9,39",MA,Matemática,Recomendada,Aprovada,"R$ 15.000,00"
+3,440501/2026-1,YURI FAHHAM SAPORITO Fundação Getulio Vargas - Matriz,,"9,27",MA,Probabilidade e Estatística,Recomendada,Aprovada,"R$ 15.000,00"
+3,440122/2026-0,CLAUDIO LANDIM Instituto Nacional de Matemática Pura e Aplicada,,"9,58",MA,Probabilidade e Estatística,Recomendada,Aprovada,"R$ 15.000,00"
+3,440248/2026-4,LUCIANA LUNA ANNA LOMONACO Instituto Nacional de Matemática Pura e Aplicada,,"8,83",MA,Matemática,Recomendada,Aprovada,"R$ 10.000,00"
+3,441158/2026-9,RICHARDSON NAVES LEAO Universidade Federal do Rio Grande do Norte,,"10,00",MD,Medicina,Recomendada,Aprovada,"R$ 150.000,00"
+3,440998/2026-3,MARIMELIA APARECIDA PORCIONATTO Universidade Federal de São Paulo,,"9,00",MF,Morfologia,Recomendada,Aprovada,"R$ 10.000,00"
+3,440043/2026-3,ITALO LEITE DE CAMARGO Instituto Federal de São Paulo,,"8,33",MM,Engenharia de Materiais e Metalúrgica,Recomendada,Aprovada,"R$ 15.000,00"
+3,441268/2026-9,"DENILSON DA SILVA COSTA Instituto Federal de Educação, Ciência e Tecnologia do Pará",,"9,39",MM,Engenharia de Minas,Recomendada,Aprovada,"R$ 15.000,00"
+3,440185/2026-2,LUCIANA ASSIS COSTA Universidade Federal de Minas Gerais,,"9,40",MS,Educação Física,Recomendada,Aprovada,"R$ 20.000,00"
+3,440870/2026-7,ALEXANDRE IGOR ARARIPE MEDEIROS Universidade Federal do Ceará,,"9,20",MS,Educação Física,Recomendada,Aprovada,"R$ 20.000,00"
+3,440022/2026-6,OSVALDO COSTA MOREIRA Universidade Federal de Viçosa,,"10,00",MS,Educação Física,Recomendada,Aprovada,"R$ 25.000,00"
+3,440728/2026-6,HUMBERTO LAMEIRA MIRANDA Universidade Federal do Rio de Janeiro,,"9,60",MS,Educação Física,Recomendada,Aprovada,"R$ 20.000,00"
+3,440341/2026-4,RAFAEL DEMINICE Universidade Estadual de Londrina,,"9,80",MS,Educação Física,Recomendada,Aprovada,"R$ 25.000,00"
+3,440683/2026-2,MARCO AURELIO DE VALOIS CORREIA JUNIOR Universidade de Pernambuco,,"9,90",MS,Fisioterapia e Terapia Ocupacional,Recomendada,Aprovada,"R$ 10.000,00"
+3,440860/2026-1,DANUBIA DA CUNHA DE SA CAPUTO Universidade do Estado do Rio de Janeiro,,"9,70",MS,Fisioterapia e Terapia Ocupacional,Recomendada,Aprovada,"R$ 17.500,00"
+3,440775/2026-4,FRANCISCO JOSE DE CASTRO MOURA DUARTE Universidade Federal do Rio de Janeiro,,"7,94",PE,Engenharia de Produção,Recomendada,Aprovada,"R$ 15.000,00"
+3,440850/2026-6,ARMANDO ALBERTAZZI GONCALVES JUNIOR Universidade Federal de Santa Catarina,,"7,89",PE,Engenharia de Produção,Recomendada,Aprovada,"R$ 13.000,00"
+3,440464/2026-9,ANA PAULA CAMARGO LAROCCA Universidade de São Paulo,,"7,78",PE,Engenharia de Transportes,Recomendada,Aprovada,"R$ 5.000,00"
+3,440227/2026-7,INEZ TEREZINHA STAMPA Pontifícia Universidade Católica de Goiás,,"9,78",PS,Serviço Social,Recomendada,Aprovada,"R$ 30.000,00"
+3,441064/2026-4,TAILSON EVANGELISTA MARIANO Universidade Católica de Pernambuco,,"9,33",PS,Psicologia,Recomendada,Aprovada,"R$ 15.000,00"
+3,440089/2026-3,MARIA LUCIA DE BUSTAMANTE SIMAS Universidade Federal de Pernambuco,,"8,00",PS,Psicologia,Recomendada,Aprovada,"R$ 15.000,00"
+3,440807/2026-3,PAULO SERGIO BOGGIO Universidade Presbiteriana Mackenzie,,"9,67",PS,Psicologia,Recomendada,Aprovada,"R$ 15.000,00"
+3,440836/2026-3,MARIA ALEXANDRA DA SILVA MONTEIRO MUSTAFA Universidade Federal de Pernambuco,,"9,04",PS,Serviço Social,Recomendada,Aprovada,"R$ 10.500,00"
+3,440939/2026-7,ANDREA PIRES ROCHA Universidade Estadual de Londrina,,"8,90",PS,Serviço Social,Recomendada,Aprovada,"R$ 9.500,00"
+3,460138/2025-1,GILSON FERNANDES DA SILVA Universidade Federal do Espírito Santo,,"9,50",RF,Recursos Florestais e Engenharia Florestal,Recomendada,Aprovada,"R$ 20.000,00"
+3,440410/2026-6,FABIO MINORU YAMAJI Universidade Federal de São Carlos,,"9,48",RF,Recursos Florestais e Engenharia Florestal,Recomendada,Aprovada,"R$ 20.000,00"
+3,440610/2026-5,MAYARA ELITA BRAZ CARNEIRO Universidade Federal do Paraná,,"9,61",RF,Recursos Florestais e Engenharia Florestal,Recomendada,Aprovada,"R$ 20.000,00"
+3,440838/2026-6,RENATO EMERSON NASCIMENTO DOS SANTOS Universidade Federal do Rio de Janeiro,,"9,33",SA,Planejamento Urbano e Regional,Recomendada,Aprovada,"R$ 10.000,00"
+3,440238/2026-9,JOSE FALCAO SOBRINHO Universidade Estadual Vale do Acaraú,,"10,00",SA,Geociências,Recomendada,Aprovada,"R$ 10.000,00"
+3,440269/2026-1,PAULA FREIRE SANTORO Universidade de São Paulo,,"8,78",SA,Planejamento Urbano e Regional,Recomendada,Aprovada,"R$ 10.000,00"
+3,440314/2026-7,VALTER DO CARMO CRUZ Universidade Federal Fluminense,,"9,00",SA,Geografia,Recomendada,Aprovada,"R$ 15.000,00"
+3,440787/2026-2,EVERALDO BATISTA DA COSTA Universidade de Brasília,,"8,71",SA,Geografia,Recomendada,Aprovada,"R$ 10.000,00"
+3,460110/2025-0,ANTONIO PEREIRA MAGALHAES JUNIOR Universidade Federal de Minas Gerais,,"9,99",SA,Geociências,Recomendada,Aprovada,"R$ 10.000,00"
+3,440993/2026-1,NAUIRA ZANARDO ZANIN Universidade Federal da Fronteira Sul,,"9,00",SA,Arquitetura e Urbanismo,Recomendada,Aprovada,"R$ 20.000,00"
+3,440201/2026-8,FABIO MACEDO VELAME Universidade Federal da Bahia,,"9,06",SA,Arquitetura e Urbanismo,Recomendada,Aprovada,"R$ 20.000,00"
+3,440240/2026-3,RICARDO LANZARINI Universidade Federal do Rio Grande do Norte,,"9,00",SA,Turismo,Recomendada,Aprovada,"R$ 20.000,00"
+3,440141/2026-5,ALISSANDRA NAZARETH DE CARVALHO Universidade Federal de Ouro Preto,,"8,01",SA,Turismo,Recomendada,Aprovada,"R$ 10.000,00"
+3,441047/2026-2,ISLANDIA MARIA CARVALHO DE SOUSA Universidade Federal da Bahia,,"9,33",SN,Saúde Coletiva,Recomendada,Aprovada,"R$ 37.014,00"
+3,460177/2025-7,LEONARDO CARNUT Universidade de São Paulo,,"9,00",SN,Saúde Coletiva,Recomendada,Aprovada,"R$ 21.453,00"
+3,440879/2026-4,FRANCIELE MARABOTTI COSTA LEITE Universidade Federal do Espírito Santo,,"9,10",SN,Saúde Coletiva,Recomendada,Aprovada,"R$ 37.014,00"
+3,440854/2026-1,JOAO FELIPE MOTA Universidade Federal de Goiás,,"9,71",SN,Nutrição,Recomendada,Aprovada,"R$ 37.014,00"
+3,441162/2026-6,DIVANE DE VARGAS Universidade de São Paulo,,"9,17",SN,Saúde Coletiva,Recomendada,Aprovada,"R$ 27.884,00"
+3,440761/2026-3,LETICIA LEMOS JARDIM Fundação Educacional Lucas Machado,,"9,30",SN,Saúde Coletiva,Recomendada,Aprovada,"R$ 21.592,00"
+3,440806/2026-7,MICHAEL FERREIRA MACHADO Universidade Federal de Alagoas,,"9,67",SN,Saúde Coletiva,Recomendada,Aprovada,"R$ 37.014,00"
+3,440960/2026-6,HERLA MARIA FURTADO JORGE Universidade Federal do Piauí,,"9,12",SN,Saúde Coletiva,Recomendada,Aprovada,"R$ 37.014,00"
+3,440746/2026-4,ANDREZA FRANCISCO MARTINS Universidade Federal do Rio Grande do Sul,,"8,73",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 7.000,00"
+3,440498/2026-0,RICARDO MORATELLI MENDONCA DA ROCHA Fundação Oswaldo Cruz,,"8,82",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 7.000,00"
+3,440467/2026-8,JEANN LEAL DE ARAUJO Universidade Federal da Paraíba,,"9,89",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 7.000,00"
+3,440152/2026-7,ANTONIO CHAVES DE ASSIS NETO Universidade de São Paulo,,"9,47",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 7.000,00"
+3,440380/2026-0,JOSE DOMINGOS GUIMARAES Universidade Federal de Viçosa,,"9,63",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 7.000,00"
+3,441111/2026-2,THYARA DE DECO-SOUZA E ARAUJO Universidade Federal de Mato Grosso do Sul,,"9,60",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 7.000,00"
+3,440930/2026-0,DANILA FERNANDA RODRIGUES FRIAS Secretaria de Saúde do Estado de Mato Grosso do Sul,,"8,97",VT,Medicina Veterinária,Recomendada,Aprovada,"R$ 7.000,00"
+3,440788/2026-9,FABIANA DE ANDRADE MELO STERZA Universidade Estadual de Mato Grosso do Sul,,"8,00",ZT,Zootecnia,Recomendada,Aprovada,"R$ 20.000,00"
+3,440890/2026-8,JOAO PEDRO VELHO Universidade Federal de Santa Maria,,"7,56",ZT,Zootecnia,Recomendada,Aprovada,"R$ 20.000,00"
+3,441022/2026-0,RONALDO LOPES OLIVEIRA Universidade Federal da Bahia,,"9,33",ZT,Zootecnia,Recomendada,Aprovada,"R$ 20.000,00"
+1,441127/2026-6,ESTHER IMPERIO HAMBURGER Universidade de São Paulo,,"8,56",AC,Comunicação Recomendada Não Aprovada -,,,
+1,440035/2026-0,LUCIANE HELENA GARGAGLIONI BATALHAO Universidade Estadual Paulista Júlio de Mesquita Filho,,"10,00",BF,Fisiologia Recomendada Não Aprovada -,,,
+1,440446/2026-0,LUCIANO VOLCAN AGOSTINI Universidade Federal de Pelotas,,"8,30",CC,Ciência da Computação Recomendada Não Aprovada -,,,
+1,440486/2026-2,HELIO DA MOTTA FILHO Centro Brasileiro de Pesquisas Físicas,,"8,67",FA,Física Recomendada Não Aprovada -,,,
+1,440130/2026-3,WUELTON MARCELO MONTEIRO Universidade do Estado do Amazonas,,"9,40",FR,Farmácia Recomendada Não Aprovada -,,,
+1,440675/2026-0,WALDEREZ ORNELAS DUTRA Universidade Federal de Minas Gerais,,"10,00",IM,Imunologia Recomendada Não Aprovada -,,,
+1,440374/2026-0,CRISTIANE APARECIDA FIORAVANTE REIS Empresa Brasileira de Pesquisa Agropecuária,,"9,33",RF,Recursos Florestais e Engenharia Florestal Recomendada Não Aprovada -,,,
+2,440488/2026-5,CLEOMAR DE SOUSA ROCHA Universidade Federal de Goiás,,"7,11",AC,Artes Recomendada Não Aprovada -,,,
+2,440264/2026-0,RAFAEL DE LUNA FREIRE Universidade Federal Fluminense,,"7,22",AC,Comunicação Recomendada Não Aprovada -,,,
+2,441035/2026-4,CAMILA AZEVEDO DE MORAES WICHERS Universidade de São Paulo,,"9,28",AC,Museologia Recomendada Não Aprovada -,,,
+2,440369/2026-6,JESSICA TARINE MOITINHO DE LIMA Universidade Federal do Pará,,"8,83",AC,Museologia Recomendada Não Aprovada -,,,
+2,440273/2026-9,ANDERSON TONI Universidade Federal de Mato Grosso,,"7,00",AC,Artes Recomendada Não Aprovada -,,,
+2,440717/2026-4,TIAGO ESTEVAM GONCALVES Instituto Federal do Ceará,,"8,44",AC,Ciência da Informação Recomendada Não Aprovada -,,,
+2,440665/2026-4,ELIENE BENICIO AMANCIO COSTA Universidade Federal da Bahia,,"8,00",AC,Artes Recomendada Não Aprovada -,,,
+2,441011/2026-8,CARLOS PERNISA JUNIOR Universidade Federal de Juiz de Fora,,"8,67",AC,Comunicação Recomendada Não Aprovada -,,,
+2,440435/2026-9,CRISTIANO MAX PEREIRA PINHEIRO Pontifícia Universidade Católica do Rio Grande do Sul,,"7,39",AC,Comunicação Recomendada Não Aprovada -,,,
+2,440599/2026-1,VIKTOR HENRIQUE CARNEIRO DE SOUZA CHAGAS Universidade Federal Fluminense,,"9,22",AC,Comunicação Recomendada Não Aprovada -,,,
+2,440668/2026-3,LIVIA FERNANDA NERY DA SILVA Universidade Federal do Piauí,,"9,28",AC,Comunicação Recomendada Não Aprovada -,,,
+2,440692/2026-1,GABRIELA MACHADO RAMOS DE ALMEIDA Escola Superior de Propaganda e Marketing,,"9,11",AC,Comunicação Recomendada Não Aprovada -,,,
+2,440824/2026-5,JOAO CARLOS MASSAROLO Universidade Federal de São Carlos,,"9,17",AC,Comunicação Recomendada Não Aprovada -,,,
+2,440902/2026-6,JANAINA DA SILVA FERREIRA Universidade Federal do Rio de Janeiro,,"7,00",AE,Administração Recomendada Não Aprovada -,,,
+2,440555/2026-4,FERNANDA FILGUEIRAS SAUERBRONN Universidade Federal do Rio de Janeiro,,"7,11",AE,Administração Recomendada Não Aprovada -,,,
+2,440975/2026-3,DANIEL THOMAZ GIACOMELLI NUNES MACIEL Universidade Federal de Mato Grosso,,"8,11",AE,Economia Recomendada Não Aprovada -,,,
+2,440984/2026-2,"ADEBARO ALVES DOS REIS Instituto Federal de Educação, Ciência e Tecnologia do Pará",,"8,22",AE,Economia Recomendada Não Aprovada -,,,
+2,440205/2026-3,FELIPE FERREIRA SILVA INSTITUTO DE ESTUDOS E PESQUISAS ESTRATEGICAS (IEPE),,"8,44",AE,Economia Recomendada Não Aprovada -,,,
+2,440316/2026-0,ROBSON DE QUEIROZ MONTEIRO Universidade Federal do Rio de Janeiro,,"9,30",BF,Bioquímica Recomendada Não Aprovada -,,,
+2,460158/2025-2,PEDRO LAGERBLAD DE OLIVEIRA Sociedade Brasileira de Bioquímica e Biologia Molecular,,"8,80",BF,Bioquímica Recomendada Não Aprovada -,,,
+2,440576/2026-1,RODRIGO JULIANI SIQUEIRA DALMOLIN Universidade Federal do Rio Grande do Norte,,"9,10",BF,Bioquímica Recomendada Não Aprovada -,,,
+2,441264/2026-3,WIM MAURITS SYLVAIN DEGRAVE Fundação Oswaldo Cruz,,"8,90",BF,Bioquímica Recomendada Não Aprovada -,,,
+2,440693/2026-8,EMANUEL MALTEMPI DE SOUZA Universidade Federal do Paraná,,"9,90",BF,Bioquímica Recomendada Não Aprovada -,,,
+2,441042/2026-0,BRUNO LOURENCO DIAZ Universidade Federal do Rio de Janeiro,,"9,80",BF,Farmacologia Recomendada Não Aprovada -,,,
+2,440427/2026-6,LEANDRO JOSE BERTOGLIO Universidade Federal de Santa Catarina,,"9,20",BF,Farmacologia Recomendada Não Aprovada -,,,
+2,441315/2026-7,ROSANE GOMEZ Universidade Federal do Rio Grande do Sul,,"9,00",BF,Farmacologia Recomendada Não Aprovada -,,,
+2,440416/2026-4,JOAO PAULO JACOB SABINO Universidade Federal do Piauí,,"9,70",BF,Fisiologia Recomendada Não Aprovada -,,,
+2,440926/2026-2,GUSTAVO RODRIGUES PEDRINO Federação das Sociedades de Biologia Experimental,,"9,40",BF,Fisiologia Recomendada Não Aprovada -,,,
+2,440041/2026-0,JOSIANE DE CAMPOS CRUZ Universidade Federal da Paraíba,,"8,60",BF,Fisiologia Recomendada Não Aprovada -,,,
+2,440706/2026-2,LUAN PEREIRA DINIZ Universidade Federal do Rio de Janeiro,,"8,70",BF,Bioquímica Recomendada Não Aprovada -,,,
+2,440362/2026-1,GISLAINE ZILLI REUS Universidade do Extremo Sul Catarinense,,"9,50",BF,Farmacologia Recomendada Não Aprovada -,,,
+2,440067/2026-0,THIAGO VERANO-BRAGA Universidade Federal de Minas Gerais,,"9,60",BF,Bioquímica Recomendada Não Aprovada -,,,
+2,440358/2026-4,VIVIAN ALONSO GOULART Universidade Federal de Uberlândia,,"9,53",BI,Biotecnologia Recomendada Não Aprovada -,,,
+2,440237/2026-2,RAFAELA DAS DORES PEREIRA Fundação Biominas,,"9,44",BI,Biotecnologia Recomendada Não Aprovada -,,,
+2,441093/2026-4,ANA CLAUDIA DIAS DE OLIVEIRA Associação Brasileira das Indústrias de Química Fina,,"9,37",BI,Biotecnologia Recomendada Não Aprovada -,,,
+2,440758/2026-2,LUANA WALRAVENS BERGAMO Universidade Estadual de Campinas,,"9,19",BI,Biotecnologia Recomendada Não Aprovada -,,,
+2,440852/2026-9,PEDRO MILET MEIRELLES Universidade Federal da Bahia,,"9,50",CA,Ciências Ambientais Recomendada Não Aprovada -,,,
+2,440318/2026-2,CARLOS VITOR DE ALENCAR CARVALHO UNIVERSIDADE DE VASSOURAS,,"9,30",CA,Ciências Ambientais Recomendada Não Aprovada -,,,
+2,440200/2026-1,ALDARA DA SILVA CESAR Universidade Federal Fluminense,,"9,20",CA,Ciências Ambientais Recomendada Não Aprovada -,,,
+2,441027/2026-1,PATRICIA BILOTTA Centro Universitário Augusto Motta,,"9,40",CA,Ciências Ambientais Recomendada Não Aprovada -,,,
+2,440366/2026-7,CARLA TACIANA LIMA LOURENCO SILVA SCHUENEMANN Universidade Federal de Pernambuco,,"7,50",CC,Ciência da Computação Recomendada Não Aprovada -,,,
+2,440412/2026-9,LUIS CARLOS ERPEN DE BONA Universidade Estadual do Oeste do Paraná,,"7,60",CC,Ciência da Computação Recomendada Não Aprovada -,,,
+2,440878/2026-8,AWDREN DE LIMA FONTAO Universidade Federal de Mato Grosso do Sul,,"7,40",CC,Ciência da Computação Recomendada Não Aprovada -,,,
+2,441052/2026-6,DANILO BUSCATTO MEDEIROS Universidade Federal de Minas Gerais,,"10,00",CS,Ciência Política Recomendada Não Aprovada -,,,
+2,440849/2026-8,ORIDES MEZZAROBA Universidade Federal de Santa Catarina,,"10,00",CS,Direito Recomendada Não Aprovada -,,,
+2,460108/2025-5,CLOVIS DEMARCHI Universidade do Vale do Itajaí,,"9,07",CS,Direito Recomendada Não Aprovada -,,,
+2,440449/2026-0,MARCO AURELIO DIAS DE SOUZA Universidade Federal de Sergipe,,"8,78",CS,Sociologia Recomendada Não Aprovada -,,,
+2,441291/2026-0,ROBERTO ALVES DE ARRUDA Universidade do Estado de Mato Grosso,,"8,06",ED,Educação Recomendada Não Aprovada -,,,
+2,440697/2026-3,FRANCISCO JORGE ARSEGO QUADROS DE OLIVEIRA Associação Brasileira de Educação Médica,,"7,50",ED,Educação Recomendada Não Aprovada -,,,
+2,441163/2026-2,LEONARDO DA SILVEIRA BORNE Universidade Federal de Mato Grosso,,"7,94",ED,Educação Recomendada Não Aprovada -,,,
+2,440714/2026-5,SILVIO ROBERTO CONSONNI Universidade Estadual de Campinas,,"8,89",ED,Educação Recomendada Não Aprovada -,,,
+2,440377/2026-9,ALEXANDRA GARCIA FERREIRA LIMA Universidade do Estado do Rio de Janeiro,,"8,33",ED,Educação Recomendada Não Aprovada -,,,
+2,440760/2026-7,NILDA GUIMARAES ALVES Universidade do Estado do Rio de Janeiro,,"8,78",ED,Educação Recomendada Não Aprovada -,,,
+2,441293/2026-3,CRISTINA COUTINHO DE OLIVEIRA Instituto Federal do Amapá,,"8,78",ED,Educação Recomendada Não Aprovada -,,,
+2,441192/2026-2,JONSON NEY DIAS DA SILVA Universidade Estadual do Sudoeste da Bahia,,"8,78",ED,Educação Recomendada Não Aprovada -,,,
+2,441229/2026-3,ANA CLEDINA RODRIGUES GOMES Universidade Federal do Pará,,"8,83",ED,Educação Recomendada Não Aprovada -,,,
+2,440210/2026-7,JOAO CARLOS KRAUSE Universidade Regional Integrada do Alto Uruguai e das Missões,,"7,89",ED,Educação Recomendada Não Aprovada -,,,
+2,440425/2026-3,JOAO GUILHERME DE SOUZA CORREA Universidade Estadual do Paraná,,"7,33",ED,Educação Recomendada Não Aprovada -,,,
+2,441140/2026-2,RACQUEL VALERIO MARTINS Universidade Estadual do Ceará,,"8,56",ED,Educação Recomendada Não Aprovada -,,,
+2,441183/2026-3,AMANDA MOTTA CASTRO Universidade Federal do Rio Grande,,"8,33",ED,Educação Recomendada Não Aprovada -,,,
+2,440925/2026-6,ROCHELE DA SILVA SANTAIANA Universidade Estadual do Rio Grande do Sul,,"8,11",ED,Educação Recomendada Não Aprovada -,,,
+2,440633/2026-5,JOHANNES DOLL Universidade Federal do Rio Grande do Sul,,"8,33",ED,Educação Recomendada Não Aprovada -,,,
+2,440595/2026-6,"MARCELO PEREIRA MARUJO Instituto de Ciência, Tecnologia e de Inovação Sustentável Global",,"8,22",ED,Educação Recomendada Não Aprovada -,,,
+2,440724/2026-0,RICARDO JOSE DE SOUZA SILVA Serviço Nacional de Aprendizagem Comercial - PE,,"8,78",ED,Educação Recomendada Não Aprovada -,,,
+2,440389/2026-7,BRUNO LUCIO MENESES NASCIMENTO Universidade Estadual da Região Tocantina do MA,,"7,06",ED,Educação Recomendada Não Aprovada -,,,
+2,460151/2025-8,FABIO ALEXANDRE BORGES Universidade Estadual de Maringá,,"8,89",ED,Educação Recomendada Não Aprovada -,,,
+2,440893/2026-7,FRANCINEY CARVALHO PALHETA Universidade Federal do Pará,,"7,78",ED,Educação Recomendada Não Aprovada -,,,
+2,440588/2026-0,ISABEL GOMES RODRIGUES MARTINS Universidade Federal do Rio de Janeiro,,"8,89",ED,Educação Recomendada Não Aprovada -,,,
+2,441319/2026-2,MARIA DOLORES FORTES ALVES Universidade Federal de Alagoas,,"8,67",ED,Educação Recomendada Não Aprovada -,,,
+2,441147/2026-7,MANUEL BANDEIRA DOS SANTOS NETO Universidade Estadual do Ceará,,"8,28",ED,Educação Recomendada Não Aprovada -,,,
+2,440766/2026-5,RICARDO SCUCUGLIA RODRIGUES DA SILVA Universidade Estadual Paulista Júlio de Mesquita Filho,,"8,67",ED,Educação Recomendada Não Aprovada -,,,
+2,440935/2026-1,IRINEU MARIO COLOMBO Fundação Parque Tecnológico Itaipu Brasil,,"7,11",ED,Educação Recomendada Não Aprovada -,,,
+2,460178/2025-3,IRAN ABREU MENDES Universidade Federal do Pará,,"8,22",ED,Educação Recomendada Não Aprovada -,,,
+2,440271/2026-6,MARIA AUXILIADORA MOREIRA DOS SANTOS SCHMIDT Universidade Federal do Paraná,,"8,44",ED,Educação Recomendada Não Aprovada -,,,
+2,440900/2026-3,FABIANE CRISTINA HOPNER NOGUTI Universidade Federal de Santa Maria,,"7,89",ED,Educação Recomendada Não Aprovada -,,,
+2,440169/2026-7,LILIAN DE ARAGAO BASTOS DO VALLE Universidade Estadual de Campinas,,"7,89",ED,Educação Recomendada Não Aprovada -,,,
+2,441279/2026-0,ANA CAROLINA GALVAO MARSIGLIA Universidade Federal do Espírito Santo,,"8,00",ED,Educação Recomendada Não Aprovada -,,,
+2,441265/2026-0,LEILYANE OLIVEIRA ARAUJO MASSON Universidade Federal de Goiás,,"7,89",ED,Educação Recomendada Não Aprovada -,,,
+2,440801/2026-5,PAULO ANTONIO LIBONI FILHO Universidade Estadual de Londrina,,"8,44",ED,Educação Recomendada Não Aprovada -,,,
+2,440853/2026-5,ANALDINO PINHEIRO SILVA FILHO Universidade Federal do Recôncavo da Bahia,,"7,94",ED,Educação Recomendada Não Aprovada -,,,
+2,440651/2026-3,VERA LUCIA MESSIAS FIALHO CAPELLINI Universidade Estadual Paulista Júlio de Mesquita Filho,,"8,61",ED,Educação Recomendada Não Aprovada -,,,
+2,441114/2026-1,EDSON PANTALEAO ALVES Universidade Federal do Espírito Santo,,"8,67",ED,Educação Recomendada Não Aprovada -,,,
+2,441098/2026-6,ROMILSON MARTINS SIQUEIRA Universidade do Estado da Bahia,,"8,73",ED,Educação Recomendada Não Aprovada -,,,
+2,440934/2026-5,MIRIAM FABIA ALVES Universidade Federal de Goiás,,"8,00",ED,Educação Recomendada Não Aprovada -,,,
+2,440209/2026-9,CARINA ELISABETH MACIEL Universidade Federal de Mato Grosso do Sul,,"8,67",ED,Educação Recomendada Não Aprovada -,,,
+2,440046/2026-2,MARCELO RICARDO PEREIRA Universidade Federal de Minas Gerais,,"7,00",ED,Educação Recomendada Não Aprovada -,,,
+2,440160/2026-0,RICARDO GONCALVES SEVERO Universidade Federal do Rio Grande,,"9,00",ED,Educação Recomendada Não Aprovada -,,,
+2,440981/2026-3,FABIANE SANTANA PREVITALI Universidade Federal de Uberlândia,,"8,44",ED,Educação Recomendada Não Aprovada -,,,
+2,440914/2026-4,ANDRE DALA POSSA Instituto Federal de Santa Catarina,,"8,28",ED,Educação Recomendada Não Aprovada -,,,
+2,440905/2026-5,DENNYS LEITE MAIA Universidade Federal do Rio Grande do Norte,,"8,67",ED,Educação Recomendada Não Aprovada -,,,
+2,441242/2026-0,ADILSON CRISTIANO HABOWSKI Universidade Regional Integrada do Alto Uruguai e das Missões,,"8,39",ED,Educação Recomendada Não Aprovada -,,,
+2,460152/2025-4,BRAIAN GARRITO VELOSO Universidade Federal de Lavras,,"8,44",ED,Educação Recomendada Não Aprovada -,,,
+2,441015/2026-3,ELIZANDRA REGO DE VASCONCELOS Universidade Federal do Amazonas,,"8,00",ED,Educação Recomendada Não Aprovada -,,,
+2,440297/2026-5,ANA CLAUDIA DA SILVA RODRIGUES Universidade Federal da Paraíba,,"8,44",ED,Educação Recomendada Não Aprovada -,,,
+2,441125/2026-3,SYLVIA HELENA SOUZA DA SILVA BATISTA Universidade Federal de São Paulo,,"8,78",ED,Educação Recomendada Não Aprovada -,,,
+2,440333/2026-1,MARIA CELIA LEME DA SILVA Instituto Federal de São Paulo,,"8,83",ED,Educação Recomendada Não Aprovada -,,,
+2,440298/2026-1,ROSANA LOURO FERREIRA SILVA Universidade de São Paulo,,"8,67",ED,Educação Recomendada Não Aprovada -,,,
+2,440424/2026-7,LUCIANE DE FATIMA BERTINI Universidade Federal de São Paulo,,"8,78",ED,Educação Recomendada Não Aprovada -,,,
+2,440331/2026-9,RENAN SALDANHA GODOI Universidade de São Paulo,,"7,33",ED,Educação Recomendada Não Aprovada -,,,
+2,440768/2026-8,SIMONE ALGERI Hospital de Clínicas de Porto Alegre,,"8,28",EF,Enfermagem Recomendada Não Aprovada -,,,
+2,440713/2026-9,LILIA DE SOUZA NOGUEIRA Universidade de São Paulo,,"8,81",EF,Enfermagem Recomendada Não Aprovada -,,,
+2,440832/2026-8,JULIO CESAR FABRIS Universidade Federal do Espírito Santo,,"8,43",FA,Física Recomendada Não Aprovada -,,,
+2,441108/2026-1,ANA AMELIA BERGAMINI MACHADO Universidade Estadual de Campinas,,"8,28",FA,Física Recomendada Não Aprovada -,,,
+2,440513/2026-0,ALEXANDRE DODONOV Universidade de Brasília,,"8,54",FA,Física Recomendada Não Aprovada -,,,
+2,440182/2026-3,PATRICIA MATOS VIANA DE ALMEIDA Universidade Federal de Rondônia,,"8,21",FA,Física Recomendada Não Aprovada -,,,
+2,441115/2026-8,PEDRO JOSE POMPEIA Instituto Tecnológico de Aeronáutica,,"8,39",FA,Física Recomendada Não Aprovada -,,,
+2,440164/2026-5,CARLOS ALEXANDRE WUENSCHE DE SOUZA Instituto Nacional de Pesquisas Espaciais,,"8,48",FA,Astronomia Recomendada Não Aprovada -,,,
+2,440928/2026-5,NELSON PINTO NETO Centro Brasileiro de Pesquisas Físicas,,"8,40",FA,Física Recomendada Não Aprovada -,,,
+2,440197/2026-0,EDGAR DA ROCHA MARQUES Universidade do Estado do Rio de Janeiro,,"9,78",FI,Filosofia Recomendada Não Aprovada -,,,
+2,440867/2026-6,MOACYR JESUS BARRETO DE MELO REGO Universidade Federal de Pernambuco,,"9,20",FR,Farmácia Recomendada Não Aprovada -,,,
+2,441017/2026-6,JULIANA ALVARES TEODORO Universidade Federal do Rio Grande do Sul,,"7,80",FR,Farmácia Recomendada Não Aprovada -,,,
+2,441151/2026-4,DENISE BRENTAN DA SILVA Universidade Federal de Mato Grosso do Sul,,"8,80",FR,Farmácia Recomendada Não Aprovada -,,,
+2,440119/2026-0,PRISCILA DE SOUZA Universidade do Vale do Itajaí,,"8,60",FR,Farmácia Recomendada Não Aprovada -,,,
+2,440884/2026-8,LAVINIA SCHULER FACCINI Universidade Federal do Rio Grande do Sul,,"9,11",GE,Genética Recomendada Não Aprovada -,,,
+2,460183/2025-7,FRANCISCO DE ASSIS DE SOUSA NASCIMENTO Universidade Federal do Piauí,,"8,83",HI,História Recomendada Não Aprovada -,,,
+2,440049/2026-1,MARLON BRANDT Universidade Federal da Fronteira Sul,,"8,81",HI,História Recomendada Não Aprovada -,,,
+2,440566/2026-6,AGUINALDO RODRIGUES GOMES Universidade Federal de Mato Grosso do Sul,,"8,00",HI,História Recomendada Não Aprovada -,,,
+2,460056/2025-5,THIAGO ALVES DIAS Universidade de Pernambuco,,"8,00",HI,História Recomendada Não Aprovada -,,,
+2,440577/2026-8,ANA SARA RIBEIRO PARENTE CORTEZ IRFFI Universidade Federal do Ceará,,"8,61",HI,História Recomendada Não Aprovada -,,,
+2,440276/2026-8,RODRIGO PEREZ OLIVEIRA Universidade Federal da Bahia,,"8,67",HI,História Recomendada Não Aprovada -,,,
+2,440593/2026-3,LEANDRO PIRES ARAUJO Universidade de São Paulo,,"9,00",IM,Imunologia Recomendada Não Aprovada -,,,
+2,441113/2026-5,ANDERSON LUIS NUNES DA MATA Universidade de Brasília,,"9,56",LL,Letras Recomendada Não Aprovada -,,,
+2,440261/2026-0,PEDRO DA SILVA BARBOSA Universidade Federal do Rio de Janeiro,,"9,08",LL,Letras Recomendada Não Aprovada -,,,
+2,460237/2025-0,MATHEUX NOGUEIRA SCHWARTZMANN Universidade Estadual Paulista Júlio de Mesquita Filho,,"7,22",LL,Lingüística Recomendada Não Aprovada -,,,
+2,440861/2026-8,FABIO RAMOS BARBOSA FILHO Universidade Federal do Rio Grande do Sul,,"7,00",LL,Lingüística Recomendada Não Aprovada -,,,
+2,440877/2026-1,PIERO LUIS ZANETTI EYBEN Universidade de Brasília,,"9,22",LL,Letras Recomendada Não Aprovada -,,,
+2,460234/2025-0,NAIARA SALES ARAUJO SANTOS Universidade Federal do Maranhão,,"9,11",LL,Letras Recomendada Não Aprovada -,,,
+2,441130/2026-7,OSCAR ARMANDO HERNANDEZ MORALES Universidade Federal do Pará,,"8,47",MA,Matemática Recomendada Não Aprovada -,,,
+2,440570/2026-3,JONISON LUCAS DOS SANTOS CARVALHO Universidade Federal de Sergipe,,"8,26",MA,Matemática Recomendada Não Aprovada -,,,
+2,441144/2026-8,ANGELA LEITE MORENO Universidade Federal de Alfenas,,"8,66",MA,Matemática Recomendada Não Aprovada -,,,
+2,440970/2026-1,ANTONIO JOSE DA SILVA Universidade Federal do Maranhão,,"6,78",MA,Matemática Recomendada Não Aprovada -,,,
+2,440334/2026-8,RUFFO FREITAS-JUNIOR Universidade Federal de Goiás,,"9,33",MD,Medicina Recomendada Não Aprovada -,,,
+2,440659/2026-4,HELOISA OLIVEIRA MAGALHAES BELCHIOR SOCIEDADE BRASILEIRA DE MASTOLOGIA - REGIONAL CEARA,,"8,33",MD,Medicina Recomendada Não Aprovada -,,,
+2,441076/2026-2,MARCO STEPHAN LOFRANO ALVES Sociedade Brasileira de Cardiologia,,"8,61",MD,Medicina Recomendada Não Aprovada -,,,
+2,440024/2026-9,JAYME ADRIANO FARINA JUNIOR Sociedade Brasileira de Queimaduras,,"9,67",MD,Medicina Recomendada Não Aprovada -,,,
+2,440187/2026-5,ELIZABETH SILAID MUXFELDT Sociedade Brasileira de Hipertensão,,"9,67",MD,Medicina Recomendada Não Aprovada -,,,
+2,440923/2026-3,FLAVIO EDUARDO NACUL Associação de Medicina Intensiva Brasileira,,"9,90",MD,Medicina Recomendada Não Aprovada -,,,
+2,440977/2026-6,MARTIN HERNAN BONAMINO Associação Brasileira de Terapia Celular,,"8,44",MD,Medicina Recomendada Não Aprovada -,,,
+2,440114/2026-8,MARCO ANDREY CIPRIANI FRADE Sociedade Brasileira de Hansenologia,,"9,94",MD,Medicina Recomendada Não Aprovada -,,,
+2,440885/2026-4,CARLOS ROBERTO BRITES ALVES Universidade Federal da Bahia,,"8,67",MD,Medicina Recomendada Não Aprovada -,,,
+2,440327/2026-1,GUSTAVO HENRIQUE SANTOS PEREIRA Grupo de Fígado do Rio de Janeiro,,"8,67",MD,Medicina Recomendada Não Aprovada -,,,
+2,441092/2026-8,RUBENILSON CALDAS VALOIS Fundação HEMOPA,,"8,50",MD,Medicina Recomendada Não Aprovada -,,,
+2,440558/2026-3,ENRICO GHIZONI Universidade Estadual de Campinas,,"8,11",MD,Medicina Recomendada Não Aprovada -,,,
+2,440631/2026-2,BEATRIZ ELIZABETH BAGATIN VELEDA BERMUDEZ Universidade Federal do Paraná,,"8,39",MD,Medicina Recomendada Não Aprovada -,,,
+2,460121/2025-1,ANTONIO EGIDIO NARDI Universidade Federal do Rio de Janeiro,,"8,89",MD,Medicina Recomendada Não Aprovada -,,,
+2,440690/2026-9,LUCIANA RODRIGUES SILVA Universidade Federal da Bahia,,"8,00",MD,Medicina Recomendada Não Aprovada -,,,
+2,441051/2026-0,ELIANA DE TOLEDO ISHIBASHI Universidade Estadual de Campinas,,"7,40",MS,Educação Física Recomendada Não Aprovada -,,,
+2,440330/2026-2,RUBENS ANTONIO GURGEL VIEIRA Universidade Federal de Lavras,,"7,30",MS,Educação Física Recomendada Não Aprovada -,,,
+2,440204/2026-7,LEONARDO VIDAL ANDREATO Centro de Ensino Superior de Maringá,,"8,10",MS,Educação Física Recomendada Não Aprovada -,,,
+2,460135/2025-2,"PABLO TEIXEIRA SALOMAO Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul",,"7,50",MS,Educação Física Recomendada Não Aprovada -,,,
+2,440646/2026-0,ROMILSON AUGUSTO DOS SANTOS Universidade Federal da Bahia,,"8,00",MS,Educação Física Recomendada Não Aprovada -,,,
+2,440779/2026-0,LETICIA BARTHOLOMEU DE QUEIROZ LIMA Universidade Federal do Paraná,,"7,80",MS,Educação Física Recomendada Não Aprovada -,,,
+2,440191/2026-2,PAULO HENRIQUE BORGES Universidade Federal de Santa Catarina,,"7,60",MS,Educação Física Recomendada Não Aprovada -,,,
+2,440180/2026-0,FLAVIO ANTONIO DE SOUZA CASTRO Universidade Federal do Rio Grande do Sul,,"7,90",MS,Educação Física Recomendada Não Aprovada -,,,
+2,440451/2026-4,MAURO VIRGILIO GOMES DE BARROS Universidade de Pernambuco,,"7,70",MS,Educação Física Recomendada Não Aprovada -,,,
+2,441208/2026-6,IVAN GREGORIO SILVA MIGUEL Universidade Federal do Rio Grande,,"8,30",MS,Educação Física Recomendada Não Aprovada -,,,
+2,441044/2026-3,JOSE MARQUES NOVO JUNIOR Universidade Federal de São Carlos,,"8,20",MS,Educação Física Recomendada Não Aprovada -,,,
+2,440367/2026-3,LAURA FERREIRA DE REZENDE FRANCO ASSOCIACAO BRASILEIRA DE FISIOTERAPIA EM ONCOLOGIA - ABFO,,"8,32",MS,Fisioterapia e Terapia Ocupacional Recomendada Não Aprovada -,,,
+2,440066/2026-3,PAULO HENRIQUE ALTRAN VEIGA Sociedade Brasileira de Fisioterapia,,"8,25",MS,Fisioterapia e Terapia Ocupacional Recomendada Não Aprovada -,,,
+2,440388/2026-0,CARLOS ALBERTO EIRAS GARCIA Universidade Federal do Ceará,,"8,11",OC,Oceanografia Recomendada Não Aprovada -,,,
+2,441031/2026-9,EDUARDO PIZA PELLIZZER Grupo Brasileiro de Reciclagem em Prótese e Implan,,"9,93",OD,Odontologia Recomendada Não Aprovada -,,,
+2,440343/2026-7,DANIEL DE ALMEIDA DECURCIO Associação de Endodontia Brasileira,,"9,95",OD,Odontologia Recomendada Não Aprovada -,,,
+2,440589/2026-6,JOSE ANTONIO POLI DE FIGUEIREDO Universidade Federal do Rio Grande do Sul,,"9,94",OD,Odontologia Recomendada Não Aprovada -,,,
+2,460159/2025-9,LUZINEIDE WANDERLEY TINOCO Universidade Federal de Mato Grosso do Sul,,"8,80",QU,Química Recomendada Não Aprovada -,,,
+2,440500/2026-5,GLEISON AUGUSTO DOS SANTOS Universidade Federal de Viçosa,,"9,12",RF,Recursos Florestais e Engenharia Florestal Recomendada Não Aprovada -,,,
+2,440548/2026-8,PAULO GUSTAVO VON KRUGER Universidade Federal de Minas Gerais,,"8,94",SA,Arquitetura e Urbanismo Recomendada Não Aprovada -,,,
+2,440572/2026-6,DIOGENES FELIX DA SILVA COSTA Universidade Federal do Rio Grande do Norte,,"9,98",SA,Geociências Recomendada Não Aprovada -,,,
+2,440127/2026-2,CHARLLES DA FRANCA ANTUNES Universidade Federal da Bahia,,"10,00",SA,Geografia Recomendada Não Aprovada -,,,
+2,440208/2026-2,FABIOLA CASTELO DE SOUZA CORDOVIL Universidade Estadual de Maringá,,"8,94",SA,Arquitetura e Urbanismo Recomendada Não Aprovada -,,,
+2,440246/2026-1,TATIANA SOUZA DE CAMARGO Universidade Federal do Rio Grande do Sul,,"8,11",SN,Saúde Coletiva Recomendada Não Aprovada -,,,
+2,440622/2026-3,MARTA INEZ MACHADO VERDI Universidade do Estado do Amazonas,,"10,00",SN,Saúde Coletiva Recomendada Não Aprovada -,,,
+2,460024/2025-6,STELA NAZARETH MENEGHEL,,"7,00",SN,Saúde Coletiva Recomendada Não Aprovada -,,,
+2,440423/2026-0,CARLOS HENRIQUE CAMARGO Instituto Adolfo Lutz,,"7,33",SN,Saúde Coletiva Recomendada Não Aprovada -,,,
+2,460150/2025-1,JAIRO DOMINGOS DE MORAIS Universidade da Integração Internacional da Lusofonia Afro-Brasileira,,"8,33",SN,Saúde Coletiva Recomendada Não Aprovada -,,,
+2,440846/2026-9,LUCIANA PAULA CADORE STEFANI Hospital de Clínicas de Porto Alegre,,"8,00",SN,Saúde Coletiva Recomendada Não Aprovada -,,,
+2,440857/2026-0,MARIANA OLIVIA SANTANA DOS SANTOS Fundação Oswaldo Cruz,,"8,05",SN,Saúde Coletiva Recomendada Não Aprovada -,,,
+2,440224/2026-8,LOURDES CONCEICAO MARTINS Universidade Católica de Santos,,"7,67",SN,Saúde Coletiva Recomendada Não Aprovada -,,,
+2,440034/2026-4,BETANIA DA MATA RIBEIRO GOMES Universidade de Pernambuco,,"8,50",SN,Saúde Coletiva Recomendada Não Aprovada -,,,
+2,441039/2026-0,URSULA DA SILVEIRA MATTE Hospital de Clínicas de Porto Alegre,,"8,09",SN,Saúde Coletiva Recomendada Não Aprovada -,,,
+2,460044/2025-7,PAULO ALESCIO CANOLA Universidade Estadual Paulista Júlio de Mesquita Filho,,"9,37",VT,Medicina Veterinária Recomendada Não Aprovada -,,,
+2,440871/2026-3,TAINARA MICAELE BEZERRA PEIXOTO Associação Médica do Paraná,,"9,01",VT,Medicina Veterinária Recomendada Não Aprovada -,,,
+3,440826/2026-8,ELIZABETH MOTTA JACOB Universidade Federal do Rio de Janeiro,,"8,56",AC,Artes Recomendada Não Aprovada -,,,
+3,441244/2026-2,RAVI SHANKAR MAGNO VIANA DOMINGUES Universidade Federal da Paraíba,,"7,63",AC,Artes Recomendada Não Aprovada -,,,
+3,440091/2026-8,PEDRO HENRIQUE VARONI DE CARVALHO Universidade Federal de São Carlos,,"7,17",AC,Artes Recomendada Não Aprovada -,,,
+3,460117/2025-4,ALLAN SOLJENITSIN BARRETO RODRIGUES Universidade Federal do Amazonas,,"9,11",AC,Comunicação Recomendada Não Aprovada -,,,
+3,440812/2026-7,JAIRO GETULIO FERREIRA Universidade Federal da Bahia,,"9,00",AC,Comunicação Recomendada Não Aprovada -,,,
+3,460188/2025-9,MARCELO FERNANDES Sociedade Brasileira de Finanças,,"9,00",AE,Economia Recomendada Não Aprovada -,,,
+3,441008/2026-7,OSCARLINA LUCIA DOS SANTOS WEBER Universidade Federal de Mato Grosso,,"7,65",AG,Agronomia Recomendada Não Aprovada -,,,
+3,440682/2026-6,ANA LIGIA BARBOUR SCOTT Universidade Federal do ABC,,"9,90",BF,Biofísica Recomendada Não Aprovada -,,,
+3,441038/2026-3,CASSIANO FELIPPE GONCALVES DE ALBUQUERQUE Universidade Federal do Estado do Rio de Janeiro,,"9,80",BF,Farmacologia Recomendada Não Aprovada -,,,
+3,440359/2026-0,JOSIANE BUDNI Universidade do Extremo Sul Catarinense,,"9,50",BF,Fisiologia Recomendada Não Aprovada -,,,
+3,440796/2026-1,ADRIANE REGINA TODESCHINI Universidade Federal do Rio de Janeiro,,"10,00",BF,Bioquímica Recomendada Não Aprovada -,,,
+3,440196/2026-4,LETICIA DE OLIVEIRA Universidade Federal Fluminense,,"9,70",BF,Fisiologia Recomendada Não Aprovada -,,,
+3,441253/2026-1,GABRIELA NESTAL DE MORAES Universidade Federal do Rio de Janeiro,,"9,60",BF,Bioquímica Recomendada Não Aprovada -,,,
+3,441136/2026-5,KLEBER ABREU SOUSA Universidade Federal do Tocantins,,"9,23",BI,Biotecnologia Recomendada Não Aprovada -,,,
+3,440767/2026-1,LUCIANA DE OLIVEIRA ANDRADE Universidade Federal de Minas Gerais,,"9,39",BI,Biotecnologia Recomendada Não Aprovada -,,,
+3,440008/2026-3,KIYOSHI FERREIRA FUKUTANI Universidade Estadual de Feira de Santana,,"9,41",BI,Biotecnologia Recomendada Não Aprovada -,,,
+3,460238/2025-6,ANDREIMAR MARTINS SOARES Fundação Oswaldo Cruz,,"9,20",BI,Biotecnologia Recomendada Não Aprovada -,,,
+3,441063/2026-8,AMILCAR SABINO DAMAZO Universidade de Brasília,,"9,22",BI,Biotecnologia Recomendada Não Aprovada -,,,
+3,441203/2026-4,CARLOS EDUARDO LOPES DA SILVA Universidade Federal do Rio de Janeiro,,"9,20",CA,Ciências Ambientais Recomendada Não Aprovada -,,,
+3,440372/2026-7,DILMA MARIA DE BRITO MELO TROVAO Instituto Nacional do Semiárido,,"9,30",CA,Ciências Ambientais Recomendada Não Aprovada -,,,
+3,440081/2026-2,CLARISSA BUENO WANDSCHEER Centro de Pesquisa da Universidade Positivo,,"9,00",CA,Ciências Ambientais Recomendada Não Aprovada -,,,
+3,441222/2026-9,ELVIS CARISSIMI Universidade Federal de Santa Maria,,"9,10",CA,Ciências Ambientais Recomendada Não Aprovada -,,,
+3,440042/2026-7,FABIO MIGUEL JUNGES ICOLAB - INSTITUTO DE GESTAO TECNOLOGIA E INOVACAO,,"7,40",CC,Ciência da Computação Recomendada Não Aprovada -,,,
+3,441287/2026-3,MARCIA JACYNTHA NUNES RODRIGUES LUCENA Universidade Federal do Rio Grande do Norte,,"7,00",CC,Ciência da Computação Recomendada Não Aprovada -,,,
+3,440544/2026-2,JEAN EVERSON MARTINA Universidade Federal de Santa Catarina,,"7,28",CC,Ciência da Computação Recomendada Não Aprovada -,,,
+3,440611/2026-1,GABRIEL DE MORAIS COUTINHO Universidade Federal de Minas Gerais,,"7,50",CC,Ciência da Computação Recomendada Não Aprovada -,,,
+3,440911/2026-5,GABRIEL AVILA CASALECCHI Universidade Federal de São Carlos,,"8,89",CS,Ciência Política Recomendada Não Aprovada -,,,
+3,441166/2026-1,WAGNER MENEZES Universidade do Estado do Rio de Janeiro,,"9,01",CS,Direito Recomendada Não Aprovada -,,,
+3,440507/2026-0,SILVIA APARECIDA ZIMMERMANN Universidade Federal Rural do Rio de Janeiro,,"8,00",CS,Sociologia Recomendada Não Aprovada -,,,
+3,440785/2026-0,STELIO JOAO RODRIGUES Instituto Brasileiro de Iniciação Científica,,"7,22",DC,Divulgação Científica Recomendada Não Aprovada -,,,
+3,440735/2026-2,ROCHEL MONTERO LAGO Centro Educa Mais Professor Ribamar Torres,,"8,22",DC,Divulgação Científica Recomendada Não Aprovada -,,,
+3,441096/2026-3,EVERALDO DOS SANTOS INSTITUTO FEDERAL DO PARANA,,"8,22",ED,Educação Recomendada Não Aprovada -,,,
+3,441220/2026-6,JAIRO LUIS FLECK FALCAO Universidade do Estado de Mato Grosso,,"7,28",ED,Educação Recomendada Não Aprovada -,,,
+3,441143/2026-1,ROGERIO ANDRADE MACIEL Universidade Federal do Pará,,"8,83",ED,Educação Recomendada Não Aprovada -,,,
+3,440549/2026-4,THOMAS MASSAO FAIRCHILD Universidade Federal do Pará,,"8,89",ED,Educação Recomendada Não Aprovada -,,,
+3,440869/2026-9,DANILO SEITHI KATO Universidade de São Paulo,,"7,89",ED,Educação Recomendada Não Aprovada -,,,
+3,440512/2026-3,IVANILDE APOLUCENO DE OLIVEIRA Universidade do Estado do Pará,,"7,56",ED,Educação Recomendada Não Aprovada -,,,
+3,440800/2026-9,CARLA REGINA SILVA Universidade Federal de São Carlos,,"7,89",ED,Educação Recomendada Não Aprovada -,,,
+3,441269/2026-5,"ALINE CHAVES INTORNE Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro",,"7,78",ED,Educação Recomendada Não Aprovada -,,,
+3,441072/2026-7,MARIA DA CONCEICAO DOS REIS Universidade Federal de Pernambuco,,"7,89",ED,Educação Recomendada Não Aprovada -,,,
+3,440529/2026-3,FATIMA APARECIDA DE SOUZA Universidade Federal da Bahia,,"8,67",ED,Educação Recomendada Não Aprovada -,,,
+3,440605/2026-1,"ALESSANDRO SILVA DE OLIVEIRA Instituto Federal de Educação, Ciência e Tecnologia de Goiás",,"7,83",ED,Educação Recomendada Não Aprovada -,,,
+3,460194/2025-9,SUSANA COUTO PIMENTEL Universidade Federal do Recôncavo da Bahia,,"8,56",ED,Educação Recomendada Não Aprovada -,,,
+3,440554/2026-8,SUZANLI ESTEF Universidade do Estado do Rio de Janeiro,,"7,83",ED,Educação Recomendada Não Aprovada -,,,
+3,441318/2026-6,LIVIA DA CONCEICAO COSTA ZAQUEU Universidade Federal do Maranhão,,"8,28",ED,Educação Recomendada Não Aprovada -,,,
+3,440524/2026-1,DENIZE DE AGUIAR XAVIER SEPULVEDA Universidade do Estado do Rio de Janeiro,,"7,56",ED,Educação Recomendada Não Aprovada -,,,
+3,440639/2026-3,PAULO SERGIO FOCHI Universidade do Vale do Rio dos Sinos,,"8,61",ED,Educação Recomendada Não Aprovada -,,,
+3,440891/2026-4,"AVELINO ALDO DE LIMA NETO Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",,"8,83",ED,Educação Recomendada Não Aprovada -,,,
+3,440687/2026-8,"BRUNO RAFAEL COSTA VENANCIO DA SILVA Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte",,"7,33",ED,Educação Recomendada Não Aprovada -,,,
+3,460105/2025-6,RODRIGO ARANDA Universidade Federal de Rondonópolis,,"7,83",ED,Educação Recomendada Não Aprovada -,,,
+3,460034/2025-1,ROBERTA CHIESA BARTELMEBS Universidade Federal do Paraná,,"8,78",ED,Educação Recomendada Não Aprovada -,,,
+3,441241/2026-3,SONIA MARIA DA SILVA ARAUJO Universidade Federal do Pará,,"8,44",ED,Educação Recomendada Não Aprovada -,,,
+3,460134/2025-6,EDVONETE SOUZA DE ALENCAR Universidade de Brasília,,"8,11",ED,Educação Recomendada Não Aprovada -,,,
+3,440183/2026-0,AMANDA ANDRE DE MENDONCA Universidade do Estado do Rio de Janeiro,,"7,56",ED,Educação Recomendada Não Aprovada -,,,
+3,440493/2026-9,ANDREA BARBOSA GOUVEIA Universidade Federal do Paraná,,"8,78",ED,Educação Recomendada Não Aprovada -,,,
+3,440150/2026-4,MARCIA APARECIDA JACOMINI Universidade Federal de São Paulo,,"8,89",ED,Educação Recomendada Não Aprovada -,,,
+3,440056/2026-8,ROZANA APARECIDA LOPES MESSIAS Universidade Estadual Paulista Júlio de Mesquita Filho,,"7,61",ED,Educação Recomendada Não Aprovada -,,,
+3,460154/2025-7,WELBERTH SANTOS FERREIRA Universidade Estadual do Maranhão,,"8,50",ED,Educação Recomendada Não Aprovada -,,,
+3,440958/2026-1,THELMA LIMA DA CUNHA RAMOS Instituto Federal da Bahia,,"7,44",ED,Educação Recomendada Não Aprovada -,,,
+3,460163/2025-6,REGINA APARECIDA DA SILVA Universidade Federal de Rondonópolis,,"7,67",ED,Educação Recomendada Não Aprovada -,,,
+3,440135/2026-5,ALBERTO DE VITTA Universidade do Vale do Sapucaí,,"8,67",ED,Educação Recomendada Não Aprovada -,,,
+3,441165/2026-5,RITA DE CASSIA ALMEIDA VIEIRA Universidade Federal de Sergipe,,"8,24",EF,Enfermagem Recomendada Não Aprovada -,,,
+3,441246/2026-5,CAROLINA CABRAL PEREIRA DA COSTA Universidade do Estado do Rio de Janeiro,,"7,89",EF,Enfermagem Recomendada Não Aprovada -,,,
+3,440967/2026-0,FERNANDA DE NAZARE ALMEIDA COSTA Universidade do Estado do Pará,,"8,06",EF,Enfermagem Recomendada Não Aprovada -,,,
+3,440827/2026-4,GLAUBER JOSE FERREIRA TOMAZ DA SILVA Universidade Federal de Alagoas,,"8,33",FA,Física Recomendada Não Aprovada -,,,
+3,440709/2026-1,TIAGO PESSOA FERREIRA DE LIMA Instituto Federal de Pernambuco - Campus Palmares,,"7,72",FA,Física Recomendada Não Aprovada -,,,
+3,440378/2026-5,TALITA ROSAS FERREIRA Centro Nacional de Pesquisa em Energia e Materiais,,"8,39",FA,Física Recomendada Não Aprovada -,,,
+3,440376/2026-2,THIAGO LUCENA DE MACEDO GUEDES Universidade Federal do Rio Grande do Norte,,"7,89",FA,Física Recomendada Não Aprovada -,,,
+3,440010/2026-8,JUAN BAPTISTA DE SOUZA LEITE Centro Brasileiro de Pesquisas Físicas,,"8,00",FA,Física Recomendada Não Aprovada -,,,
+3,440364/2026-4,LEIDE LENE COELHO FERREIRA Instituto Vital Brazil,,"8,00",FR,Farmácia Recomendada Não Aprovada -,,,
+3,441090/2026-5,CAIO PINHO FERNANDES Universidade Federal do Amapá,,"8,20",FR,Farmácia Recomendada Não Aprovada -,,,
+3,441012/2026-4,RUY CARLOS RUVER BECK Universidade Federal do Rio Grande do Sul,,"9,00",FR,Farmácia Recomendada Não Aprovada -,,,
+3,440402/2026-3,CAUE BENITO SCARIM Universidade Estadual Paulista Júlio de Mesquita Filho,,"7,40",FR,Farmácia Recomendada Não Aprovada -,,,
+3,440456/2026-6,ALEX GUTTERRES TARANTO Universidade Federal de São João Del-Rei,,"8,40",FR,Farmácia Recomendada Não Aprovada -,,,
+3,440184/2026-6,YUSSEF DAIBERT SALOMAO DE CAMPOS Universidade Federal de Goiás,,"7,56",HI,História Recomendada Não Aprovada -,,,
+3,440745/2026-8,ANTONIO LIBERAC CARDOSO SIMOES PIRES Universidade Federal do Recôncavo da Bahia,,"7,94",HI,História Recomendada Não Aprovada -,,,
+3,440361/2026-5,ELIAS FERREIRA VERAS Universidade Federal de Alagoas,,"7,78",HI,História Recomendada Não Aprovada -,,,
+3,441272/2026-6,FERNANDO AUGUSTO DE LIMA OLIVEIRA Universidade de Pernambuco,,"7,00",LL,Lingüística Recomendada Não Aprovada -,,,
+3,440947/2026-0,PAULO DA SILVA LIMA Universidade Federal do Maranhão,,"7,97",LL,Lingüística Recomendada Não Aprovada -,,,
+3,441239/2026-9,SUELLEN THOMAZ DE AQUINO MARTINS Universidade Federal do Sul da Bahia,,"7,90",LL,Lingüística Recomendada Não Aprovada -,,,
+3,440718/2026-0,SAMUEL CARLOS MELO Universidade Estadual de Goiás,,"8,62",LL,Letras Recomendada Não Aprovada -,,,
+3,440299/2026-8,HELOISA HELENA SIQUEIRA CORREIA Universidade Federal de Rondônia,,"9,24",LL,Letras Recomendada Não Aprovada -,,,
+3,440782/2026-0,CARLOS EDUARDO ORNELAS BERRIEL Universidade Estadual de Campinas,,"9,00",LL,Letras Recomendada Não Aprovada -,,,
+3,440698/2026-0,SILVANA MARIA PANTOJA DOS SANTOS Universidade Estadual do Maranhão,,"8,81",LL,Letras Recomendada Não Aprovada -,,,
+3,440889/2026-0,MARCIO CAVALCANTE DE MELO Universidade Federal de Alagoas,,"8,69",MA,Matemática Recomendada Não Aprovada -,,,
+3,440677/2026-2,DAIANE DE SOUZA SANTOS Universidade de São Paulo,,"8,28",MA,Probabilidade e Estatística Recomendada Não Aprovada -,,,
+3,441248/2026-8,VALTER BORGES SAMPAIO JUNIOR Universidade Federal do Pará,,"8,64",MA,Matemática Recomendada Não Aprovada -,,,
+3,441294/2026-0,GILCELIA REGIANE DE SOUZA Universidade Federal de São João Del-Rei,,"8,58",MA,Matemática Recomendada Não Aprovada -,,,
+3,440696/2026-7,BERNARDO FREITAS PAULO DA COSTA Fundação Getúlio Vargas,,"8,61",MA,Matemática Recomendada Não Aprovada -,,,
+3,441198/2026-0,LUIZ FERNANDO FERRAZ DA SILVA Universidade de São Paulo,,"8,01",MD,Medicina Recomendada Não Aprovada -,,,
+3,440496/2026-8,TIAGO GOSS DOS SANTOS Fundação Antônio Prudente,,"8,33",MD,Medicina Recomendada Não Aprovada -,,,
+3,441060/2026-9,LEONARDO OLIVEIRA REIS Pontifícia Universidade Católica de Campinas,,"8,14",MD,Medicina Recomendada Não Aprovada -,,,
+3,440598/2026-5,SILVIA FIGUEIREDO COSTA Universidade de São Paulo,,"8,61",MD,Medicina Recomendada Não Aprovada -,,,
+3,440691/2026-5,MELYSSA FERNANDA NORMAN NEGRI Universidade Estadual de Maringá,,"8,52",MD,Medicina Recomendada Não Aprovada -,,,
+3,440077/2026-5,ALLYSON GUIMARAES DA COSTA Universidade Federal do Amazonas,,"9,89",MD,Medicina Recomendada Não Aprovada -,,,
+3,440221/2026-9,LUIZ GUSTAVO OLIVEIRA BRITO Universidade Federal de Minas Gerais,,"8,38",MD,Medicina Recomendada Não Aprovada -,,,
+3,440757/2026-6,MARIA IONE DA SILVA Universidade do Estado do Rio Grande do Norte,,"7,80",MS,Educação Física Recomendada Não Aprovada -,,,
+3,440363/2026-8,VITOR HUGO MARANI Universidade Federal de Goiás,,"8,10",MS,Educação Física Recomendada Não Aprovada -,,,
+3,440773/2026-1,JULIA BARREIRA AUGUSTO Universidade Estadual de Campinas,,"8,50",MS,Educação Física Recomendada Não Aprovada -,,,
+3,440519/2026-8,FELIPE RODRIGUES DA COSTA Universidade de Brasília,,"8,70",MS,Educação Física Recomendada Não Aprovada -,,,
+3,440732/2026-3,CARLOS ROBERTO BUENO JUNIOR Universidade de São Paulo,,"7,90",MS,Educação Física Recomendada Não Aprovada -,,,
+3,441137/2026-1,ALINE DE FREITAS BRITO Universidade de Pernambuco,,"8,80",MS,Educação Física Recomendada Não Aprovada -,,,
+3,441243/2026-6,LUCIO CARLOS DIAS OLIVEIRA Universidade Federal do Maranhão,,"8,30",MS,Educação Física Recomendada Não Aprovada -,,,
+3,440443/2026-1,BILLY GRAEFF BASTOS Universidade Federal da Paraíba,,"8,00",MS,Educação Física Recomendada Não Aprovada -,,,
+3,441175/2026-0,MAURICIO DOS SANTOS DE OLIVEIRA Universidade Federal do Espírito Santo,,"8,20",MS,Educação Física Recomendada Não Aprovada -,,,
+3,460231/2025-1,KELLY DE JESUS Universidade Federal do Amazonas,,"8,40",MS,Educação Física Recomendada Não Aprovada -,,,
+3,440978/2026-2,HUGO DE LUCA CORREA Universidade Católica de Brasília,,"8,60",MS,Educação Física Recomendada Não Aprovada -,,,
+3,440737/2026-5,CARLOS CRISTIANO ESPEDITO GUZZO JUNIOR Universidade do Estado do Pará,,"7,63",MS,Educação Física Recomendada Não Aprovada -,,,
+3,440029/2026-0,DULCE MARIA FILGUEIRA DE ALMEIDA DONNICI Universidade de Brasília,,"9,00",MS,Educação Física Recomendada Não Aprovada -,,,
+3,440096/2026-0,ANA PAULA SERRATA MALFITANO Universidade Federal de São Carlos,,"8,75",MS,Fisioterapia e Terapia Ocupacional Recomendada Não Aprovada -,,,
+3,440932/2026-2,PATRICIA SILVA TOFANI Associação Brasileira de Fisioterapia em Gerontolo,,"9,15",MS,Fisioterapia e Terapia Ocupacional Recomendada Não Aprovada -,,,
+3,440585/2026-0,DANIELLA ALVES VENTO Universidade Estadual de Goiás,,"8,90",MS,Fisioterapia e Terapia Ocupacional Recomendada Não Aprovada -,,,
+3,440681/2026-0,FLAVIA RAQUEL FERNANDES DO NASCIMENTO Universidade Federal do Maranhão,,"6,78",PE,Engenharia de Transportes Recomendada Não Aprovada -,,,
+3,441139/2026-4,ENZO BARBERIO MARIANO Universidade Estadual Paulista Júlio de Mesquita Filho,,"6,83",PE,Engenharia de Produção Recomendada Não Aprovada -,,,
+3,441212/2026-3,ISOMAR LIMA DA SILVA Fundação Nilton Lins,,"9,43",RF,Recursos Florestais e Engenharia Florestal Recomendada Não Aprovada -,,,
+3,440381/2026-6,JOELMA KEITH RODRIGUES Centro de Educação Tecnológica do Amazonas,,"8,44",RF,Recursos Florestais e Engenharia Florestal Recomendada Não Aprovada -,,,
+3,441018/2026-2,PATRICIA ANJOS BITTENCOURT BARRETO-GARCIA Universidade Estadual do Sudoeste da Bahia,,"9,11",RF,Recursos Florestais e Engenharia Florestal Recomendada Não Aprovada -,,,
+3,440387/2026-4,FERNANDO JOSE BORGES GOMES Universidade Federal Rural do Rio de Janeiro,,"8,11",RF,Recursos Florestais e Engenharia Florestal Recomendada Não Aprovada -,,,
+3,440068/2026-6,RAFAEL FARINASSI MENDES Universidade Federal de Lavras,,"9,44",RF,Recursos Florestais e Engenharia Florestal Recomendada Não Aprovada -,,,
+3,440547/2026-1,LUCIA TONE FERREIRA HIDAKA Universidade Federal de Alagoas,,"8,78",SA,Arquitetura e Urbanismo Recomendada Não Aprovada -,,,
+3,440734/2026-6,MARCIA SPEGUEN DE QUADROS PICCOLI Universidade de Caxias do Sul,,"7,51",SA,Turismo Recomendada Não Aprovada -,,,
+3,441292/2026-7,VIVIANE DE OLIVEIRA FREITAS LIONE Universidade Federal do Rio de Janeiro,,"8,89",SN,Saúde Coletiva Recomendada Não Aprovada -,,,
+3,440664/2026-8,CLAUDIO MAURICIO VIEIRA DE SOUZA Instituto Vital Brazil,,"8,22",SN,Saúde Coletiva Recomendada Não Aprovada -,,,
+3,440161/2026-6,JARLEI FIAMONCINI Universidade de São Paulo,,"8,00",SN,Nutrição Recomendada Não Aprovada -,,,
+3,440417/2026-0,KARINA DOS SANTOS Universidade Federal do Estado do Rio de Janeiro,,"8,69",SN,Nutrição Recomendada Não Aprovada -,,,
+3,460191/2025-0,SAULO VASCONCELOS ROCHA Universidade Estadual do Sudoeste da Bahia,,"8,56",SN,Saúde Coletiva Recomendada Não Aprovada -,,,
