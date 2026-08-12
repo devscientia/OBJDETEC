@@ -5,13 +5,26 @@ from langchain_openai import ChatOpenAI
 from langchain_core.messages import SystemMessage, HumanMessage
 from langgraph.graph import StateGraph, END
 from langchain_community.tools import DuckDuckGoSearchRun
+from dotenv import load_dotenv
+
+# Take environment variables from .env.
+load_dotenv() 
+
+# Access them like normal system variables
+print(os.getenv("DB_USER"))
 
 # -----------------------
 # Config
 # -----------------------
-OPENAI_API_KEY = "YOUR_OPENAI_API_KEY"
+#OPENAI_API_KEY = "YOUR_OPENAI_API_KEY"
+
+# Por seguranca colocamos a chave na variavel de ambiente
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+
+
 if not OPENAI_API_KEY:
     raise RuntimeError("Set OPENAI_API_KEY in your environment.")
+
 
 # Choose a reliable, available model for your account
 # Options that are commonly available: "gpt-4o-mini", "gpt-4o", "gpt-3.5-turbo"
@@ -210,4 +223,4 @@ def run_research_agent(question: str):
     print("  Refinements:", final_state.get("refinement_count"))
 
 if __name__ == "__main__":
-    run_research_agent("List all e-mail address linked to ROBSON TAVARES NONATO?")
+    run_research_agent("O que faz a SISGEENCO Eventos Academicos?")
