@@ -40,6 +40,6 @@ for index, row in df_menor.iterrows():
     tabela_final.loc[len(tabela_final)] = {'id':index,'Candidato': final}
     
 
-tabela_final.to_csv('/workspaces/OBJDETEC/resultadoCNPQ_2026_04_tratado.csv', sep=',', index=False, encoding='utf-8')
+tabela_final.to_csv('/workspaces/OBJDETEC/resultado_CAPES_2026_04_tratado.csv', sep=',', index=False, encoding='utf-8')
 
     
