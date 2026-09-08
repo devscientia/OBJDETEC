@@ -48,35 +48,29 @@
         {
             let numeroAleatorio = Math.floor(Math.random() * 100) + 1;
             $('#live-container').html('-- numero -- ' + numeroAleatorio);
+            //carregaConteudo(id_loja)
+
         }, 1000); // refresh every 1000 milliseconds
 
 
-
-    function openModalParecerAutor(id_trabalho,chave_alterar,imagem,gt,titulo){
-                
-        var a=id_trabalho;
-                    
+    // Chamada de conteudo
+    function carregaConteudo(id_loja){
+                   
         $.ajax({
             type:'get',
             url:'trabalhos/conteudo_parecer.php',
-            data: {link_alterar: chave_alterar},
-            beforeSend:function(){
-                            
+            data: {codigo_loja: id_loja},
+            beforeSend:function(){           
 
             },
-            complete:function(){
-                            
+            complete:function(){           
             
             },
             success:function(result){
-                $('#titModalParecer').html('<img src="'  + imagem  + '" > | ' + id_trabalho +  ' | ' + titulo);
-                $('#conteudoModalParecer').html(result);
-                            
+                $('#live-container').html(result);
             }
         });// fim ajax				
-
-            $('#modalParecer').modal();
-    }    
+    }// fim open modal
 
 
 </script>
