@@ -223,4 +223,4 @@ def run_research_agent(question: str):
     print("  Refinements:", final_state.get("refinement_count"))
 
 if __name__ == "__main__":
-    run_research_agent("O que faz a SISGEENCO Eventos Academicos?")
+    run_research_agent("Preciso contatar uma pessoa da universidade chamada NATHAN BARROS que tem vinculo de docente para tirar duvidas sobre um conteudo academico. Como devo proceder para enviar uma mensagem eletronica para o lugar correto?")
