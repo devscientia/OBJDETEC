@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SPlayer - SISGEENCO Gestão Remota de Mídias">
+    <meta name="author" content="SPlayer - SISGEENCO Gestão Remota de Mídias">
+
+    <title>SPlayer - SISGEENCO Gestão Remota de Mídias</title>
+    <style>
+        #live-container {
+            padding: 0px;
+            background-color: #f4f4f4;
+            border: 1px solid #ccc;
+            width: 100%;
+            height: 200px;
+            margin-top: 20px;
+        }
+    </style>
+
+
+    <link rel="shortcut icon" href="https://www.sisgeenco.com.br/lib/images/favicon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.sisgeenco.com.br/lib/images/favicon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.sisgeenco.com.br/lib/images/favicon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.sisgeenco.com.br/lib/images/favicon.png">
+    <link rel="apple-touch-icon-precomposed" href="https://www.sisgeenco.com.br/lib/images/favicon.png">
+	
+
+</head>
+
+
+<body>
+
+    <h2>Live Server Data</h2>
+    <p>The container below refreshes automatically every 3 seconds:</p>
+
+    <!-- The content will be updated inside this specific div -->
+    <div id="live-container">Loading live data...</div>
+
+</body>
+
+
+<script type="text/javascript" src="jquery.min.js"></script>
+<script type="text/javascript">
+
+    var auto_refresh = setInterval(
+        function ()
+        {
+            let numeroAleatorio = Math.floor(Math.random() * 100) + 1;
+            $('#live-container').html('-- numero -- ' + numeroAleatorio);
+        }, 1000); // refresh every 1000 milliseconds
+
+
+
+    function openModalParecerAutor(id_trabalho,chave_alterar,imagem,gt,titulo){
+                
+        var a=id_trabalho;
+                    
+        $.ajax({
+            type:'get',
+            url:'trabalhos/conteudo_parecer.php',
+            data: {link_alterar: chave_alterar},
+            beforeSend:function(){
+                            
+
+            },
+            complete:function(){
+                            
+            
+            },
+            success:function(result){
+                $('#titModalParecer').html('<img src="'  + imagem  + '" > | ' + id_trabalho +  ' | ' + titulo);
+                $('#conteudoModalParecer').html(result);
+                            
+            }
+        });// fim ajax				
+
+            $('#modalParecer').modal();
+    }    
+
+
+</script>
+</html>
